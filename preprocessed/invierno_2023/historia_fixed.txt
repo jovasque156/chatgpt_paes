@@ -1,0 +1,1281 @@
+<head_foot>FORMA 121 - 2023
+<head_foot>FORMACIÓN CIUDADANA
+<id_question>1.
+<prompt>Lee el siguiente texto:
+<prompt>―Los chilenos y chilenas cada vez valoran más la democracia como la
+<prompt>única forma de gobierno, pero también están diciendo que la
+<prompt>democracia que tenemos funciona mal y no se sienten representados
+<prompt>[…] hay una muestra de que están con una sensación más profunda
+<prompt>de desesperanza en la capacidad de cambiar las cosas. La mayoría
+<prompt>de la gente dice que no ha hecho nada para cambiar las cosas y
+<prompt>cuando le preguntas qué pasaría si hiciera algo, responde que no
+<prompt>tendría ningún efecto o no serán escuchados. Las personas sienten
+<prompt>que la distancia con los representantes es tal, que aunque intenten
+<prompt>cambiar o que los escuchen, no los van a escuchar‖.
+<prompt>Ríos, M. (2015). Radiografía de la democracia en Chile: Hay mayor
+<prompt>desesperanza en la capacidad de cambiar las cosas. DiarioUchile.
+<prompt>https://radio.uchile.cl/2013/01/15/radiografia-de-la-democracia-
+<prompt>en-chile-hay-mayor-desesperanza-en-la-capacidad-de-cambiar-las-cosas/
+<prompt>La cita anterior da cuenta de una opinión crítica respecto de la
+<prompt>participación de los ciudadanos en el sistema democrático vigente en
+<prompt>Chile. A partir de la cita y del contexto de participación política actual,
+<prompt>es correcto afirmar que se manifiesta una
+<choice>A) carencia de movimientos sociales que representen demandas
+<choice>ciudadanas amplias.
+<choice>B) baja consideración de los valores democráticos por parte de la
+<choice>ciudadanía.
+<choice>C) inexistencia de medios de comunicación alternativos a los intereses de
+<choice>gobierno.
+<choice>D) escasa consideración de las opiniones de los ciudadanos en los
+<choice>programas de partidos políticos.
+<choice>E) mantención de la opinión favorable a la necesidad de gobiernos
+<choice>autoritarios pero eficientes.
+<head_foot>- 3 -
+<head_foot>FORMA 121 - 2023
+<id_question>2.
+<prompt>Lee el siguiente texto:
+<prompt>―29 de Septiembre de 2015.
+<prompt>ASAMBLEA GENERAL DE LA ONU: CHILE COMPROMETE
+<prompt>REDUCCIÓN DE UN 30 % DE EMISIÓN DE GASES DE EFECTO
+<prompt>INVERNADERO AL AÑO 2030.
+<prompt>De obtenerse financiamiento internacional, esta meta podría aumentar
+<prompt>hasta un 45 % de reducciones de emisiones de CO por unidad de PIB.
+<prompt>2
+<prompt>El compromiso incluye también el manejo sustentable y la recuperación
+<prompt>de 100 mil hectáreas de bosque, principalmente nativo, para la captura
+<prompt>de casi 600 mil toneladas de CO equivalente anuales‖.
+<prompt>2
+<prompt>Aqua. (2015). Asamblea General de la ONU: Chile compromete
+<prompt>reducción de un 30 % de emisión de gases de efecto invernadero al año 2030.
+<prompt>https://www.aqua.cl/2015/09/29/ante-la-onu-chile-se-compromete-a-reducir-en-un-30-los-gases-de-efecto-invernadero-al-2030/.(Adaptación).
+<prompt>A partir de la información contenida en la noticia anterior, ¿a cuál de los
+<prompt>siguientes desafíos contribuye Chile al asumir este compromiso?
+<choice>A) A diversificar la industria forestal.
+<choice>B) A superar el desabastecimiento energético.
+<choice>C) A combatir el proceso de desertificación mundial.
+<choice>D) A aumentar la superficie de las reservas naturales.
+<choice>E) A moderar el incremento de las temperaturas del planeta.
+<head_foot>- 4 -
+<head_foot>FORMA 121 - 2023
+<id_question>3.
+<prompt>Lee el siguiente texto:
+<prompt>―Según el estudio [Panorama de la educación 2017] elaborado por la
+<prompt>OCDE, en Chile la cifra de jóvenes que no estudian ni trabajan alcanza el
+<prompt>21 % de la población entre 15 y 29 años, por sobre el promedio de la
+<prompt>organización que es de un 15 %.
+<prompt>Asimismo, el informe reveló que nuestro país ocupa el cuarto lugar a
+<prompt>nivel mundial con más jóvenes en esta categoría que, según datos de la
+<prompt>Encuesta Casen, supera las 544 mil personas‖.
+<prompt>Salas, A. (12 de enero de 2018). ―Ninis‖ en Chile: ¿Quiénes son los más de 500 mil jóvenes
+<prompt>que ni estudian ni trabajan? Emol.
+<prompt>https://www.emol.com/noticias/Nacional/2018/01/12/891026/Ninis-en-Chile-Quienes-son-los-mas-de-500-mil-jovenes-que-ni-estudian-ni-trabajan.html
+<prompt>El texto muestra la cantidad de jóvenes que no trabaja ni estudia en
+<prompt>Chile en el año 2017. En relación con estas cifras, ¿qué efecto tiene
+<prompt>esta situación en el ámbito laboral?
+<choice>A) Un incremento paulatino del sueldo mínimo.
+<choice>B) Un aumento de la flexibilización laboral.
+<choice>C) Una menor demanda de mano de obra calificada.
+<choice>D) Una mayor rotación en los puestos de trabajo.
+<choice>E) Una mayor dependencia de la población económicamente activa.
+<head_foot>- 5 -
+<head_foot>FORMA 121 - 2023
+<id_question>4.
+<prompt>Lee el siguiente texto:
+<prompt>―Tras una discusión que se inició cerca de las 11 horas, la Cámara de
+<prompt>Diputados aprobó por amplia mayoría —en el tercer trámite
+<prompt>constitucional— los artículos que fueron modificados en la tramitación
+<prompt>que realizó el Senado, con lo que el proyecto de reforma Electoral que
+<prompt>pone fin al sistema binominal y lo reemplaza por uno de carácter
+<prompt>proporcional, quedó en condiciones de ser promulgado como ley,
+<prompt>fortaleciendo la representatividad del Congreso Nacional. […] Los
+<prompt>objetivos que busca el Ejecutivo con esta iniciativa apuntan a reducir la
+<prompt>desigualdad del voto, permitir la inclusión de todas las corrientes políticas
+<prompt>significativas, aumentar la competitividad respecto de quienes resulten
+<prompt>elegidos, incentivar la participación femenina, facilitar la expresión de la
+<prompt>mayoría y las minorías, promover un Congreso que refleje la diversidad
+<prompt>de la sociedad, y evitar que queden fuera candidatos con grandes
+<prompt>votaciones‖.
+<prompt>Gobierno de Chile. (2015). Cámara aprobó en tercer trámite el fin del sistema binominal.
+<prompt>https://www.interior.gob.cl/noticias/2015/01/20/camara-discute-en-tercer-tramite-fin-del-sistema-binominal/
+<prompt>El párrafo anterior evidencia la importancia de la superación de algunas
+<prompt>limitaciones que enfrentaba el sistema electoral en Chile. Al respecto,
+<prompt>los objetivos perseguidos con la modificación al sistema binominal se
+<prompt>orientan a
+<choice>A) instaurar la democracia directa en los procesos eleccionarios.
+<choice>B) definir el número de candidatos en las elecciones municipales.
+<choice>C) fortalecer la representatividad política en el sistema electoral.
+<choice>D) promover la formación de dos bloques políticos.
+<choice>E) limitar la irrupción de nuevas fuerzas políticas.
+<head_foot>- 6 -
+<head_foot>FORMA 121 - 2023
+<id_question>5.
+<prompt>Lee el siguiente texto:
+<prompt>―FISCALÍA CONSIGUIÓ QUE CORTE REVOCARA ARRESTO
+<prompt>DOMICILIARIO Y DECRETA PRISIÓN PREVENTIVA CONTRA
+<prompt>IMPUTADO QUE AGREDIÓ A JOVEN EN MOSTAZAL
+<prompt>02/11/2013
+<prompt>Muy conformes con la decisión del tribunal de alzada, se mostró la
+<prompt>Fiscalía y los querellantes, tras los alegatos desarrollados en la Corte
+<prompt>de Apelaciones de Rancagua, en el marco de la causa de lesiones
+<prompt>graves gravísimas que sufrió un joven que fue brutalmente agredido en
+<prompt>la comuna de San Francisco de Mostazal que se encuentra en riesgo
+<prompt>vital.
+<prompt>Cabe señalar que el Ministerio Público debió recurrir a la Corte de
+<prompt>Apelaciones, dado que el Tribunal de Garantía de Graneros, en
+<prompt>audiencia de formalización de cargos contra el hasta ahora único
+<prompt>imputado, decidió no dar lugar a la prisión preventiva como medida
+<prompt>cautelar que solicitaba la Fiscalía, decretando solo el arresto domiciliario
+<prompt>total. […] Tras oír los argumentos de la Fiscalía [...] la Corte de
+<prompt>Apelaciones de Rancagua revocó por unanimidad la medida cautelar de
+<prompt>arresto domiciliario, decretando en su reemplazo, la prisión preventiva‖.
+<prompt>Ruz, L. (2 de noviembre de 2013). Decretan prisión preventiva contra imputado
+<prompt>por agredir a Wladimir Sepúlveda. biobiochile.cl. https://www.biobiochile.cl/noticias/
+<prompt>2013/11/02/decretan-prision-preventiva-contra-imputado-por-agredir-a-wladimir-sepulveda.shtml
+<prompt>A partir de la noticia anterior y en el contexto de la organización judicial
+<prompt>chilena, es posible inferir que una de las funciones que corresponde a
+<prompt>la Fiscalía es
+<choice>A) representar a las víctimas en un juicio.
+<choice>B) determinar la culpabilidad del acusado.
+<choice>C) proteger al imputado.
+<choice>D) decretar la prisión preventiva.
+<choice>E) establecer las medidas cautelares del juicio.
+<head_foot>- 7 -
+<head_foot>FORMA 121 - 2023
+<id_question>6.
+<prompt>Lee el siguiente texto:
+<prompt>―Los partidos chilenos, desde sus primeros días a mediados del siglo XIX,
+<prompt>han sido instituciones […] deliberadamente intrusas, que buscan
+<prompt>introducirse en lo hondo de los mecanismos de la sociedad civil. A medida
+<prompt>que distintos grupos políticos y sociales se movilizaron en diferentes
+<prompt>momentos en el curso de la vida de la república, los partidos han sido casi
+<prompt>siempre los mecanismos principales para canalizar y dar forma a los
+<prompt>intereses que surgían‖.
+<prompt>Scully, T. R. (1996). La institucionalización de los sistemas de partidos en
+<prompt>América Latina. En Mainwaring y S. Scully, T. (editores). (1996).
+<prompt>La Construcción de Instituciones Democráticas: Sistema de
+<prompt>Partidos enAmérica Latina. Stanford University Press.
+<prompt>El texto anterior hace alusión a la importancia que los partidos políticos
+<prompt>han tenido en nuestra historia republicana. En el contexto de la política
+<prompt>chilena, ¿cuál ha sido el rol que han cumplido los partidos políticos?
+<choice>A) Desarrollar los proyectos de ley que se discuten en el Parlamento.
+<choice>B) Implementar las políticas públicas con sus militantes y simpatizantes.
+<choice>C) Designar los puestos parlamentarios según la cantidad de votos.
+<choice>D) Representar a ciertos sectores sociales promoviendo sus ideas.
+<choice>E) Nombrar a los presidentes del Legislativo y del Poder Judicial.
+<id_question>7.
+<prompt>Un informe de la Organización para la Cooperación y el Desarrollo
+<prompt>Económicos (OCDE) publicado en 2015 ubicó a Chile como uno de los
+<prompt>países miembros más desiguales del mundo. En el mercado laboral,
+<prompt>esta condición se manifiesta, entre otros aspectos, en la existencia de
+<prompt>empleos precarios, las brechas de género y la expansión del sector
+<prompt>informal. Respecto a lo anterior, ¿cuál es una de las consecuencias
+<prompt>provocada por la situación descrita?
+<choice>A) La tendencia a la transformación del modelo económico hacia un
+<choice>régimen proteccionista.
+<choice>B) La existencia de una gran cantidad de personas que trabajan sin
+<choice>garantía de derechos laborales.
+<choice>C) La ausencia de mecanismos de capacitación laboral permanente
+<choice>financiados por el Estado.
+<choice>D) La inexistencia de políticas públicas destinadas a corregir la inequidad
+<choice>de género.
+<choice>E) El aumento de la rotación laboral en los puestos de trabajo de la
+<choice>administración pública.
+<head_foot>- 8 -
+<head_foot>FORMA 121 - 2023
+<id_question>8.
+<prompt>Revisa la siguiente representación gráfica:
+<prompt>Consejo Nacional de Televisión
+<prompt>La representación muestra el inicio de la franja electoral de la elección
+<prompt>presidencial en Chile del 2017, la que difunde a nivel nacional las
+<prompt>diversas candidaturas por los canales de televisión de señal abierta. Al
+<prompt>respecto, ¿por qué es importante la realización de este procedimiento
+<prompt>en el contexto de la democracia chilena?
+<choice>A) Porque garantiza la transparencia del proceso electoral.
+<choice>B) Porque asegura el carácter secreto de la emisión del voto.
+<choice>C) Porque posibilita el ejercicio informado del derecho a voto.
+<choice>D) Porque permite el financiamiento de las campañas electorales.
+<choice>E) Porque revela las preferencias electorales de los medios televisivos.
+<head_foot>- 9 -
+<head_foot>FORMA 121 - 2023
+<id_question>9.
+<prompt>En la actualidad, diversos autores definen la participación ciudadana
+<prompt>como un derecho humano fundamental, por cuanto posibilitaría el
+<prompt>desarrollo de acciones individuales y colectivas que aportan a la
+<prompt>búsqueda de soluciones a problemáticas de interés general, para el
+<prompt>mejoramiento de la calidad de vida de la población. Entre los beneficios
+<prompt>que se buscan lograr a través de la participación ciudadana a nivel
+<prompt>municipal se cuenta
+<choice>A) el aumento de la confianza de los ciudadanos en el Estado.
+<choice>B) el fortalecimiento de la figura pública del Intendente.
+<choice>C) el incremento del control de la gestión del Poder Legislativo.
+<choice>D) el aumento de la legitimidad y gobernabilidad de los alcaldes.
+<choice>E) la mejora sustancial de la imagen de sindicatos y de sus líderes.
+<id_question>10.
+<prompt>Lee el siguiente texto:
+<prompt>―Entre los años 1975 y 2004, son los usos industriales y la urbanización
+<prompt>de alta densidad los que mayormente han ocupado las áreas que
+<prompt>formaban parte de los humedales. Es destacable, además, la gran
+<prompt>cantidad de hectáreas que son reemplazadas por sitios eriazos (suelo
+<prompt>desnudo urbano) entre 1990 y 2001, los que a menudo constituyen una
+<prompt>primera etapa, para la posterior instalación de las construcciones
+<prompt>urbanas‖.
+<prompt>Smith, P. y Romero, H. (2010). Efectos del Proceso de Urbanización sobre la calidad
+<prompt>ambiental de los Humedales del área Metropolitana de Concepción. Departamento de
+<prompt>Geografía, Universidad de Chile.
+<prompt>La cita expone parte de las conclusiones de un estudio realizado sobre
+<prompt>los efectos de los procesos de urbanización en la calidad ambiental de
+<prompt>los humedales de la ciudad de Concepción. En relación con lo anterior,
+<prompt>¿cuál es uno de los desafíos que tiene Chile para alcanzar un modelo
+<prompt>de desarrollo sustentable?
+<choice>A) Mejorar la capacidad de los instrumentos de planificación urbana y
+<choice>territorial para garantizar la protección ambiental.
+<choice>B) Optimizar las ganancias empresariales en el corto plazo mediante la
+<choice>utilización de los recursos naturales.
+<choice>C) Establecer la creación de normativas e instituciones que se hagan
+<choice>cargo de las evaluaciones de impacto ambiental.
+<choice>D) Restringir la participación ciudadana en los procesos de toma de
+<choice>decisiones medioambientales.
+<choice>E) Fomentar el predominio de los criterios económicos y políticos sobre
+<choice>las consideraciones científicas y técnicas.
+<head_foot>- 10 -
+<head_foot>FORMA 121 - 2023
+<id_question>11.
+<prompt>En la actualidad, Chile participa tanto en las Naciones Unidas como en
+<prompt>el sistema Interamericano de Derechos Humanos, por este motivo ha
+<prompt>ratificado numerosos tratados en esta materia como el ―Pacto
+<prompt>Internacional de Derechos Civiles y Políticos‖ y la ―Convención
+<prompt>Interamericana para prevenir, sancionar y erradicar la violencia contra
+<prompt>la mujer‖. En este contexto, ¿qué implica para el Estado chileno la
+<prompt>ratificación de dichos tratados?
+<choice>A) Establecer diversas limitaciones a la participación de los
+<choice>ciudadanos.
+<choice>B) Buscar que otros Estados intervengan en los asuntos normativos
+<choice>nacionales.
+<choice>C) Orientar el ordenamiento jurídico interno de acuerdo con los
+<choice>compromisos establecidos.
+<choice>D) Limitar la soberanía de los Estados participantes en este tipo de
+<choice>convenios.
+<choice>E) Reemplazar a las instituciones que legislan por organismos
+<choice>internacionales.
+<id_question>12.
+<prompt>La Ley Orgánica Constitucional de Municipalidades en su artículo 74
+<prompt>establece que en las elecciones municipales no puede ser elegido
+<prompt>concejal ningún ministro de Estado, subsecretario, secretario regional
+<prompt>ministerial, gobernador, consejero regional, parlamentario, miembro del
+<prompt>consejo del Banco Central y el Contralor General de la República. Al
+<prompt>respecto, ¿cuál es uno de los principales propósitos que persigue esta
+<prompt>norma?
+<choice>A) Asegurar la legitimidad de las autoridades electas.
+<choice>B) Fiscalizar la transparencia del proceso eleccionario.
+<choice>C) Garantizar la incorruptibilidad de los candidatos propuestos.
+<choice>D) Resguardar la decisión de los votantes al momento de sufragar.
+<choice>E) Evitar la incompatibilidad en el ejercicio de los cargos públicos.
+<head_foot>- 11 -
+<head_foot>FORMA 121 - 2023
+<id_question>13.
+<prompt>Lee el siguiente texto sobre el salmón en Magallanes:
+<prompt>―REGIÓN DE MAGALLANES: LAS VENTAJAS Y DESAFÍOS DE
+<prompt>PRODUCIR EL SALMÓN MÁS AUSTRAL DEL MUNDO
+<prompt>Sus particulares características geográficas, con aguas más frías y
+<prompt>un sinnúmero de canales entre múltiples islas y penínsulas, sumado a
+<prompt>que las compañías acuícolas, con presencia en la región, no tienen
+<prompt>grandes problemas […] como el temido SRS [Septicemia rickettsial
+<prompt>salmonídea] o la presencia del piojo de mar, hacen de esta zona un área
+<prompt>con excelentes condiciones para el cultivo de salmónidos. […] el hecho
+<prompt>que se reconozca a esta región como una zona donde la actividad está
+<prompt>más ordenada, donde los espacios no están sobrecargados, con tres
+<prompt>áreas de producción acotadas geográficamente, permite un desarrollo
+<prompt>más armónico de la actividad‖.
+<prompt>Mundo acuícola. (2018). Región de Magallanes: Las ventajas y desafíos de
+<prompt>producir el salmón más austral del mundo. https://www.mundoacuicola.cl
+<prompt>/new/region-de-magallanes-las-ventajas-y-desafios-de-
+<prompt>producir-el-salmon-mas-austral-del-mundo/
+<prompt>La noticia anterior da cuenta de las potencialidades económicas que
+<prompt>presenta la industria salmonera en la Región de Magallanes. En
+<prompt>relación con la noticia anterior y el contexto geoeconómico, ¿cuál es
+<prompt>uno de los principales desafíos que enfrenta esta industria regional?
+<choice>A) Concentrar la creación del empleo en el sector acuícola.
+<choice>B) Expandir el consumo interno para mejorar la productividad.
+<choice>C) Reducir los volúmenes de exportación para impedir su extinción.
+<choice>D) Ampliar las cuotas de producción para agregar valor al producto.
+<choice>E) Mantener las condiciones en las que se desarrolla la producción
+<choice>acuícola.
+<head_foot>- 12 -
+<head_foot>FORMA 121 - 2023
+<id_question>14.
+<prompt>Lee el siguiente texto:
+<prompt>―Hace más de 20 años que el agua es un bien escaso en Petorca, el
+<prompt>lugar por excelencia para la producción de paltas. Algunos indican que es
+<prompt>la sequía la que ha producido la escasez, sin embargo, productores
+<prompt>acusan que la explotación de los grandes productores ha sido la principal
+<prompt>causa de este problema. […] [en Europa] Dinamarca dio cuenta de él,
+<prompt>donde el consumo de este alimento se ha duplicado en los últimos diez
+<prompt>años, las que en su gran mayoría son de Petorca.
+<prompt>Un centro periodístico de dicho país constató la escasez hídrica y
+<prompt>demostró el actuar de algunas empresas, las que han utilizado más agua
+<prompt>de la que está permitido, provocando así que dos grandes cadenas de
+<prompt>supermercados danesas amenazaran con no seguir comprando paltas a
+<prompt>las empresas que incurrieran en este tipo de prácticas‖.
+<prompt>24 horas. (2017). ¿Por qué Dinamarca amenaza con no seguir comprando paltas de
+<prompt>Petorca? https://www.24horas.cl/economia/por-que-dinamarca-amenaza-con-no-seguir-comprando-paltas-de-petorca-2334033
+<prompt>La noticia anterior ejemplifica un problema socioambiental relacionado
+<prompt>con el uso intensivo del agua en la producción agrícola en una provincia
+<prompt>de la Región de Valparaíso. Considerando la información presentada,
+<prompt>¿cuál es uno de los principales desafíos en materia de desarrollo
+<prompt>sustentable que enfrenta el Estado chileno para garantizar que las
+<prompt>empresas agrícolas sigan participando del mercado global?
+<choice>A) Promover la agricultura tradicional como una estrategia productiva.
+<choice>B) Utilizar nuevas tecnologías para densificar el uso del suelo.
+<choice>C) Mejorar la distribución de la propiedad de los derechos de agua.
+<choice>D) Diversificar los mercados de consumo de la producción agroindustrial.
+<choice>E) Aumentar los impuestos al uso del agua en las actividades
+<choice>productivas.
+<head_foot>- 13 -
+<head_foot>FORMA 121 - 2023
+<id_question>15.
+<prompt>Lee el siguiente texto:
+<prompt>―Artículo 7°.- Situación de riesgo. Cuando exista una situación de riesgo
+<prompt>inminente para una o más personas de sufrir un maltrato constitutivo de
+<prompt>violencia intrafamiliar, aun cuando este no se haya llevado a cabo, el
+<prompt>tribunal, con el solo mérito de la denuncia, deberá adoptar las medidas
+<prompt>de protección o cautelares que correspondan‖.
+<prompt>Ministerio de Justicia. (2005). Ley 20.066. Establece Ley de violencia intrafamiliar.
+<prompt>https://www.bcn.cl/leychile/navegar?idNorma=242648&idVersion=2010-12-18
+<prompt>El párrafo anterior corresponde a un extracto de la Ley Nº 20.066 de
+<prompt>Violencia Intrafamiliar promulgada el año 2005. Esta ley constituye un
+<prompt>mecanismo de protección de las personas, al interior de las familias,
+<prompt>expuestas a situaciones de vulneración de sus derechos. En relación
+<prompt>con lo anterior, ¿cuál de las siguientes acciones contempla la Ley para
+<prompt>la protección de una persona en situación de riesgo?
+<choice>A) Dar a conocer los hechos ante organismos privados encargados para
+<choice>su resolución.
+<choice>B) Implementar nuevas relaciones de sana convivencia a partir de la
+<choice>ejecución de programas educativos.
+<choice>C) Dictaminar resguardo y asistencia a las víctimas a través de
+<choice>instituciones pertinentes.
+<choice>D) Aprobar acuerdos internacionales vinculados a la protección de los
+<choice>Derechos Humanos.
+<choice>E) Impulsar el desarrollo de organizaciones encargadas del bienestar
+<choice>físico y emocional de la comunidad.
+<head_foot>- 14 -
+<head_foot>FORMA 121 - 2023
+<id_question>16.
+<prompt>Lee el siguiente texto:
+<prompt>―El Comité de Derechos Humanos, el Comité de Derechos Económicos,
+<prompt>Sociales y Culturales y el Comité de los Derechos del Niño han
+<prompt>expresado, respectivamente, su preocupación respecto de la
+<prompt>discriminación homofóbica en las escuelas, y han exhortado a que se
+<prompt>adopten medidas para contrarrestar las actitudes homofóbicas‖.
+<prompt>Naciones Unidas. (2012). Nacidos libres e iguales. Orientación sexual
+<prompt>e identidad de género en las normas internacionales de Derechos Humanos.
+<prompt>La cita anterior hace referencia a una importante problemática social
+<prompt>que se vive actualmente en diversos países del mundo, y en donde los
+<prompt>organismos internacionales ligados a la promoción de los Derechos
+<prompt>Humanos han señalado la necesidad de que los Estados actúen en su
+<prompt>pronta solución. En relación con dicha situación, ¿cuál es una de las
+<prompt>medidas que ha impulsado el Estado chileno para evitar su ocurrencia?
+<choice>A) La conformación de un ministerio especializado en la promoción de
+<choice>los derechos de las minorías sexuales.
+<choice>B) La promulgación de leyes y normativas que hacen referencia directa
+<choice>a la no discriminación.
+<choice>C) El desarrollo de una asignatura escolar obligatoria en temáticas de
+<choice>sexualidad y afectividad.
+<choice>D) La protección y el respeto al libre ejercicio de los derechos sexuales
+<choice>y reproductivos.
+<choice>E) La adopción de programas tendientes a promover la
+<choice>multiculturalidad escolar.
+<head_foot>- 15 -
+<head_foot>FORMA 121 - 2023
+<other>HISTORIA EN PERSPECTIVA: MUNDO, AMÉRICA Y CHILE
+<id_question>17.
+<prompt>El proceso de Independencia de Chile y de otros países sudamericanos,
+<prompt>a principios del siglo XIX, implicó en muchos aspectos una ruptura con
+<prompt>el antiguo orden colonial. ¿Cuál de las siguientes opciones expresa uno
+<prompt>de esos cambios?
+<choice>A) La sustitución de un régimen monárquico por un orden político
+<choice>republicano basado en una Constitución.
+<choice>B) La instalación de modelos políticos con tendencia a fortalecer los
+<choice>poderes regionales para reemplazar el centralismo monárquico.
+<choice>C) La formación de un nuevo clero identificado con las ideas
+<choice>democráticas y liberales imperantes.
+<choice>D) El reemplazo del caudillismo político por un sistema de gobierno
+<choice>parlamentario.
+<choice>E) La conformación de una nueva elite política y social con ideas
+<choice>democráticas en reemplazo de la aristocracia criolla.
+<head_foot>- 16 -
+<head_foot>FORMA 121 - 2023
+<id_question>18.
+<prompt>Examina la siguiente representación:
+<prompt>Historia cultural. (2010). Doctrina Monroe. https://www.historiacultural.com
+<prompt>/2010/07/doctrina-monroe.html
+<prompt>La caricatura anterior hace referencia a la Doctrina Monroe, conjunto de
+<prompt>ideas enunciadas por el Presidente James Monroe en 1823 y que, en
+<prompt>general, han configurado la política exterior de Estados Unidos hacia el
+<prompt>resto de los países del continente americano hasta la actualidad. A
+<prompt>partir del análisis de la caricatura, ¿qué aspecto propio del siglo XIX
+<prompt>promovido por la Doctrina Monroe es correcto inferir?
+<choice>A) El freno al imperialismo europeo en América.
+<choice>B) La política tendiente a conectar Latinoamérica con el resto del mundo.
+<choice>C) El incentivo a las alianzas políticas entre países centroamericanos.
+<choice>D) La expansión de la influencia de Estados Unidos hacia otros
+<choice>continentes.
+<choice>E) La autonomía de los países latinoamericanos respecto de Estados
+<choice>Unidos.
+<head_foot>- 17 -
+<head_foot>FORMA 121 - 2023
+<id_question>19.
+<prompt>El proceso de organización nacional post independencia tuvo en Chile
+<prompt>características que lo diferencian respecto del mismo fenómeno
+<prompt>ocurrido en otros países del continente. En este escenario, uno de los
+<prompt>elementos diferenciadores de la experiencia chilena fue
+<choice>A) la exclusión total de los militares de la vida política en el proceso de
+<choice>construcción nacional.
+<choice>B) el temprano establecimiento de mecanismos institucionales para
+<choice>fortalecer al Estado.
+<choice>C) el impulso dado por los estratos medios de la sociedad a la
+<choice>construcción del Estado.
+<choice>D) la rápida imposición de un modelo democrático con inclusión de las
+<choice>mayorías.
+<choice>E) el rol protagónico de la alta jerarquía de la Iglesia en el control del
+<choice>Estado.
+<id_question>20.
+<prompt>A partir de la década de 1830, Chile perfiló el modelo económico con el
+<prompt>cual insertarse en el mundo. ¿Cuál de los siguientes elementos fue un
+<prompt>sello distintivo de la organización económica de la naciente República?
+<choice>A) Las políticas de subsidio estatal para los productores nacionales.
+<choice>B) La iniciativa privada en la explotación de recursos naturales.
+<choice>C) La importación de bienes suntuarios desde los países vecinos.
+<choice>D) La incipiente industrialización del agro para su exportación.
+<choice>E) La exportación de manufacturas a los mercados de Norteamérica.
+<head_foot>- 18 -
+<head_foot>FORMA 121 - 2023
+<id_question>21.
+<prompt>Al finalizar el proceso de Independencia, los Estados latinoamericanos
+<prompt>comenzaron a generar conocimiento científico y geográfico sobre su
+<prompt>territorio. En el caso de Chile, este proceso comenzó a desarrollarse a
+<prompt>partir de 1830 con la contratación de científicos extranjeros. ¿Cuál fue
+<prompt>el propósito fundamental de estos estudios en Chile?
+<choice>A) Aplicar tecnologías de los colonos europeos para la explotación de los
+<choice>recursos mineros disponibles en el territorio.
+<choice>B) Promover el desarrollo de la geografía como un área universitaria de
+<choice>investigación científica.
+<choice>C) Identificar los elementos culturales propios del territorio nacional para
+<choice>fortalecer el sentido de pertenencia en la población.
+<choice>D) Organizar la división político-administrativa del territorio para
+<choice>establecer estrategias de desarrollo regional.
+<choice>E) Reconocer el territorio nacional para identificar los recursos naturales
+<choice>del país y la administración de estos.
+<id_question>22.
+<prompt>La Constitución Política de Chile de 1833 entregó al Congreso la
+<prompt>facultad exclusiva de aprobar las denominadas Leyes Periódicas,
+<prompt>siendo especialmente importante la del Presupuesto de la nación. Esta
+<prompt>medida, en el contexto de la organización nacional a partir de la década
+<prompt>de 1830, tenía como objetivo
+<choice>A) establecer un régimen de tipo parlamentario.
+<choice>B) otorgar al Legislativo algunas facultades de control sobre el
+<choice>Ejecutivo.
+<choice>C) consolidar el carácter presidencialista del régimen político.
+<choice>D) atenuar los conflictos entre los poderes Ejecutivo y Legislativo.
+<choice>E) implementar un sistema político de carácter bipartidista.
+<head_foot>- 19 -
+<head_foot>FORMA 121 - 2023
+<id_question>23.
+<prompt>Lee el siguiente texto de una carta de Diego Portales a Manuel Blanco
+<prompt>Encalada, 1836:
+<prompt>―Apreciado amigo:
+<prompt>La posición de Chile frente a la confederación Perú-boliviana es
+<prompt>insostenible. No puede ser tolerada ni por el pueblo ni por el Gobierno,
+<prompt>porque equivaldría a su suicidio. No podemos mirar sin inquietud y la
+<prompt>mayor alarma la existencia de dos pueblos confederados, y que, a la
+<prompt>larga, por la comunidad de origen, lengua, hábitos, religión, ideas,
+<prompt>costumbres, formarán, como es natural, un solo núcleo‖.
+<prompt>De la Cruz, E. y Feliú Cruz, G. (Compiladores). (1937). Epistolario de don Diego
+<prompt>Portales: 1821 – 1837. Ministerio de Justicia.
+<prompt>La cita anterior refleja el ideario Portaliano ante la amenaza que
+<prompt>representaría la Confederación Perú-Boliviana para el desarrollo
+<prompt>económico de Chile. Respecto al análisis de la cita, se puede inferir,
+<prompt>que para Portales, la guerra contra la Confederación se justificaba
+<prompt>debido a
+<choice>A) la necesidad de superar la subordinación histórica que presentó el
+<choice>mercado chileno con respecto a la economía de Perú y Bolivia.
+<choice>B) la oportunidad que generaría al país la ocupación de los territorios
+<choice>peruanos y bolivianos para la extracción de materias primas.
+<choice>C) la intencionalidad de conformar una nueva alianza que involucrara a
+<choice>los tres países con la finalidad de potenciar en conjunto sus
+<choice>economías.
+<choice>D) la competencia desigual que representaba para Chile la unificación
+<choice>de dos naciones.
+<choice>E) la amenaza hacia el rol hegemónico que había tenido la economía
+<choice>chilena tras los primeros años de su Independencia.
+<head_foot>- 20 -
+<head_foot>FORMA 121 - 2023
+<id_question>24.
+<prompt>Lee el siguiente texto:
+<prompt>―Todo socio dará su palabra de profesar los principios siguientes:
+<prompt>Reconocer la independencia de la razón como autoridad de autoridades:
+<prompt>profesar el principio de la soberanía del pueblo como base de toda
+<prompt>política y el deber y el amor de la fraternidad universal como vida moral‖.
+<prompt>Zapiola, J. (1851). La Sociedad de la Igualdad y sus enemigos. Imprenta del Progreso.
+<prompt>Lo anterior es un extracto de los Estatutos de la Sociedad de la
+<prompt>Igualdad, organización fundada en 1850 y que provocó un fuerte
+<prompt>impacto en la sociedad chilena. A partir de esta cita y del contexto
+<prompt>histórico, ¿cuál fue uno de los propósitos que tuvo la creación de esta
+<prompt>institución?
+<choice>A) Canalizar la influencia política de la Iglesia, preocupada por la
+<choice>desigualdad social que afectaba a Chile.
+<choice>B) Promover el republicanismo, modelo político alternativo al carácter
+<choice>monárquico del sistema político chileno.
+<choice>C) Reproducir la experiencia exitosa del federalismo estadounidense
+<choice>como forma de organización política.
+<choice>D) Integrar en los espacios de participación política a la población
+<choice>analfabeta del país.
+<choice>E) Construir una sociabilidad política basada en los principios de la
+<choice>Ilustración y el racionalismo filosófico.
+<head_foot>- 21 -
+<head_foot>FORMA 121 - 2023
+<id_question>25.
+<prompt>Lee el siguiente fragmento de una carta de Santiago Arcos a Francisco
+<prompt>Bilbao, en 1852:
+<prompt>―En los Estados Unidos, en Inglaterra, en España hay pobres, pero allí la
+<prompt>pobreza es un accidente, no es un estado normal. En Chile ser pobre es
+<prompt>una condición, una clase, que la aristocracia chilena llama rotos, plebe en
+<prompt>las ciudades, peones, inquilinos, sirvientes en los campos […] El pobre
+<prompt>no es ciudadano. Si recibe del subdelegado una calificación para votar es
+<prompt>para que la entregue a algún rico, a algún patrón que votará por él‖.
+<prompt>Grez Tosso, S. (Compilador). (1997). La «Cuestión Social» en Chile. Ideas y Debates
+<prompt>precursores. (1804 – 1902). DIBAM – Centro de Investigaciones Diego Barros Arana.
+<prompt>A mediados del siglo XIX, los liberales difundieron los valores de la
+<prompt>modernidad y cuestionaron fuertemente el autoritarismo de los
+<prompt>gobiernos conservadores. De acuerdo a la cita y al contexto del periodo,
+<prompt>¿cuál de las siguientes afirmaciones corresponde a una característica
+<prompt>del orden conservador que habría que transformar según el autor?
+<choice>A) El poder predominante de la oligarquía porque dificultaba la
+<choice>movilidad social en el país.
+<choice>B) El republicanismo de la elite que obstaculizaba el progreso de los
+<choice>sectores populares.
+<choice>C) La influencia del catolicismo sobre las elites que perpetuaba la
+<choice>estratificación estamental.
+<choice>D) El carácter hacendal de la aristocracia que estimulaba la
+<choice>participación de los campesinos.
+<choice>E) El voto censitario que fomentaba el principio de igualdad ante la ley
+<choice>del conjunto de los habitantes.
+<head_foot>- 22 -
+<head_foot>FORMA 121 - 2023
+<id_question>26.
+<prompt>Lee el siguiente texto:
+<prompt>―El acontecimiento más importante en el siglo XIX es la creación de una
+<prompt>economía global, que penetró de forma progresiva en los rincones más
+<prompt>remotos del mundo, con un tejido cada vez más denso de transacciones
+<prompt>económicas, comunicaciones y movimiento de productos, dinero y seres
+<prompt>humanos que vinculaba a los países desarrollados entre sí y con el
+<prompt>mundo subdesarrollado. […] De no haber sido por estos
+<prompt>condicionamientos, no habría existido una razón especial por la que los
+<prompt>Estados europeos hubieran demostrado el menor interés, por ejemplo,
+<prompt>por la cuenca del Congo o se hubieran enzarzado en disputas
+<prompt>diplomáticas por un atolón del Pacífico‖.
+<prompt>Hobsbawm, E. (2009). La Era del Imperio 1875-1914. Crítica.
+<prompt>Desde la perspectiva del autor, uno de los factores principales del auge
+<prompt>del colonialismo sería la creación de una economía global. De acuerdo
+<prompt>al texto anterior y considerando las características de la segunda mitad
+<prompt>del siglo XIX, ¿cuál de los siguientes aspectos fomentó la globalización
+<prompt>de la economía?
+<choice>A) El desarrollo de un acuerdo económico entre los imperios europeos
+<choice>respecto al control de las colonias.
+<choice>B) El proceso de industrialización que estimuló a las potencias
+<choice>europeas a buscar nuevos mercados en el exterior.
+<choice>C) La especialización productiva centrada en generar servicios para
+<choice>satisfacer las necesidades de la población en el mundo.
+<choice>D) La migración de europeos que propiciaron la agricultura de
+<choice>autosuficiencia en los nuevos dominios.
+<choice>E) El fomento a la migración de mano de obra desde las colonias a sus
+<choice>respectivas metrópolis.
+<head_foot>- 23 -
+<head_foot>FORMA 121 - 2023
+<id_question>27.
+<prompt>Revisa el siguiente mapa:
+<prompt>www.igm.cl/MAPAIGM5/index.html. (Adaptación)
+<head_foot>- 24 -
+<head_foot>FORMA 121 - 2023
+<other>El mapa anterior muestra el actual territorio chileno consolidado a través de
+<other>distintos procesos históricos ocurridos a fines del siglo XIX. ¿Cuál es la
+<other>relación correcta entre la localización del número y el proceso histórico o
+<other>acontecimiento que delimitó esas fronteras nacionales?
+<other>1 2 3
+<other>Pérdida de la
+<choice>A) Guerra del Pacífico Ocupación de la Araucanía
+<choice>Patagonia
+<choice>Ocupación de la
+<choice>B) Guerra del Pacífico Pérdida de la Patagonia
+<choice>Araucanía
+<choice>Pérdida de la Colonización alemana de
+<choice>C) Guerra del Pacífico
+<choice>Patagonia Valdivia y Llanquihue
+<choice>Guerra contra la Colonización
+<choice>D) Confederación Perú- alemana de Valdivia y Pérdida de la Patagonia
+<choice>Boliviana Llanquihue
+<choice>Guerra contra la
+<choice>Pérdida de la
+<choice>E) Confederación Perú- Ocupación de la Araucanía
+<choice>Patagonia
+<choice>Boliviana
+<head_foot>- 25 -
+<head_foot>FORMA 121 - 2023
+<id_question>28.
+<prompt>Durante la segunda mitad del siglo XIX, se llevó a cabo el proceso de
+<prompt>incorporación de la Araucanía al territorio chileno. En este contexto,
+<prompt>¿cuál fue una de las principales consecuencias socioeconómicas para
+<prompt>el pueblo mapuche?
+<choice>A) El estancamiento del intercambio comercial entre las comunidades.
+<choice>B) El proceso de reconversión laboral masiva hacia la industria pesada.
+<choice>C) El desplazamiento hacia tierras de menor calidad para la práctica
+<choice>agrícola.
+<choice>D) El surgimiento de un sistema comunitario para la gestión de la
+<choice>propiedad de la tierra.
+<choice>E) El abandono de sus sistemas de trabajo al adoptar técnicas
+<choice>europeas de producción.
+<id_question>29.
+<prompt>Durante la segunda mitad del siglo XIX, se produjo un importante
+<prompt>despegue económico a nivel nacional, asociado al desarrollo de la
+<prompt>minería y a la inserción del país en el comercio exterior, trayendo como
+<prompt>consecuencia, un sostenido incremento de los ingresos fiscales. Con
+<prompt>relación al proceso aludido, ¿cuál de las siguientes medidas
+<prompt>corresponde a una iniciativa impulsada por el Estado chileno para
+<prompt>invertir las ganancias económicas del periodo?
+<choice>A) La ampliación de la educación superior a través de la fundación de
+<choice>universidades públicas en todo el país.
+<choice>B) La implementación de la agroindustria para aumentar los volúmenes
+<choice>de exportación.
+<choice>C) La ejecución de programas de alimentación infantil para los sectores
+<choice>populares.
+<choice>D) El fomento de una economía principalmente manufacturera por sobre
+<choice>otras áreas productivas.
+<choice>E) El desarrollo de redes de transporte y comunicaciones en las
+<choice>diferentes zonas del territorio nacional.
+<head_foot>- 26 -
+<head_foot>FORMA 121 - 2023
+<id_question>30.
+<prompt>José Manuel Balmaceda gobernó el país desde 1886 hasta su muerte
+<prompt>en 1891. A pesar de las disputas entre los poderes del Estado, su
+<prompt>gobierno se caracterizó por presentar un auge económico. Uno de los
+<prompt>factores que permitió a este gobierno estar en situación de bonanza
+<prompt>económica, fue
+<choice>A) la obtención de riquezas provenientes de la minería de la plata de
+<choice>Chañarcillo.
+<choice>B) el incremento de los ingresos debido a la explotación de las minas
+<choice>de carbón en Lota.
+<choice>C) la intensificación de las exportaciones de materias primas a los
+<choice>mercados internacionales.
+<choice>D) el control del comercio marítimo tras la Guerra contra la
+<choice>Confederación Perú-Boliviana.
+<choice>E) el aumento de las exportaciones agrícolas debido a la ocupación de
+<choice>la Araucanía.
+<head_foot>- 27 -
+<head_foot>FORMA 121 - 2023
+<id_question>31.
+<prompt>Lee el siguiente esquema:
+<prompt>El esquema anterior sintetiza un periodo determinado de la Historia de
+<prompt>Chile en donde se inicia un conjunto de transformaciones de tipo social.
+<prompt>Al vincular dichas transformaciones con el ámbito económico, ¿cuál de
+<prompt>las siguientes relaciones contextualiza correctamente las ideas
+<prompt>presentadas en el esquema?
+<choice>A) La incorporación territorial de la Araucanía y la exportación agrícola.
+<choice>B) El incremento de la producción salitrera y el crecimiento del Estado.
+<choice>C) La política de Industrialización Sustitutiva de Importaciones y el
+<choice>crecimiento hacia adentro.
+<choice>D) El auge de la minería del cobre y la presencia de capitales
+<choice>estadounidenses en la economía nacional.
+<choice>E) La implementación de la Reforma Agraria y las reformas
+<choice>estructurales.
+<head_foot>- 28 -
+<head_foot>FORMA 121 - 2023
+<id_question>32.
+<prompt>En Chile, durante la segunda mitad del siglo XIX, se produjo un proceso
+<prompt>de transformación del orden autoritario establecido en los años
+<prompt>anteriores. Estos cambios estuvieron directamente relacionados en ese
+<prompt>período con
+<choice>A) la expansión del liberalismo y la secularización de las instituciones.
+<choice>B) la difusión de la ideología marxista y la fundación de partidos
+<choice>socialistas.
+<choice>C) el desarrollo del nacionalismo y la militarización de la sociedad.
+<choice>D) la desaparición del conservadurismo y la disminución del fervor
+<choice>religioso en la sociedad.
+<choice>E) la consolidación del radicalismo y de la aplicación de un sistema
+<choice>presidencialista.
+<id_question>33.
+<prompt>A partir del último tercio del siglo XIX y la primera mitad del XX, Chile
+<prompt>experimentó un importante fenómeno migratorio hacia sus principales
+<prompt>centros urbanos. Considerando este contexto, ¿qué impacto generó
+<prompt>este proceso en las áreas rurales de Chile Central?
+<choice>A) Un continuo aumento en el costo de los servicios básicos a causa de la
+<choice>falta de demanda.
+<choice>B) La desaparición de los asentamientos rurales localizados cerca de las
+<choice>carreteras.
+<choice>C) Un incremento en el costo del transporte debido a la reducción del área
+<choice>de intercambio comercial.
+<choice>D) El aumento del inquilinaje de la población que se quedaba en las áreas
+<choice>rurales.
+<choice>E) Un envejecimiento de la población debido a la emigración de población
+<choice>adulta y joven.
+<head_foot>- 29 -
+<head_foot>FORMA 121 - 2023
+<id_question>34.
+<prompt>Lee los siguientes artículos del Tratado de Versalles:
+<prompt>―Los Estados Unidos de América, el Imperio Británico, Francia, Italia y
+<prompt>Japón […] de una parte y, Alemania, de otra, han convenido las
+<prompt>disposiciones siguientes:
+<prompt>42.- Se prohíbe a Alemania mantener o construir fortificaciones sea sobre
+<prompt>el lado izquierdo del Rhin, sea sobre el lado derecho.
+<prompt>80.- Alemania reconoce y respetará estrictamente la independencia de
+<prompt>Austria.
+<prompt>87.- Alemania reconoce la independencia de Polonia.
+<prompt>102.- La ciudad de Danzig queda constituida como ciudad libre y situada
+<prompt>bajo la protección de la Sociedad de Naciones.
+<prompt>119.- Alemania renuncia […] a todos sus derechos y títulos sobre
+<prompt>posesiones de Ultramar‖.
+<prompt>Prats, J. et al. (1996). Historia del Mundo Contemporáneo. Anaya. (Adaptación).
+<prompt>Los acuerdos posteriores a la Primera Guerra Mundial estructuraron un
+<prompt>nuevo escenario internacional entre los cuales se encuentra el Tratado
+<prompt>de Versalles firmado en 1919 entre Alemania y los países vencedores.
+<prompt>Considerando lo anterior, ¿qué situación característica del nuevo orden
+<prompt>geopolítico es reconocible a partir del fragmento citado?
+<choice>A) La expansión de las potencias no europeas.
+<choice>B) La unificación de los Estados nacionales.
+<choice>C) La desaparición de los Estados multiétnicos.
+<choice>D) El fortalecimiento de los dominios coloniales.
+<choice>E) El derrumbe de los imperios continentales.
+<head_foot>- 30 -
+<head_foot>FORMA 121 - 2023
+<id_question>35.
+<prompt>Lee el siguiente texto sobre la Cuestión Social:
+<prompt>―Pero es preciso recordar que, así como la higiene médica determina
+<prompt>las medidas que el Estado debe tomar para preservar y conservar la
+<prompt>salud del pueblo, así también la Economía Social, […] que estudia las
+<prompt>causas de las cuestiones que se suscitan en el orden industrial e indica
+<prompt>los medios de producir un mejoramiento en la situación económico-
+<prompt>social de las clases más numerosas de la sociedad, puede lógicamente
+<prompt>recomendar al Estado aquellas medidas que juzgue eficaces para
+<prompt>conseguir ese mejoramiento y evitar o atenuar, por lo menos, los daños
+<prompt>que para el orden social de la riqueza originan las llamadas cuestiones
+<prompt>industriales-obreras‖.
+<prompt>Concha, J. E. (1918). Conferencias sobre economía social. Imprenta Chile.
+<prompt>En el contexto de la Cuestión Social en Chile y del debate público
+<prompt>suscitado en torno a las mejores estrategias para abordarla, se
+<prompt>plantearon una serie de opiniones. De acuerdo con la fuente citada, el
+<prompt>político conservador presentaba una argumentación que propiciaba
+<choice>A) igualar la importancia de la higiene médica con la economía social.
+<choice>B) equiparar la distribución de la riqueza industrial en la sociedad.
+<choice>C) alejar la influencia del socialismo de los sectores populares.
+<choice>D) legitimar la intervención del Estado en materia económica y social.
+<choice>E) establecer las condiciones de vida de la población trabajadora.
+<head_foot>- 31 -
+<head_foot>FORMA 121 - 2023
+<id_question>36.
+<prompt>Lee el siguiente texto:
+<prompt>―La clausura de las Oficinas Salitreras se ha traducido en la reducción
+<prompt>inmediata del mercado de las provincias de Tarapacá y Antofagasta para
+<prompt>los productos agrícolas y manufacturados de las provincias del centro y sur
+<prompt>del país‖.
+<prompt>SOFOFA. (1927). La situación económica. Boletín de la Sociedad de Fomento Fabril.
+<prompt>La cita anterior hace referencia a la situación económica de Chile hacia
+<prompt>fines de la década de 1920. A partir de ella y del contexto económico de
+<prompt>fines del siglo XIX y principios del XX, es correcto inferir que
+<choice>A) la crisis productiva se debió al déficit de mano de obra disponible.
+<choice>B) las oficinas salitreras eran unidades económicas que se
+<choice>autoabastecían.
+<choice>C) la caída de la producción minera se debió a las huelgas de los obreros.
+<choice>D) la explotación minera dinamizaba al conjunto de la economía nacional.
+<choice>E) la producción se orientaba principalmente a satisfacer la demanda del
+<choice>mercado interno.
+<id_question>37.
+<prompt>En Chile, fundamentalmente a partir de la crisis económica de 1929, los
+<prompt>gobiernos redireccionaron las políticas económicas: favorecieron la
+<prompt>inversión productiva del Estado, se fijaron precios a los bienes de
+<prompt>consumo, se establecieron restricciones a las importaciones y a la
+<prompt>inversión extranjera, entre otras. ¿Cuál fue uno de los objetivos
+<prompt>principales de estas medidas?
+<choice>A) Aumentar la importancia del sector primario de la producción.
+<choice>B) Disminuir la dependencia nacional respecto del comercio exterior.
+<choice>C) Controlar el excesivo gasto social realizado por el Estado.
+<choice>D) Fomentar la producción no tradicional destinada a la exportación.
+<choice>E) Incrementar el protagonismo del mercado en la economía.
+<head_foot>- 32 -
+<head_foot>FORMA 121 - 2023
+<id_question>38.
+<prompt>Algunos de los regímenes políticos totalitarios más importantes se
+<prompt>desarrollaron en Europa en la primera mitad del siglo XX. Estos
+<prompt>regímenes son considerados como fenómenos propios de una sociedad
+<prompt>de masas y en los cuales los medios de comunicación fueron
+<choice>A) anulados para mantener a la población desinformada.
+<choice>B) empleados como medios de propaganda oficial.
+<choice>C) limitados a la entrega de noticias deportivas y de entretención.
+<choice>D) fortalecidos en su rol fiscalizador de los gobiernos.
+<choice>E) utilizados para entregar información engañosa a los países
+<choice>enemigos.
+<id_question>39.
+<prompt>La Segunda Guerra Mundial fue un conflicto bélico de características
+<prompt>planetarias, que se inició en Europa y terminó en Asia. Un factor
+<prompt>explicativo de la condición mundial de este conflicto, se manifiesta en
+<choice>A) el enfrentamiento de distintos bloques continentales, producto de los
+<choice>diversos intereses territoriales de las potencias.
+<choice>B) el protagonismo de la ONU como organización internacional a lo largo
+<choice>de todo el conflicto.
+<choice>C) la amplitud geográfica de los escenarios bélicos que se materializaron
+<choice>en diferentes continentes e involucrando a gran cantidad de población.
+<choice>D) el creciente interés de Alemania por alcanzar la hegemonía política en
+<choice>el escenario mundial.
+<choice>E) la localización euroasiática de la Unión Soviética, lo que le otorgó al
+<choice>conflicto su condición de guerra global.
+<id_question>40.
+<prompt>Durante el proceso histórico denominado Guerra Fría, la polarización
+<prompt>ideológica tuvo alcance mundial y la sociedad chilena no estuvo
+<prompt>ausente de estas disputas ideológicas. Un ejemplo de esto radica en
+<prompt>que a fines de la década de 1940
+<choice>A) se declaró la ilegalidad del Partido Comunista.
+<choice>B) se expandió la ideología nacionalsocialista.
+<choice>C) se fundaron partidos políticos de derecha.
+<choice>D) se desarticuló el Partido Radical.
+<choice>E) se fundó el Partido Socialista.
+<head_foot>- 33 -
+<head_foot>FORMA 121 - 2023
+<id_question>41.
+<prompt>La derrota de las potencias que conformaron el Eje, en 1945, tuvo entre
+<prompt>sus principales efectos la aplicación de reformas políticas en los países
+<prompt>europeos. En relación con lo anterior, la mayoría de los países de
+<prompt>Europa Occidental
+<choice>A) elaboraron constituciones que garantizaran principios democráticos.
+<choice>B) instauraron sistemas de gobierno bajo un modelo unipartidista.
+<choice>C) reemplazaron las monarquías por formas de gobierno republicanas.
+<choice>D) prohibieron la formación de alianzas militares con otros Estados.
+<choice>E) exigieron la restitución de sus fronteras anteriores al conflicto.
+<id_question>42.
+<prompt>El desarrollo y las características del conflicto bélico denominado
+<prompt>Segunda Guerra Mundial, trajo consecuencias no previstas una vez
+<prompt>finalizada la contienda. Una de estas se relaciona con los procesos de
+<prompt>descolonización de amplias regiones de África y Asia, cuestión que se
+<prompt>expresó en
+<choice>A) la alianza militar de los movimientos nacionalistas con Alemania y
+<choice>Japón durante la guerra.
+<choice>B) la postergación de las aspiraciones de independencia de los territorios
+<choice>coloniales, a la espera de que Europa se recuperara del conflicto.
+<choice>C) la condena internacional al desarrollo de movimientos nacionalistas en
+<choice>Asia y África.
+<choice>D) la masificación de las aspiraciones nacionalistas, producto de la
+<choice>condición de debilidad de las potencias coloniales.
+<choice>E) la mantención de la situación anterior a la guerra respecto al mundo
+<choice>colonial, debido al nuevo liderazgo mundial de Estados Unidos.
+<head_foot>- 34 -
+<head_foot>FORMA 121 - 2023
+<id_question>43.
+<prompt>Lee el siguiente texto de un discurso de George Marshall, en 1947:
+<prompt>―Es lógico que los Estados Unidos hagan cuanto esté en su poder para
+<prompt>ayudar a volver a una salud económica normal en el mundo, sin la cual
+<prompt>no cabe estabilidad política ni paz segura. Nuestra política no va dirigida
+<prompt>contra ningún país, ni ninguna doctrina, sino contra el hambre, la
+<prompt>pobreza, la desesperación y el caos. Su objetivo debe ser la vuelta a la
+<prompt>vida de una economía operante en el mundo, de forma que permita la
+<prompt>aparición de condiciones políticas y sociales en las que puedan existir
+<prompt>instituciones libres‖.
+<prompt>Historia1. (2007). Guerra Fría: El Plan Marshall. 6 de junio de 1947
+<prompt>https://historia1imagen.cl/2007/06/04/guerra-fria-el-plan-marshall-6-de-junio-de-1947/
+<prompt>El fin de la Segunda Guerra Mundial marcó el inicio de una nueva forma
+<prompt>de relaciones internacionales basada en la contraposición ideológica
+<prompt>conocida como Guerra Fría. En el contexto de Occidente, ¿qué
+<prompt>característica del escenario político del periodo es correcto inferir de la
+<prompt>cita?
+<choice>A) La neutralización del avance socialista por medio del impulso de
+<choice>Organizaciones No Gubernamentales.
+<choice>B) La instauración del liberalismo económico que disminuyó el rol del
+<choice>Estado en los países del área.
+<choice>C) El fomento de una política económica centralizada con el objetivo de
+<choice>obtener países aliados.
+<choice>D) La promoción de ayuda militar para los países subdesarrollados a fin
+<choice>de subsanar sus dificultades internas.
+<choice>E) La consolidación de un área de influencia a partir del
+<choice>establecimiento de sistemas de cooperación.
+<id_question>44.
+<prompt>A mediados de la década de 1950, Chile presentaba graves problemas
+<prompt>económicos estructurales, a los cuales se intentó dar solución por parte
+<prompt>de las autoridades de la época. Uno de estos problemas económicos
+<prompt>era
+<choice>A) el congelamiento de sueldos.
+<choice>B) la escasez de materias primas.
+<choice>C) la inflación descontrolada.
+<choice>D) la inexistencia de productividad industrial.
+<choice>E) la especulación financiera.
+<head_foot>- 35 -
+<head_foot>FORMA 121 - 2023
+<id_question>45.
+<prompt>La sociedad chilena durante la segunda mitad del siglo XX experimentó
+<prompt>importantes transformaciones. En este sentido, ¿qué proceso histórico
+<prompt>de la década de 1960 constituyó un cambio respecto de los treinta años
+<prompt>precedentes?
+<choice>A) La elaboración de proyectos políticos que propusieron cambios de
+<choice>carácter estructural en el país.
+<choice>B) La incapacidad de los partidos políticos para ampliar las bases
+<choice>sociales de su electorado.
+<choice>C) La aparición de nuevos grupos sociales que demandaron el fin del
+<choice>intervencionismo estatal en la economía.
+<choice>D) La limitación de los derechos políticos de grupos emergentes como los
+<choice>pobladores y las mujeres.
+<choice>E) La proliferación de movimientos políticos que plantearon el término del
+<choice>régimen democrático liberal.
+<id_question>46.
+<prompt>Tras la crisis del petróleo (1973-1974), y hacia fines de esa década, la
+<prompt>mayoría de los gobiernos de las democracias occidentales adoptaron
+<prompt>medidas neoliberales en su funcionamiento económico. ¿Cuál fue una
+<prompt>de esas medidas económicas?
+<choice>A) Traspasar la iniciativa económica desde el Estado a entidades
+<choice>privadas.
+<choice>B) Establecer planes quinquenales de desarrollo.
+<choice>C) Imponer una mayor regulación sobre el mercado.
+<choice>D) Fortalecer los servicios públicos del Estado.
+<choice>E) Nacionalizar los recursos naturales estratégicos de los países.
+<head_foot>- 36 -
+<head_foot>FORMA 121 - 2023
+<id_question>47.
+<prompt>Lee el siguiente texto:
+<prompt>―Una perspectiva alternativa sobre la Guerra Fría la ve definida como
+<prompt>una época de bipolaridad en la distribución del poder a nivel
+<prompt>internacional. Según esta perspectiva los aspectos ideológicos e
+<prompt>institucionales, aún cuando fueron importantes para entender los
+<prompt>detalles de la competencia entre Estados Unidos y la Unión Soviética,
+<prompt>fueron secundarios al hecho de que sólo existían dos superpotencias.
+<prompt>La política internacional en el hemisferio occidental se caracterizaba por
+<prompt>la unipolaridad la otra potencia no disputaba con Estados Unidos la
+<prompt>administración de los asuntos hemisféricos. Sin un rival en la zona, los
+<prompt>Estados Unidos podía, según esta perspectiva, ‗policiar‘ a la región‖.
+<prompt>Mares, D. (1995). La Guerra Fría en los conflictos latinoamericanos: mitos y realidades,
+<prompt>Fasoc, Vol. X, N° 2.
+<prompt>El texto anterior se refiere al contexto post Guerra Mundial y alude a la
+<prompt>influencia norteamericana en América Latina. A partir de su análisis, es
+<prompt>correcto afirmar que dicha influencia durante las décadas de 1960 y
+<prompt>1970 se dio en ámbitos tan variados como
+<choice>A) el apoyo a la mantención de la gran propiedad de la tierra en toda la
+<choice>región.
+<choice>B) la acción encubierta para la desestabilización de algunos gobiernos
+<choice>de la región.
+<choice>C) la ayuda económica a los gobiernos locales para disminuir su
+<choice>dependencia de las importaciones.
+<choice>D) el patrocinio a los procesos de nacionalización de las riquezas
+<choice>mineras en algunos países.
+<choice>E) el financiamiento a las organizaciones sociales de base para hacer
+<choice>frente a las dictaduras militares en el Cono Sur.
+<head_foot>- 37 -
+<head_foot>FORMA 121 - 2023
+<id_question>48.
+<prompt>Lee el siguiente texto:
+<prompt>―Pues bien, señores, hagamos la Alianza para el Progreso sobre esos
+<prompt>términos: que crezcan de verdad las economías de todos los países
+<prompt>miembros de la Organización de Estados Latinoamericanos; […] Y a
+<prompt>todos ustedes, señores Delegados, la delegación de Cuba les dice, con
+<prompt>toda franqueza: queremos, dentro de nuestras condiciones, estar dentro
+<prompt>de la familia latinoamericana queremos convivir con Latinoamérica
+<prompt>queremos verlos crecer, si fuera posible, al mismo ritmo en que estamos
+<prompt>creciendo nosotros, pero no nos oponemos a que crezcan a otro ritmo.
+<prompt>Lo que sí exigimos es la garantía de la no agresión para nuestras
+<prompt>fronteras‖.
+<prompt>El Historiador. (1961). Discurso de Ernesto Guevara en la quinta sesión plenaria del
+<prompt>Consejo Interamericano Económico y Social – Punta del Este, Uruguay.
+<prompt>https://www.elhistoriador.com.ar/discurso-de-ernesto-guevara-en-la-quinta-sesion-plenaria-del-consejo-interamericano-economico-y-social-punta-del-este-uruguay/
+<prompt>El extracto anterior, pronunciado por el líder de la Revolución Cubana
+<prompt>Ernesto Guevara en 1961, se inserta en el contexto de la Guerra Fría.
+<prompt>De su análisis, es correcto inferir que, respecto a la Alianza para el
+<prompt>Progreso, la posición de Cuba se orientaba a
+<choice>A) evitar que la ayuda económica de Estados Unidos se transformara
+<choice>en un freno al avance izquierdista en la región.
+<choice>B) oponerse terminantemente a esta política estadounidense propuesta
+<choice>para las economías americanas.
+<choice>C) asignarle un mayor protagonismo a Estados Unidos en la
+<choice>Organización de Estados Americanos.
+<choice>D) potenciar dicha Alianza como vehículo de promoción de reformas de
+<choice>carácter estructural en la región.
+<choice>E) propiciar esta iniciativa como un mecanismo de protección
+<choice>hemisférica.
+<head_foot>- 38 -
+<head_foot>FORMA 121 - 2023
+<id_question>49.
+<prompt>Lee el siguiente texto:
+<prompt>―Capítulo I
+<prompt>Disposiciones generales.
+<prompt>Artículo 66. Producida la expropiación de un predio y habiendo la
+<prompt>Corporación de la Reforma Agraria tomado posesión del mismo, esta
+<prompt>procederá a la instalación de un asentamiento campesino. […]
+<prompt>[Algunos de] sus principales objetivos básicos son los siguientes:
+<prompt>Explotar eficientemente las tierras que comprende el asentamiento,
+<prompt>mejorando la producción mediante la asistencia que proporciona o aporta
+<prompt>la Corporación de la Reforma Agraria.
+<prompt>Preparar y capacitar a los asentados para que asuman plenamente, al
+<prompt>término del asentamiento, las responsabilidades de propietarios y
+<prompt>empresarios agrícolas.
+<prompt>Orientar e impulsar el desarrollo de la comunidad, promoviendo la
+<prompt>preparación, creación y fortalecimiento de sus cooperativas y
+<prompt>organizaciones de base‖.
+<prompt>Ministerio de Agricultura. (1967). Ley 16.640. Reforma Agraria.
+<prompt>https://www.bcn.cl/leychile/navegar?idNorma=28596
+<prompt>El texto corresponde a un artículo de la Ley de Reforma Agraria
+<prompt>aprobada en el año 1967, en él se hace referencia a la instalación de
+<prompt>los asentamientos y de los objetivos de estos. A partir de la cita
+<prompt>anterior, ¿cuál de las siguientes afirmaciones es correcto inferir
+<prompt>respecto al contexto previo a la implementación de esta reforma
+<prompt>estructural?
+<choice>A) El campesinado estaba postergado económica y socialmente
+<choice>respecto de los trabajadores urbanos.
+<choice>B) El agro representaba el área económica de mayor importancia a
+<choice>nivel nacional.
+<choice>C) El campo chileno había logrado mantener elevados niveles de
+<choice>productividad.
+<choice>D) La propiedad agrícola estaba concentrada principalmente en manos
+<choice>de extranjeros.
+<choice>E) La infraestructura agrícola había alcanzado un alto grado de
+<choice>modernización.
+<head_foot>- 39 -
+<head_foot>FORMA 121 - 2023
+<id_question>50.
+<prompt>A partir de la década de 1980 en Chile, las políticas públicas respecto
+<prompt>del suelo urbano fueron compatibilizadas con el nuevo modelo
+<prompt>económico, el neoliberalismo. En este contexto, ¿cuál fue uno de los
+<prompt>efectos destacados que produjo esta política en las ciudades chilenas?
+<choice>A) El establecimiento de límites para proteger las tierras agrícolas
+<choice>ubicadas en zonas periféricas.
+<choice>B) El descenso del valor del suelo permitiendo a la población elegir
+<choice>libremente su vivienda propia.
+<choice>C) La tendencia hacia la homogenización del espacio al desaparecer toda
+<choice>forma de segregación social.
+<choice>D) La cesión de la facultad estatal en la construcción de viviendas a la
+<choice>empresa privada.
+<choice>E) La erradicación de los campamentos de emergencia de las zonas
+<choice>urbanas del país.
+<id_question>51.
+<prompt>Entre 1973 y 1990, Chile se organizó políticamente bajo un régimen
+<prompt>militar. Desde el punto de vista de las relaciones exteriores, ¿cuál fue
+<prompt>uno de los aspectos que caracterizó la relación de Chile con otros
+<prompt>países en aquel periodo?
+<choice>A) La cooperación con organismos de inteligencia de otras dictaduras.
+<choice>B) El fin de las controversias limítrofes con los países vecinos.
+<choice>C) El quiebre de relaciones diplomáticas con las potencias capitalistas.
+<choice>D) La expulsión del país de la Organización de Naciones Unidas.
+<choice>E) El cierre de los mercados europeos a las exportaciones mineras.
+<id_question>52.
+<prompt>En los primeros años de la década de 1980, el modelo neoliberal
+<prompt>aplicado en Chile por la Dictadura Militar enfrentó una gran crisis
+<prompt>económica. En este contexto, ¿cuál fue una de las medidas estatales
+<prompt>que se implementaron para enfrentar esta crisis?
+<choice>A) La intervención de instituciones bancarias y financieras.
+<choice>B) La disminución de los impuestos directos.
+<choice>C) La suspensión del pago de la deuda externa.
+<choice>D) El cese de las inversiones extranjeras en la industria.
+<choice>E) La concentración del gasto fiscal en el área de seguridad social.
+<head_foot>- 40 -
+<head_foot>FORMA 121 - 2023
+<id_question>53.
+<prompt>Lee el siguiente texto:
+<prompt>―Una economía de mercado libre es aquella que elimina las barreras
+<prompt>aduaneras y las restricciones, la que permite al ciudadano de un país que
+<prompt>compre donde crea que puede comprar más barato y que produzca
+<prompt>aquellos bienes que pueden vender en el exterior al precio más
+<prompt>conveniente.
+<prompt>De manera, entonces, para obtener en Chile un desarrollo económico
+<prompt>vigoroso, se necesita el fortalecimiento del sector privado mediante la
+<prompt>eliminación de obstáculos y los subsidios‖.
+<prompt>Friedman, M. (2012). Bases para un desarrollo económico. En Ángel Soto (Comp.), Un
+<prompt>legado de libertad Milton Friedman en Chile. Instituto Democracia y Mercado.
+<prompt>El texto corresponde a un extracto de la conferencia realizada por el
+<prompt>economista Milton Friedman en Chile en 1975, en la cual expone
+<prompt>algunos principios de las reformas económicas llevadas a cabo en el
+<prompt>país en esa época. Al respecto, ¿qué iniciativa propone el autor para
+<prompt>propiciar el crecimiento económico de Chile?
+<choice>A) El fomento de la industria nacional para sustituir las importaciones.
+<choice>B) La promoción del comercio exterior y de las ventajas comparativas.
+<choice>C) La participación del Estado en la administración de las empresas
+<choice>privadas.
+<choice>D) El aumento de los aranceles aduaneros a las exportaciones.
+<choice>E) La fijación estatal de precios y salarios para productores y
+<choice>trabajadores.
+<id_question>54.
+<prompt>Durante la década de 1990, en Chile, los distintos gobiernos de la
+<prompt>Concertación mantuvieron una línea en materia económica. ¿Cuál fue
+<prompt>una de las características del proyecto económico que tuvo dicha
+<prompt>coalición?
+<choice>A) La apertura basada en tratados y acuerdos comerciales.
+<choice>B) El fomento de las dinámicas económicas monopólicas antiliberales.
+<choice>C) El establecimiento de reformas estructurales favorables al estatismo.
+<choice>D) La reactivación de la industrialización paralizada por la Dictadura
+<choice>Militar.
+<choice>E) La aplicación de un programa de estatización de las empresas
+<choice>privatizadas.
+<head_foot>- 41 -
+<head_foot>FORMA 121 - 2023
+<id_question>55.
+<prompt>Lee el siguiente texto:
+<prompt>―Consenso es la enunciación de la supuesta, de la imaginaria armonía.
+<prompt>Los desacuerdos respecto a las características del desarrollo
+<prompt>socioeconómico impuesto por la Dictadura Militar aparecen
+<prompt>desvaneciéndose, desde el momento mismo que la banda presidencial
+<prompt>pasó de las manos de Pinochet a las de Aylwin. Es la enunciación de que
+<prompt>el problema del capitalismo pinochetista era Pinochet en el gobierno‖.
+<prompt>Moulian, T. (1997). Chile Actual: Anatomía de un Mito. Lom – Arcis.
+<prompt>A partir del análisis de la cita y del contexto de la época, ¿qué
+<prompt>característica del proceso de transición a la democracia es correcto
+<prompt>señalar?
+<choice>A) El permanente conflicto entre grupos sociales.
+<choice>B) Las tensiones entre los opositores al régimen.
+<choice>C) La continuidad del sistema político anterior.
+<choice>D) El protagonismo del Congreso Nacional sobre el Ejecutivo.
+<choice>E) La mantención del modelo económico neoliberal.
+<id_question>56.
+<prompt>En el año 1990, se creó la Comisión Nacional de Verdad y
+<prompt>Reconciliación, conocida como Comisión Rettig. Esta iniciativa se
+<prompt>inscribe en la recuperación de la democracia en Chile, después de una
+<prompt>larga dictadura. ¿Cuál fue la importancia de la instalación de esta
+<prompt>comisión?
+<choice>A) Compensó económicamente a los familiares de detenidos
+<choice>desaparecidos.
+<choice>B) Resolvió todos los casos pendientes de violaciones a los Derechos
+<choice>Humanos.
+<choice>C) Evidenció la valoración por el respeto de los Derechos Humanos en
+<choice>los inicios de la transición democrática.
+<choice>D) Estableció la amnistía para los militares involucrados en casos de
+<choice>Derechos Humanos.
+<choice>E) Permitió la incorporación de Chile en agrupaciones internacionales
+<choice>de Derechos Humanos.
+<head_foot>- 42 -
+<head_foot>FORMA 121 - 2023
+<id_question>57.
+<prompt>Una de las características del proceso de globalización contemporáneo
+<prompt>es la configuración de organismos e instituciones superestatales,
+<prompt>creados para coordinar las relaciones entre Estados en el marco de la
+<prompt>integración de mercados, pactos de comercio, asociaciones políticas,
+<prompt>estratégicas y culturales. El Fondo Monetario Internacional (FMI) es un
+<prompt>organismo supranacional que promueve tanto el comercio internacional
+<prompt>como la estabilidad del sistema monetario mundial a través del
+<prompt>siguiente mecanismo:
+<choice>A) consolidación del sistema financiero como instrumento de fijación de
+<choice>los precios de las materias primas.
+<choice>B) promoción del intercambio económico entre los países del Hemisferio
+<choice>Norte con los del Hemisferio Sur.
+<choice>C) supervisión de las políticas económicas aplicadas por los países y
+<choice>asesorías a sus gobiernos.
+<choice>D) generación de un sistema de relaciones internacionales que favorezca
+<choice>el intercambio y evite las guerras.
+<choice>E) promoción de políticas monetarias tendientes a asegurar el derecho a
+<choice>la educación en los países subdesarrollados.
+<id_question>58.
+<prompt>Hacia finales del siglo XX y principios del siglo XXI en Chile, las redes
+<prompt>de telecomunicación han impactado en la conectividad de la población.
+<prompt>¿Cuál es una de las principales características de este proceso?
+<choice>A) El aumento paulatino de las tarifas del servicio de telefonía celular.
+<choice>B) La concentración de estos servicios en las regiones extremas del
+<choice>país.
+<choice>C) El establecimiento de un monopolio en la prestación de estos
+<choice>servicios.
+<choice>D) El crecimiento sostenido de la cobertura de estos servicios en el
+<choice>territorio nacional.
+<choice>E) La saturación de las redes debido al crecimiento de la demanda de
+<choice>estos servicios.
+<head_foot>- 43 -
+<head_foot>FORMA 121 - 2023
+<other>ECONOMÍA Y SOCIEDAD
+<id_question>59.
+<prompt>Lee el siguiente texto:
+<prompt>―La lista de asignaturas pendientes en la región América Latina incluye
+<prompt>mayores tasas de inversión, ahorro y exportaciones, así como potenciar
+<prompt>el desarrollo del sector privado. Los países deben atacar sus
+<prompt>desequilibrios externos y fiscales, fortalecer la integración económica
+<prompt>regional para volverse más competitivos a nivel global y evitar sacrificar
+<prompt>indebidamente la inversión durante el proceso de ajuste. Las brechas
+<prompt>existentes en logística e infraestructura representan obstáculos
+<prompt>importantes para el comercio intrarregional; los costos logísticos
+<prompt>promedio son entre tres y cuatro veces más altos que en los países de la
+<prompt>OCDE‖.
+<prompt>Diario libre. (2017). La agenda inconclusa de un año que concluye.
+<prompt>https://www.diariolibre.com/opinion/en-directo/la-agenda-inconclusa-de-un-ano-que-concluye-AJ8874525
+<prompt>La cita anterior contiene las principales recomendaciones realizadas por
+<prompt>el Banco Mundial para que las economías de América Latina enfrenten
+<prompt>el escenario económico global en el corto plazo. Del análisis del texto,
+<prompt>¿cuál de las siguientes medidas se debe desarrollar para hacer más
+<prompt>competitiva a la región a nivel global?
+<choice>A) Disminuir los altos índices de pobreza que afectan a la población.
+<choice>B) Invertir en los mercados emergentes del resto del mundo.
+<choice>C) Fortalecer la presencia estatal en el sector exportador y financiero.
+<choice>D) Mejorar las plataformas comerciales dentro de la región.
+<choice>E) Aumentar los aranceles a las importaciones de los países.
+<head_foot>- 44 -
+<head_foot>FORMA 121 - 2023
+<id_question>60.
+<prompt>Frente al problema de la desigual distribución de los ingresos, el Estado
+<prompt>de Chile aplica una política de redistribución. Al respecto, una de las
+<prompt>medidas directamente orientadas a resolver el problema de la desigual
+<prompt>distribución del ingreso es
+<choice>A) el apoyo a las pequeñas y medianas empresas.
+<choice>B) la aplicación de impuestos como el IVA.
+<choice>C) la fijación de un salario mínimo.
+<choice>D) el reajuste de sueldos según IPC.
+<choice>E) la determinación de la tasa de interés.
+<id_question>61.
+<prompt>Según datos de la Asociación Nacional Automotriz de Chile, hacia 2014,
+<prompt>solo una de las 10 firmas que lideraron las ventas en el mercado local
+<prompt>realizó el 100 % de su producción en el país de origen. Toyota, por
+<prompt>ejemplo, es una compañía japonesa pero, de los autos que llegaban a
+<prompt>Chile, solo el 39 % provenía de Japón. El porcentaje restante de la
+<prompt>producción de esta marca provino de Tailandia (53 %) y Estados
+<prompt>Unidos (6 %). Al respecto, ¿por qué se fabrican de esta forma los autos
+<prompt>que se venden en Chile?
+<choice>A) Porque es una consecuencia de la producción en serie.
+<choice>B) Porque se persigue fomentar la industria internacional.
+<choice>C) Porque así está determinado en los acuerdos económicos.
+<choice>D) Porque las fases de la producción se han deslocalizado.
+<choice>E) Porque el mercado asiático define la demanda de este producto.
+<head_foot>- 45 -
+<head_foot>FORMA 121 - 2023
+<id_question>62.
+<prompt>La inflación implica el alza generalizada de los precios en un periodo de
+<prompt>tiempo prolongado. Por esta razón, cuando se produce, los
+<prompt>consumidores gastan mucho más dinero en sus compras habituales. En
+<prompt>este contexto, ¿qué efecto se produce en el consumo?
+<choice>A) Un incremento en el volumen total de ventas.
+<choice>B) Un mejoramiento en la calidad de los productos.
+<choice>C) Un aumento en el promedio de las remuneraciones.
+<choice>D) Una disminución del poder adquisitivo de las personas.
+<choice>E) Un descenso en la oferta crediticia del sector financiero.
+<id_question>63.
+<prompt>En Chile, las crisis económicas generan múltiples repercusiones, las
+<prompt>cuales a niveles macroeconómicos, se evidencian por lo general en
+<choice>A) el aumento de las exportaciones.
+<choice>B) la disminución de la subvención estatal.
+<choice>C) el aumento del Producto Interno Bruto.
+<choice>D) la progresiva disminución en el consumo.
+<choice>E) el aumento de la importación de materias primas.
+<head_foot>- 46 -
+<head_foot>FORMA 121 - 2023
+<id_question>64.
+<prompt>Un bien puede ser tanto un objeto material o un servicio inmaterial,
+<prompt>cuyo uso permite satisfacer una necesidad determinada. Dentro de los
+<prompt>diversos tipos de bienes que se reconocen, existen aquellos
+<prompt>denominados libres, respecto de los cuales es correcto afirmar que
+<choice>A) se consideran como bienes ilimitados.
+<choice>B) su disponibilidad depende del nivel de industrialización.
+<choice>C) su acceso depende del monto del ingreso familiar.
+<choice>D) son bienes de alto nivel tecnológico.
+<choice>E) son el conjunto de recursos naturales de un país.
+<id_question>65.
+<prompt>Lee el siguiente texto:
+<prompt>―Es una estrategia práctica de administración de la economía doméstica
+<prompt>que busca, al mismo tiempo, mantener a los acreedores medianamente
+<prompt>satisfechos (por ejemplo, sin cerrar nuestras fuentes de crédito) y
+<prompt>sostener un nivel de vida básico. Este es el popular ―bicicleteo‖ que las
+<prompt>familias realizan para sostener su economía doméstica, y que atañe a un
+<prompt>uso normalizado del crédito, que deja pensarse como una inversión y
+<prompt>comienza a adquirir el estatus de una cuenta básica, un costo regular de
+<prompt>la economía del hogar‖.
+<prompt>Pérez, L. y Gómez, M. (2 de julio de 2020). Endeudamiento desigual en Chile: cuánto
+<prompt>debemos, en qué lo gastamos y cómo está parado cada uno para la crisis. Centro de
+<prompt>Estudios de Conflicto y Cohesión Social. https://coes.cl/prensa-endeudamiento-desigual-en-
+<prompt>chile-cuanto-debemos-en-que-lo-gastamos-y-como-esta-parado-cada-uno-para-la-crisis/
+<prompt>De acuerdo con lo planteado en el texto, ¿cuál es el problema
+<prompt>económico que se infiere en la relación entre la familia y el mercado?
+<choice>A) La inestabilidad de los precios en la economía local.
+<choice>B) La jerarquización de las necesidades de las personas.
+<choice>C) El desajuste entre la oferta de bienes respecto a la demanda.
+<choice>D) El incremento del endeudamiento en el presupuesto de los hogares.
+<choice>E) El descenso del gasto de las familias en bienes de primera necesidad.
+<head_foot>- 47 -

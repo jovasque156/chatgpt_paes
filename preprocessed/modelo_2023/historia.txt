@@ -1,0 +1,1014 @@
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<other>FORMACIÓN CIUDADANA
+<id_question>1.
+<prompt>Una de las características de los derechos humanos es su indivisibilidad. Al
+<prompt>respecto, ¿cuál de los siguientes planteamientos evidencia esta
+<prompt>característica?
+<choice>A) Las personas adquieren los derechos humanos al momento de
+<choice>nacer.
+<choice>B) El paso del tiempo mantiene inalterada la vigencia de los derechos
+<choice>humanos.
+<choice>C) Los derechos humanos son jerarquizados según su importancia en
+<choice>la legislación de cada país.
+<choice>D) El respeto de los derechos humanos está condicionado al orden
+<choice>jurídico vigente en cada nación.
+<choice>E) La negación de un derecho humano pone en riesgo el
+<choice>mantenimiento de los demás derechos.
+<id_question>2.
+<prompt>Durante las primeras dos décadas del siglo XXI, uno de los desafíos que
+<prompt>enfrenta el Estado de Chile es la superación de la marcada desigualdad
+<prompt>socioeconómica existente entre la población. ¿Cuál es una de las iniciativas
+<prompt>concretas que ha tomado el Estado para abordar este problema?
+<choice>A) La fijación de una banda de precios para los servicios
+<choice>educacionales.
+<choice>B) La rebaja de los impuestos asociados al consumo de bienes de
+<choice>primera necesidad.
+<choice>C) La aprobación de un salario ético sin restricciones asociadas a la
+<choice>condición de ingresos.
+<choice>D) La condonación por ley de las deudas que las personas tienen con
+<choice>las instituciones financieras.
+<choice>E) La oferta de capacitación laboral a personas que se encuentren en
+<choice>situación de vulnerabilidad social.
+<head_foot>– 3 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>3.
+<prompt>Durante las últimas décadas, en Chile se han desarrollado distintos avances
+<prompt>en la relación entre el Estado y los pueblos indígenas existentes en el
+<prompt>territorio chileno. Considerando la importancia de la diversidad cultural,
+<prompt>¿cuál ha sido uno de estos avances en el ámbito jurídico-político?
+<choice>A) El reconocimiento de la autonomía política respecto del Estado
+<choice>chileno.
+<choice>B) La creación de una institucionalidad orientada al desarrollo integral
+<choice>de los pueblos originarios.
+<choice>C) El establecimiento de cuotas en el Congreso Nacional para el
+<choice>ejercicio de la labor legislativa.
+<choice>D) La definición del carácter plurinacional del Estado chileno en la
+<choice>Constitución Política de la República.
+<choice>E) La implementación de un sistema de administración de justicia
+<choice>independiente para los pueblos originarios.
+<head_foot>– 4 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>4.
+<prompt>Lee el siguiente texto:
+<prompt>“La transparencia es una recién llegada a la reflexión y a la práctica
+<prompt>democrática. […] Nadie sensato, en nuestros días, podría diferir de la
+<prompt>importancia que tiene el acceso de la información pública como una de las
+<prompt>condiciones sustantivas para incrementar la calidad de la democracia”
+<prompt>(Aguilar, 2008).
+<prompt>Aguilar, J. (2008). Transparencia y democracia: claves para un concierto. México D.F.: Instituto Federal de
+<prompt>acceso a la información pública. Recuperado de http://148.202.167.116:8080/xmlui/handle/123456789/1168
+<prompt>El texto alude a la importancia de la transparencia en la sociedad. ¿De qué
+<prompt>forma contribuye la transparencia al proceso de fortalecimiento de la
+<prompt>democracia en Chile?
+<choice>A) Establece el carácter independiente entre los distintos poderes del
+<choice>Estado.
+<choice>B) Permite el acceso de la ciudadanía a la información reservada del
+<choice>Estado.
+<choice>C) Permite un mayor control de la ciudadanía sobre las instituciones
+<choice>públicas.
+<choice>D) Limita las atribuciones de los funcionarios públicos en el ejercicio de
+<choice>sus labores.
+<choice>E) Garantiza la erradicación de los conflictos de interés al interior de las
+<choice>instituciones públicas.
+<head_foot>– 5 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>5.
+<prompt>La tendencia del derecho internacional de establecer algunos parámetros
+<prompt>globales en materia de derechos humanos, ha sido valorada por diversos
+<prompt>actores sociales e institucionales chilenos y del mundo, especialmente en lo
+<prompt>que concierne al establecimiento de tribunales, jurisprudencia y normas
+<prompt>legales de vigencia universal. Sin embargo, existen algunos detractores al
+<prompt>establecimiento de estos derechos. Al respecto, ¿cuál es una de las críticas
+<prompt>planteadas por estos detractores?
+<choice>A) La carencia de información detallada sobre la institucionalidad relativa
+<choice>a los derechos humanos.
+<choice>B) La dificultad de promulgar leyes que sean comprensibles en los
+<choice>distintos países del mundo.
+<choice>C) La amenaza de debilitamiento de la soberanía nacional de los Estados
+<choice>frente a los organismos internacionales.
+<choice>D) La pérdida de las libertades individuales de las personas a causa de la
+<choice>aplicación de un marco internacional de derechos.
+<choice>E) La posibilidad de que se produzcan arbitrariedades en la designación
+<choice>de las autoridades de los organismos supranacionales.
+<id_question>6.
+<prompt>En el contexto de la organización del sistema democrático chileno actual, la
+<prompt>legislación vigente define derechos y deberes a la ciudadanía. En este
+<prompt>contexto, ¿cuál es una de las atribuciones que tiene la ciudadanía?
+<choice>A) Designar a las personas que ocuparán los cargos de ministros de
+<choice>Estado.
+<choice>B) Hacer cumplir las sentencias aplicadas a personas que hayan
+<choice>cometido un delito.
+<choice>C) Conocer los presupuestos de las organizaciones no
+<choice>gubernamentales.
+<choice>D) Acceder a la información relevante de las instituciones de la
+<choice>administración pública.
+<choice>E) Vetar los aspectos desfavorables de los proyectos de ley
+<choice>presentados en el Congreso Nacional.
+<head_foot>– 6 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>7.
+<prompt>El Estado de Chile ha ratificado diversos acuerdos internacionales en
+<prompt>materia de derechos humanos. ¿Cuál es un efecto de esta acción en el
+<prompt>escenario internacional?
+<choice>A) La progresiva consolidación de un ordenamiento jurídico a escala
+<choice>internacional.
+<choice>B) La creciente polarización ideológica de las relaciones diplomáticas
+<choice>internacionales.
+<choice>C) La modificación de las políticas de defensa implementadas por las
+<choice>potencias mundiales.
+<choice>D) La erradicación de la guerra como mecanismo de resolución de los
+<choice>conflictos internacionales.
+<choice>E) La implementación de un sistema libre de controles fronterizos para
+<choice>las migraciones internacionales.
+<id_question>8.
+<prompt>Desde inicios del siglo XXI, en Chile se han producido diversos
+<prompt>problemas que han impuesto al Estado un conjunto de desafíos que debe
+<prompt>enfrentar en beneficio de la población. Considerando la promoción del
+<prompt>bien común como finalidad del Estado, ¿cuál ha sido uno de esos
+<prompt>desafíos?
+<choice>A) La erradicación de la extrema pobreza.
+<choice>B) La fijación por ley de un salario mínimo.
+<choice>C) El acceso gratuito a la educación escolar pública.
+<choice>D) La implementación de un sistema de seguridad social.
+<choice>E) El reconocimiento constitucional de los derechos políticos.
+<head_foot>– 7 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>9.
+<prompt>Lee el siguiente texto:
+<prompt>EL CÓNDOR PODRÍA ESTAR MUY PRONTO EN PELIGRO DE
+<prompt>EXTINCIÓN
+<prompt>“La principal razón es que su fuente tradicional de alimento e incluso la
+<prompt>alternativa están mermando. Históricamente, su principal sustento eran los
+<prompt>guanacos cordilleranos, pero ahora casi ya no se ven, especialmente en la
+<prompt>zona central, y por eso ha optado por los cadáveres de la ganadería… y
+<prompt>ahora Chile está importando cada vez más carne.
+<prompt>Al problema de la falta de alimento hay que sumar otros problemas más
+<prompt>recientes, como las intoxicaciones”.
+<prompt>Disponible en El Mercurio, 20 de septiembre de 2015.
+<prompt>La cita alude a un problema medioambiental existente en Chile. ¿Cuál de
+<prompt>las siguientes acciones contribuye a superar este problema?
+<choice>A) Prohibir el acceso a los parques y reservas nacionales.
+<choice>B) Subsidiar el desarrollo de nuevas plantaciones forestales.
+<choice>C) Restringir la explotación de recursos naturales no renovables.
+<choice>D) Fortalecer los procesos de educación ambiental en la población.
+<choice>E) Introducir nuevas especies de aves en hábitats menos intervenidos.
+<head_foot>– 8 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>10.
+<prompt>El cambio climático global produce múltiples impactos que desafían a la
+<prompt>sociedad chilena a adaptarse en distintos ámbitos. En este sentido, ¿cuál
+<prompt>de las siguientes acciones ha estado realizando el Estado chileno durante
+<prompt>las últimas dos décadas para enfrentar los efectos del cambio climático
+<prompt>global?
+<choice>A) La puesta en marcha de una política nacional de reducción del parque
+<choice>automotor.
+<choice>B) La implementación de un plan de cierre progresivo de las plantas
+<choice>termoeléctricas.
+<choice>C) La creación de un sistema interconectado central de distribución de
+<choice>energía eléctrica.
+<choice>D) La especialización de la actividad forestal de la Zona Centro-Sur en la
+<choice>explotación de especies nativas.
+<choice>E) La aplicación de un plan orientado a la reducción del volumen de la
+<choice>masa ganadera bovina a nivel nacional.
+<id_question>11.
+<prompt>La actividad humana ha ocasionado diversos efectos negativos sobre el
+<prompt>medio ambiente, a un ritmo cada vez más acelerado. Desde una
+<prompt>perspectiva global, ¿cuál de las siguientes afirmaciones es correcta
+<prompt>respecto de la situación descrita?
+<choice>A) Los países menos desarrollados aportan el mayor volumen de gases
+<choice>de efecto invernadero.
+<choice>B) Los países más industrializados generan mayores niveles de
+<choice>contaminación del aire.
+<choice>C) Los países desarrollados han reemplazado el conjunto de las fuentes
+<choice>de generación de energía por fuentes limpias.
+<choice>D) Las economías de las naciones más ricas del mundo se han negado a
+<choice>desarrollar innovaciones en materia de reciclaje.
+<choice>E) Los países en vías de desarrollo rechazan los acuerdos
+<choice>internacionales en materia de protección del medio ambiente.
+<head_foot>– 9 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>12.
+<prompt>En el contexto de la era industrial se han generado diversos impactos sobre
+<prompt>el medio ambiente. Desde la perspectiva del desarrollo sostenible, ¿qué
+<prompt>acción puede realizar la industria para contribuir a la disminución de los
+<prompt>impactos negativos que genera?
+<choice>A) Diversificar la oferta de bienes que producen.
+<choice>B) Reducir el número de trabajadores contratados.
+<choice>C) Paralizar la producción durante algunos periodos.
+<choice>D) Utilizar energía producida por fuentes renovables.
+<choice>E) Localizar sus instalaciones en lugares despoblados.
+<id_question>13.
+<prompt>En la sociedad chilena existen organizaciones que cumplen distintas
+<prompt>funciones en la vida política, entre las que destacan los partidos políticos.
+<prompt>En este contexto, ¿cuál es una de las funciones que desempeñan los
+<prompt>partidos políticos?
+<choice>A) Ejercen influencia en la conducción del Estado.
+<choice>B) Determinan las atribuciones de los ministros de Estado.
+<choice>C) Implementan las políticas públicas en el ámbito electoral.
+<choice>D) Fiscalizan el cumplimiento de las obligaciones tributarias.
+<choice>E) Designan a la máxima autoridad de las administraciones locales.
+<head_foot>– 10 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>14.
+<prompt>En el contexto de la comunidad internacional se considera que el respeto,
+<prompt>protección y promoción de los derechos humanos es una obligación de los
+<prompt>Estados nacionales. En el caso del Estado chileno, ¿cuál es una evidencia
+<prompt>de este compromiso?
+<choice>A) El desarrollo de candidaturas parlamentarias con foco en los derechos
+<choice>humanos.
+<choice>B) La creación de una institución especializada en temas de derechos
+<choice>humanos.
+<choice>C) El aceleramiento de las causas de derechos humanos en los tribunales
+<choice>de justicia.
+<choice>D) La implementación de un sistema de administración pública
+<choice>jerarquizado.
+<choice>E) El aumento de atribuciones de los organismos privados de seguridad
+<choice>respecto del orden público.
+<id_question>15.
+<prompt>En las últimas dos décadas, el flujo de población inmigrante desde países
+<prompt>latinoamericanos hacia Chile ha aumentado, provocando una mayor
+<prompt>diversidad en la sociedad. Desde la perspectiva de los derechos humanos,
+<prompt>¿de qué forma el Estado se hace cargo de esta diversidad?
+<choice>A) Reduciendo la carga tributaria a las personas inmigrantes.
+<choice>B) Asegurando la ocupación laboral de las personas inmigrantes.
+<choice>C) Concentrando a la población inmigrante en lugares específicos.
+<choice>D) Flexibilizando los controles fronterizos a quienes ingresan al país.
+<choice>E) Garantizando el acceso a la educación escolar a la población
+<choice>inmigrante.
+<head_foot>– 11 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>16.
+<prompt>La elección de autoridades durante la última década en Chile ha
+<prompt>evidenciado una baja participación de la ciudadanía. ¿Cuál es un factor que
+<prompt>influye en este comportamiento?
+<choice>A) La disminución del padrón electoral.
+<choice>B) La falta de alianzas entre los partidos políticos.
+<choice>C) La precaria organización de los procesos electorales.
+<choice>D) La escasa credibilidad en el sistema político tradicional.
+<choice>E) La limitación en la edad para la obtención de derechos políticos.
+<choice>HISTORIA EN PERSPECTIVA:
+<choice>MUNDO, AMÉRICA Y CHILE
+<id_question>17.
+<prompt>Tras la Guerra de Independencia, la República de Chile debió organizarse
+<prompt>política, administrativa y económicamente. En este sentido, las ideas
+<prompt>liberales jugaron un rol fundamental incluso durante los gobiernos
+<prompt>conservadores. Al respecto, ¿qué medida de corte liberal aplicaron estos
+<prompt>últimos gobiernos?
+<choice>A) Incentivar la producción salitrera en el territorio nacional.
+<choice>B) Establecer el estanco del tabaco concesionándolo a los privados.
+<choice>C) Firmar tratados de libre comercio con las economías latinoamericanas.
+<choice>D) Consolidar un modelo de industrialización sustitutivo de importaciones.
+<choice>E) Permitir el ingreso de capitales extranjeros en diversas actividades
+<choice>económicas.
+<head_foot>– 12 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>18.
+<prompt>A partir de 1830, como consecuencia de la Guerra de Independencia y del
+<prompt>periodo de inestabilidad que le siguió, el gobierno de Chile debió iniciar un
+<prompt>periodo de estabilización institucional. Esta tarea constituía importantes
+<prompt>desafíos en diversos ámbitos. Respecto de la economía, ¿cuál fue una de
+<prompt>las tareas prioritarias del Estado en la primera mitad del siglo XIX?
+<choice>A) Eliminar la presencia europea en la economía nacional.
+<choice>B) Disminuir la cesantía a través del aumento del empleo público.
+<choice>C) Reordenar el sistema de administración de las finanzas públicas.
+<choice>D) Fortalecer los mercados internos reduciendo el comercio exterior.
+<choice>E) Fomentar la actividad financiera a través de la fundación de bancos.
+<id_question>19.
+<prompt>La historiografía chilena del siglo XIX, en general, consideraba que Chile
+<prompt>alcanzó una estabilidad política hacia la década de 1830. En este contexto,
+<prompt>¿cuál fue uno de los factores que contribuyó a esta temprana estabilidad?
+<choice>A) La rápida cancelación de la deuda externa.
+<choice>B) El fuerte crecimiento debido a la actividad agrícola.
+<choice>C) Las escasas diferencias socioeconómicas de la población.
+<choice>D) La ausencia de intereses contrapuestos entre miembros de la elite.
+<choice>E) La falta de disputas políticas sobre el sistema de gobierno a seguir.
+<head_foot>– 13 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>20.
+<prompt>CHILE: EXPORTACIÓN MINERA DE COBRE, 1800-1840 (en toneladas)
+<prompt>Méndez, L. (2009). El comercio minero terrestre entre Chile y Argentina 1800-1840.
+<prompt>Caminos, arriería y exportación minera. Santiago de Chile, Universidad de Chile,
+<prompt>Fondo de publicaciones americanistas.
+<prompt>El gráfico anterior indica las exportaciones chilenas de cobre en las
+<prompt>primeras cuatro décadas del siglo XIX. Considerando el análisis del gráfico
+<prompt>y el comportamiento de la economía chilena tras el proceso de
+<prompt>estabilización política, ¿cuál fue una estrategia económica promovida en
+<prompt>Chile?
+<choice>A) La ampliación hacia los mercados internacionales.
+<choice>B) El control monopólico de la gran minería del cobre.
+<choice>C) La aplicación de una política estatal de fomento industrial.
+<choice>D) La eliminación de los aranceles aduaneros a los minerales.
+<choice>E) La implementación de la mecanización en las faenas productivas.
+<head_foot>– 14 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>21.
+<prompt>Durante el siglo XIX, el Estado chileno desarrolló una política de
+<prompt>exploraciones geográficas a través de la contratación de científicos, tales
+<prompt>como Claudio Gay e Ignacio Domeyko. ¿Cuál fue uno de los procesos
+<prompt>distintivos que se vieron favorecidos con esta política estatal?
+<choice>A) La fortificación de la mayoría de los puertos nacionales.
+<choice>B) La consolidación de enclaves industriales en la Zona Austral.
+<choice>C) La migración de la población campesina a las zonas extremas.
+<choice>D) La explotación de recursos minerales en la Zona Norte del país.
+<choice>E) La fundación de nuevas ciudades en la Zona Central del territorio.
+<id_question>22.
+<prompt>En Chile, la década de 1840 se caracterizó por la profundización y
+<prompt>expansión del ideario liberal en diversas esferas de la sociedad. ¿Cuál de
+<prompt>las siguientes transformaciones constituye una expresión del ideario liberal
+<prompt>en el periodo?
+<choice>A) La aprobación de leyes de protección laboral.
+<choice>B) El desarrollo de la educación superior pública.
+<choice>C) La aprobación de derechos políticos a las mujeres.
+<choice>D) La separación de las funciones de la Iglesia y del Estado.
+<choice>E) La ampliación de las atribuciones políticas del Parlamento.
+<head_foot>– 15 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>23.
+<prompt>Lee el siguiente texto:
+<prompt>“La precursora de las sociedades de artesanos fue la que comenzó a
+<prompt>gestarse en Santiago en 1861 gracias a la iniciativa de Fermín Vivaceta
+<prompt>[…] que llevaría por nombre Sociedad de la Unión. Sus objetivos serían
+<prompt>la instalación de una caja de ahorros destinada a socorrer a todos los
+<prompt>artesanos enfermos, imposibilitados o ancianos —sin miramiento de
+<prompt>nacionalidad—, así como a sus familias en caso de fallecimiento del
+<prompt>asociado. También se proyectaba la realización de clases de carpintería,
+<prompt>arquitectura, albañilería, dibujo lineal y otras materias en horario
+<prompt>vespertino. El programa de la naciente institución estipulaba que se
+<prompt>debía „prescindir absolutamente en sus reuniones de toda intervención
+<prompt>política‟, disposición que haría escuela entre sus homólogas” (Grez,
+<prompt>1998).
+<prompt>Grez, S. (1998). De la “regeneración del pueblo” a la huelga general. Génesis y evolución
+<prompt>histórica del movimiento popular en Chile (1810-1890). Santiago de Chile: Dibam.
+<prompt>A mediados del siglo XIX ocurrieron significativos cambios en la sociedad
+<prompt>chilena en las ciudades. En relación con lo anterior, ¿qué transformación de
+<prompt>ese periodo se describe en el texto?
+<choice>A) Los avances técnicos introducidos por los extranjeros en la actividad
+<choice>artesanal.
+<choice>B) La ayuda filantrópica entregada por la aristocracia a los sectores
+<choice>populares.
+<choice>C) El reemplazo acelerado de los trabajos artesanales por las labores
+<choice>industriales.
+<choice>D) El surgimiento de organizaciones de ayuda mutua propias de los
+<choice>trabajadores.
+<choice>E) La consolidación del movimiento sindical por la reivindicación de
+<choice>derechos políticos de los obreros.
+<head_foot>– 16 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>24.
+<prompt>Hacia mediados del siglo XIX, diversos actores sociales aspiraron a generar
+<prompt>reformas políticas que incorporaran activamente a los sectores populares.
+<prompt>¿Cuál fue una expresión de estas nuevas formas de sociabilidad política?
+<choice>A) La formación de diversos sindicatos.
+<choice>B) La fundación de la Universidad de Chile.
+<choice>C) La creación de la Sociedad de la Igualdad.
+<choice>D) La conformación de partidos políticos obreros.
+<choice>E) La organización de instituciones de beneficencia.
+<id_question>25.
+<prompt>A mediados del siglo XIX, la economía chilena estaba en un proceso de
+<prompt>modernización, en el cual se manifestaron diferentes tendencias ideológicas
+<prompt>defendidas por diversos actores que pretendían imponer su concepción del
+<prompt>manejo económico del país. ¿Cuáles son los actores a los que se alude en
+<prompt>el párrafo anterior?
+<choice>A) Los trabajadores que pretendían imponer sus derechos y los
+<choice>empresarios que se negaban a reconocerlos.
+<choice>B) Un grupo que defendía una economía de carácter más tradicional y
+<choice>otro que propiciaba un mayor liberalismo económico.
+<choice>C) El partido conservador, que favorecía la completa estatización de la
+<choice>economía, y el socialista, que buscaba su liberalización.
+<choice>D) Los caudillos afines al paternalismo rural y los radicales que querían
+<choice>un crecimiento basado en el trabajo artesanal y manufacturero.
+<choice>E) La Iglesia, que rechazaba el lucro, y los comerciantes y financistas
+<choice>que pretendían maximizar sus ganancias con el cobro de intereses.
+<head_foot>– 17 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>26.
+<prompt>En la segunda mitad del siglo XIX, Chile presentó una transformación
+<prompt>económica caracterizada por la modernización de parte importante de sus
+<prompt>áreas productivas. ¿Cuál fue uno de los efectos sociales de este proceso?
+<choice>A) La reducción de la diferenciación socioeconómica de la población.
+<choice>B) El surgimiento de una clase obrera asociada a las labores mineras.
+<choice>C) La disminución significativa de la pobreza en los sectores populares.
+<choice>D) El fortalecimiento del inquilinaje producto del auge de la agroindustria.
+<choice>E) La masiva incorporación del empresariado nacional a la actividad
+<choice>industrial.
+<id_question>27.
+<prompt>PROCESOS DE EXPANSIÓN TERRITORIAL DE CHILE
+<prompt>DURANTE EL SIGLO XIX
+<prompt>Procesos Localización Consecuencia
+<prompt>Incorporación de una zona rica
+<prompt>Guerra del Pacífico Norte Grande
+<prompt>en yacimientos salitreros
+<prompt>Ocupación de La
+<prompt>La Araucanía
+<prompt>Araucanía
+<prompt>El cuadro anexo incluye dos procesos de expansión territorial de Chile
+<prompt>ocurridos durante el siglo XIX. En este contexto, ¿qué consecuencia
+<prompt>económica corresponde incorporar en el rectángulo vacío?
+<choice>A) Anexión de un territorio con riquezas en minería metálica.
+<choice>B) Incorporación de tierras aptas para la producción cerealera.
+<choice>C) Incorporación de un área destacada por su ganadería ovina.
+<choice>D) Anexión de un área óptima para desarrollar la actividad pesquera.
+<choice>E) Anexión de una zona apta para desarrollar la industria manufacturera.
+<head_foot>– 18 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>28.
+<prompt>La Constitución de 1833 fue promulgada en los inicios de la República
+<prompt>Conservadora y permitió consolidar un régimen de gobierno autoritario.
+<prompt>Posteriormente, durante el periodo liberal, se mantuvo dicha constitución,
+<prompt>pero se le hicieron reformas. Al respecto, ¿cuál fue uno de los objetivos de
+<prompt>dichas reformas?
+<choice>A) Restringir el conjunto de libertades civiles.
+<choice>B) Establecer un Estado con un rol subsidiario.
+<choice>C) Disminuir las atribuciones del Poder Ejecutivo.
+<choice>D) Promover la implementación de un gobierno de tipo federal.
+<choice>E) Separar los poderes del Estado para producir equilibrio de poder.
+<head_foot>– 19 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>29.
+<prompt>Lee el siguiente texto:
+<prompt>“Esta obra verdaderamente monumental, como la Canalización del
+<prompt>Mapocho, presenta las siguientes ventajas que saltan a la vista:
+<prompt>1. Define la ciudad estableciendo los límites propios de ésta,
+<prompt>demarcación que hoy día forma una de sus más imperiosas
+<prompt>necesidades, con relación a la edilidad, (es decir al pavimento, las
+<prompt>aceras, las plantaciones, el alumbrado, la seguridad, el uso del agua
+<prompt>potable, etc.) creando la ciudad propia, sujeta a los cargos y
+<prompt>beneficios del municipio, y los suburbios, para los cuales debe existir
+<prompt>un régimen aparte, menos oneroso y menos activo.
+<prompt>2. Establece alrededor de los centros poblados una especie de cordón
+<prompt>sanitario, por medio de sus plantaciones, contra las influencias
+<prompt>pestilenciales de los arrabales”.
+<prompt>Benjamín Vicuña Mackenna, La transformación de Santiago, citado en Leyton, C. y Huertas, R.
+<prompt>(2012). Reforma urbana e higiene social en Santiago de Chile: La tecno-utopía liberal de Benjamín
+<prompt>Vicuña Mackenna (1872-1875). Dynamis, 32 (1), 21-44. Recuperado de
+<prompt>https://dx.doi.org/10.4321/S0211-95362012000100002
+<prompt>De acuerdo con el texto y considerando la corriente de pensamiento político
+<prompt>y social predominante durante la segunda mitad del siglo XIX en Chile,
+<prompt>¿qué aspecto del pensamiento liberal se refleja en la formulación de este
+<prompt>proyecto?
+<choice>A) La concreción de la idea de civilización y progreso.
+<choice>B) La integración de sectores populares a la ciudadanía.
+<choice>C) La defensa de los derechos individuales de las personas.
+<choice>D) La promoción de las libertades políticas de los ciudadanos.
+<choice>E) La intención de fomentar la secularización de las instituciones.
+<head_foot>– 20 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>30.
+<prompt>Lee el siguiente texto:
+<prompt>“El Estado ha logrado obtener en los 50 años transcurridos desde 1880, una
+<prompt>entrada o ganancia líquida (tanto por derechos de exportación, como por
+<prompt>ventas y arrendamientos de terrenos e intereses de dineros dados en
+<prompt>préstamos), que puede estimarse, en forma global [en] 8.250 millones
+<prompt>durante el medio siglo contemplado” (Marín, 1931).
+<prompt>Marín Vicuña, S. (1931). El Salitre de Chile 1830-1930. Santiago de Chile: Nascimento.
+<prompt>La magnitud de la riqueza generada por el salitre en ingresos percibidos por
+<prompt>el Estado, permitió el aumento del gasto fiscal entre 1880 y 1930. ¿A cuál
+<prompt>de las siguientes acciones se destinó principalmente esta inversión?
+<choice>A) A la implementación de la Reforma Agraria.
+<choice>B) A la construcción de diversas obras públicas.
+<choice>C) A la nacionalización de los yacimientos mineros.
+<choice>D) Al desarrollo de un plan de sustitución de importaciones.
+<choice>E) A la creación de la Corporación de Fomento de la Producción.
+<id_question>31.
+<prompt>Desde el siglo XIX y hasta la actualidad, los problemas de límites de Chile
+<prompt>con los países vecinos han sido una situación permanente en materia de
+<prompt>relaciones internacionales. En este sentido, ¿cuál ha sido la estrategia más
+<prompt>recurrente del Estado chileno para buscar solución a estos conflictos?
+<choice>A) La realización de plebiscitos.
+<choice>B) La cesión voluntaria de territorios.
+<choice>C) La utilización de la vía diplomática.
+<choice>D) El desarrollo de enfrentamientos bélicos.
+<choice>E) El uso de territorios con soberanía compartida.
+<head_foot>– 21 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>32.
+<prompt>Lee el siguiente texto:
+<prompt>“El puente ferroviario sobre el río Malleco, fue encargado a la famosa
+<prompt>empresa constructora francesa „Schneider & Cia., Le Creusot‟. Con 347
+<prompt>metros de largo y 100 de alto, el viaducto sobre el río Malleco fue uno de
+<prompt>los puentes más altos de Sudamérica, superado en Chile sólo por el
+<prompt>puente Conchi sobre el río Loa, perteneciente al ferrocarril de Antofagasta
+<prompt>a Bolivia. La inauguración del viaducto fue en octubre de 1890, ceremonia
+<prompt>que contó con la presencia del Presidente José Manuel Balmaceda”.
+<prompt>Biblioteca Nacional (Chile) (2016). Donaron a la Biblioteca Nacional álbum fotográfico del
+<prompt>viaducto de Malleco. Recuperado de https://www.bibliotecanacional.gob.cl/615/w3-article-63192.html?_noredirect=1
+<prompt>Esta cita alude a uno de los procesos característicos del periodo de
+<prompt>consolidación de Chile como Estado-nación durante el siglo XIX. ¿A qué
+<prompt>proceso se hace referencia?
+<choice>A) A los conflictos bélicos externos del país, traducidos en anexiones
+<choice>territoriales.
+<choice>B) Al aumento de la conectividad territorial como mecanismo de control
+<choice>por parte del Estado.
+<choice>C) A la colonización extranjera, principalmente europea, en el sur del
+<choice>país, como núcleo de desarrollo.
+<choice>D) A los convenios de paz y colaboración entre los países limítrofes
+<choice>traducidos en nuevos sistemas de transporte.
+<choice>E) Al desarrollo científico-técnico alcanzado por el país a fines del siglo
+<choice>especialmente en la producción siderúrgica nacional.
+<head_foot>– 22 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>33.
+<prompt>A fines del siglo XIX, las principales potencias europeas se disputaron el
+<prompt>control de vastos territorios del mundo, especialmente en África y Asia. Este
+<prompt>proceso fue conocido como imperialismo. ¿Cuál es uno de los aspectos
+<prompt>económicos que caracterizaron este proceso?
+<choice>A) La conformación de alianzas comerciales entre metrópolis.
+<choice>B) El fomento de la industrialización en los territorios colonizados.
+<choice>C) La acumulación de metales preciosos por parte de las metrópolis.
+<choice>D) Las relaciones de intercambio desigual entre metrópolis y colonias.
+<choice>E) El cese de los pagos de la deuda externa por parte de las colonias.
+<head_foot>– 23 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>34.
+<prompt>Observa el siguiente diagrama que contiene información relativa a un
+<prompt>evento histórico internacional:
+<prompt>El esquema anterior presenta una serie de elementos que en conjunto
+<prompt>conducen a un evento trascendental del siglo XX. ¿Qué evento corresponde
+<prompt>situar en el círculo central?
+<choice>A) El surgimiento de la Cuestión Social.
+<choice>B) El estallido de la Primera Guerra Mundial.
+<choice>C) La implementación del Estado de Bienestar.
+<choice>D) El inicio de los movimientos de descolonización.
+<choice>E) La reunificación de países como Italia y Alemania.
+<head_foot>– 24 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>35.
+<prompt>Observa el siguiente mapa que representa la división política de Europa en
+<prompt>un momento del siglo XX:
+<prompt>Adaptado de Moreno, J. (2018). Disponible en https://www.unprofesor.com/
+<prompt>Los grandes conflictos bélicos han provocado importantes modificaciones
+<prompt>del mapa político del mundo contemporáneo. Considerando la información
+<prompt>precedente, ¿a qué periodo del siglo XX corresponde el mapa adjunto?
+<choice>A) A la consolidación de la Unión Europea.
+<choice>B) Al apogeo del proceso de la Guerra Fría.
+<choice>C) Al posterior a la Primera Guerra Mundial.
+<choice>D) A la desarticulación de la Unión Soviética.
+<choice>E) Al auge de los procesos de descolonización.
+<head_foot>– 25 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>36.
+<prompt>En la década de 1920, en Chile se produjo una aguda crisis institucional
+<prompt>que tuvo como efecto un quiebre político y la intervención de las Fuerzas
+<prompt>Armadas en la conducción del gobierno. En términos generales, ¿cuál era
+<prompt>uno de los objetivos de dicha intervención militar?
+<choice>A) Realizar una profunda revolución social de tipo democrático-
+<choice>burguesa.
+<choice>B) Mantener el régimen parlamentario cuestionado por los partidos de
+<choice>izquierda.
+<choice>C) Garantizar la inamovilidad de los altos mandos de las Fuerzas
+<choice>Armadas.
+<choice>D) Defender la vigencia de la Constitución de 1833 apoyando a los
+<choice>sectores conservadores.
+<choice>E) Implementar una propuesta reformista para evitar conflictos
+<choice>sociopolíticos de mayor profundidad.
+<id_question>37.
+<prompt>La crisis económica de 1929 en Estados Unidos se transformó en un
+<prompt>acontecimiento mundial que afectó gravemente a los países
+<prompt>latinoamericanos. En este sentido, ¿qué condición económica de estos
+<prompt>países explica que esta región haya experimentado un impacto tan
+<prompt>profundo durante aquella crisis?
+<choice>A) La vigencia del modelo de Estado de Bienestar.
+<choice>B) El alto grado de industrialización de sus economías.
+<choice>C) Las decisiones económicas adoptadas por gobiernos populistas.
+<choice>D) El alto precio de los productos elaborados en los distintos países.
+<choice>E) La dependencia respecto de las fluctuaciones del mercado mundial.
+<head_foot>– 26 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>38.
+<prompt>Desde la década de 1930, los gobiernos radicales impulsaron en Chile un
+<prompt>modelo económico sustitutivo de importaciones (ISI), el cual se prolongó
+<prompt>bajo la administración de otros gobiernos hasta la década de 1970. ¿Cuál
+<prompt>de los siguientes fenómenos sociales se desarrolló en el contexto de la
+<prompt>aplicación de este modelo?
+<choice>A) La aceleración de la migración campo-ciudad que profundizó la
+<choice>marginalidad urbana.
+<choice>B) El surgimiento de un movimiento obrero que demandaba la
+<choice>promulgación de leyes laborales.
+<choice>C) El fomento de la especialización de los trabajadores rurales que
+<choice>encareció el valor de la mano de obra.
+<choice>D) La reducción de la matrícula escolar básica producto de la inserción
+<choice>de niños y jóvenes al mundo del trabajo.
+<choice>E) La homogenización en la distribución demográfica del país, dado el
+<choice>impulso a la industria local de cada región.
+<id_question>39.
+<prompt>La crisis económica de 1929 provocó en Chile una disminución general de
+<prompt>la actividad productiva y un aumento de la desocupación, lo que generó un
+<prompt>movimiento de la población. ¿A cuál de los siguientes lugares del país se
+<prompt>desplazó mayoritariamente este movimiento migratorio?
+<choice>A) A La Araucanía, para establecerse como colonos ganaderos.
+<choice>B) A las zonas rurales del Centro-Sur, para trabajar en la agricultura.
+<choice>C) A las ciudades de la Zona Central, para laborar en diversos oficios.
+<choice>D) A los puertos del Norte Grande, para trabajar en la explotación
+<choice>salitrera.
+<choice>E) A la Patagonia, para ejercer soberanía en los territorios recién
+<choice>incorporados.
+<head_foot>– 27 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>40.
+<prompt>Riefenstahl, L. (1935). El triunfo de la voluntad. Recuperado de https://www.alamy.es/el-titulo-de-la-
+<prompt>pelicula-original-triumph-des-willens-titulo-en-ingles-el-triunfo-de-la-voluntad-el-director-de-cine-leni-riefenstahl-ano-1935-image206740666.html
+<prompt>La imagen precedente corresponde al documental “El triunfo de la
+<prompt>voluntad”, de la cineasta Leni Riefenstahl, que fue utilizado como una
+<prompt>película de propaganda por el régimen nazi. ¿Cuál es uno de los elementos
+<prompt>característicos de los sistemas totalitarios que está representado en esta
+<prompt>imagen?
+<choice>A) El control estatal de los medios de comunicación.
+<choice>B) La disciplina de las masas que apoyan al régimen.
+<choice>C) La represión hacia movimientos opositores al régimen.
+<choice>D) La adhesión espontánea de la mayoría de la población.
+<choice>E) La participación popular en las decisiones políticas del régimen.
+<head_foot>– 28 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>41.
+<prompt>Durante la primera mitad del siglo XX ocurrieron las dos guerras mundiales,
+<prompt>conflictos bélicos que tuvieron tanto diferencias como semejanzas. ¿Cuál
+<prompt>de los siguientes planteamientos es correcto respecto de las semejanzas
+<prompt>entre ambos conflictos?
+<choice>A) En ambas guerras, Estados Unidos participó desde el principio.
+<choice>B) En ambas guerras, el conflicto tuvo la misma extensión de tiempo.
+<choice>C) En ambas guerras, hubo intensos combates en territorios de Europa.
+<choice>D) En ambas guerras, las batallas se concentraron en el espacio aéreo.
+<choice>E) En ambas guerras se contó con la participación de la Unión Soviética.
+<id_question>42.
+<prompt>La Segunda Guerra Mundial fue un conflicto bélico que se caracterizó, entre
+<prompt>otros aspectos, por su extensión planetaria, ya que la mayoría de los países
+<prompt>del mundo estuvieron involucrados en este conflicto. ¿Cuál es uno de los
+<prompt>factores que explica dicho rasgo de esta guerra?
+<choice>A) La incapacidad de los países del Tercer Mundo por aislarse del
+<choice>conflicto.
+<choice>B) La confrontación ideológica entre Estados Unidos y la Unión
+<choice>Soviética.
+<choice>C) El establecimiento de alianzas estratégicas entre las naciones que
+<choice>participaron en el conflicto.
+<choice>D) El nivel de dependencia de los países productores de materias
+<choice>primas con los industrializados.
+<choice>E) El compromiso de los países integrantes de la Organización de las
+<choice>Naciones Unidas con la seguridad internacional.
+<head_foot>– 29 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>43.
+<prompt>En el año 1945 se firmó la Carta de las Naciones Unidas, documento a
+<prompt>través del cual se instituyó dicha organización, y en cuyo preámbulo se
+<prompt>establecieron los principios fundamentales de las relaciones
+<prompt>internacionales. Considerando estos principios, ¿qué acción lleva a cabo la
+<prompt>Organización de las Naciones Unidas?
+<choice>A) Utiliza la fuerza contra cualquier gobierno beligerante.
+<choice>B) Interviene en las decisiones internas de los gobiernos.
+<choice>C) Defiende el liberalismo como práctica político-económica.
+<choice>D) Promueve el respeto de la igualdad soberana de los Estados.
+<choice>E) Privilegia la ayuda humanitaria en los países con conflictos bélicos.
+<head_foot>– 30 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>44.
+<prompt>Lee el siguiente texto:
+<prompt>“El general Ibáñez, casi un cadáver político desde hacía muchos años,
+<prompt>resucitó como una esperanza para quienes estaban transitoriamente
+<prompt>desengañados de los partidos políticos. O sea que fue percibido como un
+<prompt>candidato ubicado por encima, o en contra, de la «partidocracia». A pesar
+<prompt>de eso, formó un partido propio, el Partido Agrario Laborista (PAL) […].
+<prompt>También logró el apoyo del Partido Democrático Nacional (PADENA) […].
+<prompt>La mayor parte del sindicalismo, influido por el Partido Socialista Popular y
+<prompt>atraído por esta versión local del peronismo, también apoyó al candidato, a
+<prompt>pesar de sus muy discutibles antecedentes que incluían un periodo de
+<prompt>gobierno dictatorial (1927-1931) con represión antiobrera y una candidatura
+<prompt>por el Partido Nazi [sic] (1938)” (Di Tella, 1993).
+<prompt>Di Tella, T. (1993). Historia de los partidos políticos en América Latina. Siglo XX.
+<prompt>Santiago de Chile: Fondo de Cultura Económica.
+<prompt>La cita precedente describe algunos rasgos políticos de Carlos Ibáñez del
+<prompt>Campo, en el marco de su elección a la presidencia en 1952. Considerando
+<prompt>el contexto definido en la cita, ¿qué fenómeno político se refleja?
+<choice>A) La ampliación de la participación ciudadana excluyendo a los partidos
+<choice>políticos.
+<choice>B) El surgimiento de un esquema de partidos políticos aglutinados en tres
+<choice>sectores ideológicos.
+<choice>C) El avance de las tendencias populistas durante el desarrollo de una
+<choice>crisis política y económica.
+<choice>D) La despolitización del movimiento obrero y el abandono de sus
+<choice>principales reivindicaciones.
+<choice>E) El fortalecimiento político de los frentes populares debido a la influencia
+<choice>ejercida por el modelo soviético.
+<head_foot>– 31 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>45.
+<prompt>El permanente estado de tensión entre Estados Unidos y la Unión Soviética,
+<prompt>en el contexto de la Guerra Fría, se desarrolló a través de distintas fases,
+<prompt>una de las cuales fue el Periodo de Distensión (1962-1975). ¿Cuál fue una
+<prompt>de las características políticas de esta etapa?
+<choice>A) La disminución del poder hegemónico de Estados Unidos.
+<choice>B) Los esfuerzos recíprocos por terminar con sus áreas de influencia.
+<choice>C) El acuerdo mutuo de suspender la lucha por la conquista del espacio.
+<choice>D) Los intentos de ambas superpotencias por limitar las armas nucleares.
+<choice>E) El abandono de la carrera armamentista por parte de la Unión
+<choice>Soviética.
+<id_question>46.
+<prompt>A comienzos de la década de 1960, el gobierno estadounidense desarrolló
+<prompt>un programa de ayuda económica hacia América Latina denominado
+<prompt>Alianza para el Progreso. Considerando el contexto histórico internacional
+<prompt>de la época, ¿cuál fue uno de los objetivos implícitos de este programa
+<prompt>impulsado por Estados Unidos?
+<choice>A) Incentivar el aumento de la participación electoral.
+<choice>B) Promover la unidad de los países latinoamericanos.
+<choice>C) Impedir la instalación de dictaduras militares de derecha.
+<choice>D) Organizar un pacto defensivo con los países sudamericanos.
+<choice>E) Evitar la proliferación de procesos revolucionarios de izquierda.
+<head_foot>– 32 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>47.
+<prompt>Lee el siguiente texto:
+<prompt>“La necesidad de un estudio actualizado sobre las poblaciones callampas
+<prompt>en 1958, respondía a «la notoria agudización del problema en estos últimos
+<prompt>años», que se está manifestando no sólo en Santiago, sino que también en
+<prompt>centros urbanos pequeños de provincia y aún en centros agrícolas,
+<prompt>sentenciaban los referidos arquitectos. Consideraban además, que por su
+<prompt>«grado de generalización» era necesario abordar de modo independiente y
+<prompt>específico el problema de las callampas, en el contexto mayor del problema
+<prompt>habitacional del país” (Garcés, 2003).
+<prompt>Garcés, M. (2003). Tomando su sitio. El movimiento de pobladores de Santiago 1957-
+<prompt>1970. Santiago de Chile: LOM.
+<prompt>Considerando el contexto chileno de mediados del siglo XX, ¿cuál fue una
+<prompt>característica del problema habitacional que se describe en la cita?
+<choice>A) Tuvo una mayor intensidad en diversos sectores del espacio rural.
+<choice>B) Una de sus expresiones fue la proliferación de la toma de terrenos.
+<choice>C) Constituyó un caso único en los países de la región latinoamericana.
+<choice>D) Se concentró su desarrollo en los centros históricos de las ciudades.
+<choice>E) Careció de la preocupación institucional del Estado para su solución.
+<head_foot>– 33 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>48.
+<prompt>Lee el siguiente texto:
+<prompt>“Los objetivos que se propone la Reforma Agraria son los siguientes: a)
+<prompt>aumentar la producción, b) beneficiar al campesinado, entregándole la
+<prompt>tierra a 100.000 campesinos que se transformarán en propietarios, c)
+<prompt>desarrollo rural que beneficie al conjunto del agro. En una palabra, se
+<prompt>entiende que con la expropiación del latifundio improductivo, la entrega
+<prompt>de la tierra al campesinado y el apoyo estatal, se provocará un
+<prompt>desarrollo agropecuario en todos los niveles” (Bengoa, 1983).
+<prompt>Bengoa, J. (1983). El campesinado chileno después de la Reforma Agraria.
+<prompt>Santiago de Chile: Ediciones SUR.
+<prompt>La cita anterior recoge los objetivos que buscaba la implementación del
+<prompt>proceso de Reforma Agraria, desarrollado en Chile en la segunda mitad del
+<prompt>siglo XX. ¿Cuál fue uno de los problemas del agro que se buscaba
+<prompt>solucionar?
+<choice>A) La excesiva intervención estatal en la producción agrícola.
+<choice>B) El carácter ocasional de los trabajos ligados a la agricultura.
+<choice>C) El reducido mercado exterior para los productos nacionales.
+<choice>D) La rigidez de las estructuras productivas tradicionales de la tierra.
+<choice>E) El aumento de la organización sindical de los trabajadores rurales.
+<head_foot>– 34 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>49.
+<prompt>Observa el siguiente esquema:
+<prompt>El esquema adjunto incorpora elementos constitutivos de la historia de
+<prompt>Chile durante el siglo XX. Considerando el aspecto temporal, ¿a qué tipo de
+<prompt>transformaciones se alude en el esquema anterior?
+<choice>A) A los planteamientos propuestos en el proyecto político de la Unidad
+<choice>Popular.
+<choice>B) A los cambios estructurales implementados por la Democracia
+<choice>Cristiana.
+<choice>C) A las medidas impulsadas por el segundo gobierno de Carlos Ibáñez
+<choice>del Campo.
+<choice>D) A las innovaciones implementadas durante el gobierno de Arturo
+<choice>Alessandri Palma.
+<choice>E) A las modernizaciones económicas desarrolladas durante los
+<choice>gobiernos radicales.
+<head_foot>– 35 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>50.
+<prompt>Lee el siguiente texto:
+<prompt>“No podemos aceptar el desquiciamiento individualista y aislado que
+<prompt>podría provocar el caos […]. Es por eso que no aceptamos la presión y
+<prompt>hemos dicho con honradez de revolucionarios: estamos contra todas las
+<prompt>tomas indiscriminadas de fundos, que crean anarquía en la producción y
+<prompt>que terminarán por lanzar a los campesinos contra campesinos […].
+<prompt>La frase revolucionaria es la repetición de consignas que no guardan
+<prompt>relación con las circunstancias objetivas de un momento. Consignas
+<prompt>excelentes, estimulantes, embriagadoras, pero sin bases de su esencia
+<prompt>[…]. Eso lo decía el padre de la Revolución de Octubre […] que no lo
+<prompt>olviden algunos jóvenes teóricos chilenos […]. Es bueno que se lean el
+<prompt>librito de Lenin, que dice: Extremismo, Enfermedad Infantil del
+<prompt>comunismo”.
+<prompt>Los guerrilleros de “La Frontera”, artículo de Revista Ercilla, Nº 1895, 1971.
+<prompt>El texto anterior corresponde a algunos fragmentos del discurso que
+<prompt>Salvador Allende realizó con motivo de la celebración del primer año de su
+<prompt>gobierno, los cuales fueron recogidos por la revista Ercilla, publicación
+<prompt>opositora al gobierno de Allende. A partir del análisis del texto, ¿cuál de los
+<prompt>siguientes planteamientos es correcto advertir en las ideas de Salvador
+<prompt>Allende?
+<choice>A) La postura anticomunista manifestada por el Presidente de la
+<choice>República.
+<choice>B) La intención de establecer consensos políticos con los grupos de
+<choice>terratenientes.
+<choice>C) La estrecha sintonía de la propuesta de la Unidad Popular con el
+<choice>modelo soviético.
+<choice>D) Las diferencias de estrategia en la izquierda chilena para transitar
+<choice>hacia el socialismo.
+<choice>E) La necesidad de estimular la ocupación de terrenos agrícolas para
+<choice>acelerar el proceso revolucionario.
+<head_foot>– 36 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>51.
+<prompt>El siguiente diagrama presenta diversos aspectos de un determinado
+<prompt>proceso histórico:
+<prompt>A partir del análisis del diagrama, ¿cuál de las siguientes opciones es
+<prompt>correcta para completar el casillero con el signo de interrogación?
+<choice>A) Características de la Guerra Fría.
+<choice>B) Rasgos de los regímenes totalitarios.
+<choice>C) Desarticulación de la Unión Soviética.
+<choice>D) Antecedentes de la Segunda Guerra Mundial.
+<choice>E) Consecuencias del proceso de descolonización.
+<head_foot>– 37 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>52.
+<prompt>En Chile, durante el siglo XX se produjo una profundización democrática de
+<prompt>la sociedad, la que se vio interrumpida con el golpe de Estado de 1973. En
+<prompt>relación con la dimensión política, ¿cuál fue un fenómeno que se desarrolló
+<prompt>hasta 1973?
+<choice>A) La puesta en marcha de un plan estatal de privatización de las
+<choice>empresas públicas.
+<choice>B) El surgimiento de nuevos partidos políticos, los que otorgaron
+<choice>representatividad a los sectores populares.
+<choice>C) La aprobación de las leyes laicas, lo que permitió garantizar la
+<choice>protección de los derechos de los ciudadanos.
+<choice>D) La división político-administrativa en regiones, lo que propició el
+<choice>desarrollo de las localidades independientes de Santiago.
+<choice>E) La incorporación masiva de las mujeres a cargos de representación
+<choice>política, posibilitando el fin de la discriminación por género.
+<id_question>53.
+<prompt>En Chile, los gobiernos de la Democracia Cristiana (1964-1970) y de la
+<prompt>Unidad Popular (1970-1973) debieron hacer frente a una serie de
+<prompt>dificultades para llevar a cabo sus programas. ¿Cuál fue una dificultad
+<prompt>común a ambos gobiernos?
+<choice>A) El deterioro del prestigio de los partidos políticos.
+<choice>B) La precaria formación política de la clase dirigente.
+<choice>C) La fuerte polarización política que experimentaba la sociedad.
+<choice>D) La indiferencia de amplios sectores sociales por los proyectos políticos.
+<choice>E) La resistencia de las potencias mundiales a establecer relaciones
+<choice>diplomáticas con el país.
+<head_foot>– 38 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>54.
+<prompt>Observa la siguiente imagen:
+<prompt>Conversaciones sobre economía. Editorial Gabriela Mistral.
+<prompt>El régimen militar chileno (1973-1990) adoptó el modelo neoliberal como
+<prompt>fundamento de sus políticas económicas. Esta opción estuvo asociada a
+<prompt>una fuerte crítica a las políticas económicas de los gobiernos anteriores,
+<prompt>especialmente al gobierno socialista de Salvador Allende. Como parte de la
+<prompt>campaña de propaganda de las ideas que promovía el nuevo régimen, a
+<prompt>mediados de la década de 1970 se publicó un folleto en el que se incluía la
+<prompt>caricatura anterior. En esta puede verse una máquina que imprime billetes y
+<prompt>tres personas manejándola, en evidente estado de exaltación.
+<prompt>Considerando el contexto histórico de la caricatura, ¿cuál es la crítica de las
+<prompt>autoridades del régimen militar contenida en la imagen?
+<choice>A) La base ideológica izquierdista de los líderes políticos.
+<choice>B) El excesivo protagonismo del Estado en la producción.
+<choice>C) La política monetaria que provocó un proceso inflacionario.
+<choice>D) El retraso tecnológico experimentado por el sector industrial.
+<choice>E) La indisciplina de los trabajadores durante la Unidad Popular.
+<head_foot>– 39 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>55.
+<prompt>Lee el siguiente texto:
+<prompt>“Uno de los problemas más sobresalientes de la economía chilena
+<prompt>durante los últimos 30-40 años […] ha sido un estatismo creciente y
+<prompt>asfixiante […]. Las tendencias estatistas se manifiestan en diversas
+<prompt>formas, siendo las más importantes: la intervención directa del Estado
+<prompt>para manipular las variables económicas; el desarrollo de una frondosa
+<prompt>burocracia; la propensión de crear actividades estatales paralelas a la
+<prompt>actividad privada […]; las nacionalizaciones […]; el desarrollo de sistemas
+<prompt>de planificación […] que buscan un control directo de variadas
+<prompt>actividades; el aumento de la inversión estatal en áreas de reducida
+<prompt>rentabilidad social; la politización de las instituciones públicas”.
+<prompt>Centro de Estudios Públicos. El Ladrillo. Bases de la política económica del gobierno militar
+<prompt>chileno.
+<prompt>El documento citado fue la base del proyecto neoliberal implementado
+<prompt>durante la dictadura militar chilena que se desarrolló entre 1973 y 1990.
+<prompt>Considerando el contexto histórico, ¿cuál fue una medida económica
+<prompt>adoptada por ese régimen que tiene su fundamento en el texto anterior?
+<choice>A) La liberalización del sistema productivo.
+<choice>B) El rescate de los bancos privados en quiebra.
+<choice>C) La nacionalización de la gran minería del cobre.
+<choice>D) El incremento de la inversión en las empresas del Estado.
+<choice>E) El aumento progresivo del gasto público en programas sociales.
+<head_foot>– 40 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>56.
+<prompt>Cientos de toneladas de residuos llegan todos los meses a países pobres
+<prompt>de África, en un intento de las naciones más ricas de descargar su creciente
+<prompt>producción de aparatos tecnológicos obsoletos. Muchos de estos equipos
+<prompt>son dispuestos en contenedores bajo la etiqueta de «material de segunda
+<prompt>mano» como donaciones. ¿Qué situación pone en evidencia la práctica
+<prompt>descrita?
+<choice>A) La externalización del deterioro ambiental por parte de países del
+<choice>Primer Mundo.
+<choice>B) La inexistencia de legislación que regule la gestión de los desechos en
+<choice>los países industrializados.
+<choice>C) La especialización de las economías más pobres del mundo en el
+<choice>reciclaje de bienes tecnológicos.
+<choice>D) El intento por reducir de manera efectiva la brecha digital existente
+<choice>entre las distintas regiones del mundo.
+<choice>E) La búsqueda de un equilibrio ecológico mediante la designación de
+<choice>lugares para la producción y el desecho.
+<id_question>57.
+<prompt>El proceso de globalización ha impactado diversos ámbitos de la vida en
+<prompt>sociedad. En este sentido, ¿cuál es uno de los impactos de la globalización
+<prompt>observados en el desarrollo cultural de los pueblos?
+<choice>A) La erradicación de los estereotipos culturales.
+<choice>B) La desaparición de las diferencias lingüísticas.
+<choice>C) La disminución de las prácticas culturales mestizas.
+<choice>D) El progresivo debilitamiento de los conflictos étnicos.
+<choice>E) El incremento de la multiculturalidad en los espacios urbanos.
+<head_foot>– 41 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>58.
+<prompt>DISTRIBUCIÓN DEL INGRESO EN CHILE, 1990 - 2013
+<prompt>(DISTRIBUCIÓN DEL INGRESO NACIONAL POR QUINTIL DE INGRESO,
+<prompt>EN PORCENTAJE)
+<prompt>Basado en Cepal, Unidad de Estadísticas Sociales. Disponible en
+<prompt>http://www.estadisticas.cepal.org
+<prompt>El gráfico anterior expone la diferencia entre el nivel de ingreso del 20%
+<prompt>más rico de la población (Quintil 5) y el 20% de menor ingreso (Quintil 1)
+<prompt>entre 1990 y 2013. A partir del análisis de esta información, ¿qué tendencia
+<prompt>es correcta inferir respecto de la distribución del ingreso en Chile entre 1990
+<prompt>y 2013?
+<choice>A) La desigualdad del ingreso se redujo levemente.
+<choice>B) El número de pobres e indigentes se mantuvo invariable.
+<choice>C) La proporción de población de mayores ingresos aumentó.
+<choice>D) Las personas con menos recursos se empobrecieron más.
+<choice>E) El nivel de ingresos de las familias cayó permanentemente.
+<head_foot>– 42 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<other>ECONOMÍA Y SOCIEDAD
+<id_question>59.
+<prompt>Una de las metas que tiene el Banco Central de Chile es promover la
+<prompt>estabilidad y eficacia del sistema financiero. ¿Cuál es una acción que
+<prompt>realiza esta entidad para cumplir dicho objetivo?
+<choice>A) Regular la cantidad de dinero circulante.
+<choice>B) Establecer los requisitos para solicitar un crédito.
+<choice>C) Fiscalizar los mercados de bancos, valores y seguros.
+<choice>D) Sancionar el incumplimiento en el pago de impuestos.
+<choice>E) Fijar los precios de los productos de consumo masivo.
+<id_question>60.
+<prompt>El funcionamiento del sistema económico chileno está determinado por una
+<prompt>serie de factores; entre ellos, el consumo que hacen las familias como
+<prompt>agentes de la economía. Considerando la realidad chilena actual, ¿cuál de
+<prompt>las siguientes situaciones favorece este consumo?
+<choice>A) El mayor acceso a créditos.
+<choice>B) El aumento del ahorro previsional.
+<choice>C) La estabilidad de las tasas de interés.
+<choice>D) La existencia de una Ley del Consumidor.
+<choice>E) El establecimiento de una banda de precios.
+<head_foot>– 43 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>61.
+<prompt>En una economía de mercado, cuando el precio de un bien sube
+<prompt>significativamente impacta en la población, ya que se dificulta el acceso a
+<prompt>él, por lo cual se recurre a bienes sustitutos. ¿Cuál es una característica
+<prompt>que define a este tipo de bienes?
+<choice>A) Tienen una amplia difusión publicitaria.
+<choice>B) Están disponibles en grandes volúmenes.
+<choice>C) Tienen un precio equivalente al bien que sustituyen.
+<choice>D) Compiten en calidad con los bienes complementarios.
+<choice>E) Satisfacen la misma necesidad que el bien reemplazado.
+<id_question>62.
+<prompt>La economía de libre mercado se sustenta en un conjunto de principios
+<prompt>básicos que explican su organización y funcionamiento. ¿Cuál es uno de
+<prompt>estos principios básicos?
+<choice>A) La especialización del sistema productivo.
+<choice>B) La fijación de precios por parte del Estado.
+<choice>C) La supresión de cargas tributarias al sector privado.
+<choice>D) La protección de la industria manufacturera nacional.
+<choice>E) La autorregulación del mercado mediante la oferta y la demanda.
+<head_foot>– 44 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>63.
+<prompt>El problema económico de la escasez exige a los agentes económicos
+<prompt>evaluar permanentemente un conjunto de factores antes de tomar sus
+<prompt>decisiones, estableciendo ciertas estrategias. Considerando la teoría
+<prompt>económica, ¿cuál es una de las estrategias de los agentes económicos
+<prompt>para enfrentar la escasez?
+<choice>A) Aumentar la capacidad de producir recursos naturales.
+<choice>B) Jerarquizar las necesidades que deben ser satisfechas.
+<choice>C) Modificar el comportamiento de los precios en el largo plazo.
+<choice>D) Disminuir paulatinamente el consumo de bienes alternativos.
+<choice>E) Privilegiar el pago de impuestos de los bienes de primera necesidad.
+<id_question>64.
+<prompt>En el contexto del sistema productivo, los agentes económicos actúan para
+<prompt>conseguir distintos bienes que necesitan. ¿Cuál es un mecanismo utilizado
+<prompt>por la empresa privada para conseguir los bienes que necesita?
+<choice>A) La recaudación del impuesto al valor agregado.
+<choice>B) La inversión mediante instrumentos financieros.
+<choice>C) El cobro de aranceles de importación de bienes.
+<choice>D) El establecimiento de subsidios a la contratación.
+<choice>E) La disminución de la productividad de sus procesos.
+<head_foot>– 45 –
+<head_foot>– MODELO HISTORIA Y CIENCIAS SOCIALES │ ADMISIÓN 2023 –
+<id_question>65.
+<prompt>La organización de la economía está expuesta a diversas situaciones que
+<prompt>pueden alterar su funcionamiento. ¿Cuál es uno de los efectos de la
+<prompt>inflación en el funcionamiento del mercado?
+<choice>A) Induce una estabilización de la demanda.
+<choice>B) Fomenta un aumento acelerado de la oferta.
+<choice>C) Provoca una disminución del poder adquisitivo.
+<choice>D) Estimula un aumento progresivo de la inversión.
+<choice>E) Produce un descenso generalizado de los precios.
+<head_foot>– 46 –

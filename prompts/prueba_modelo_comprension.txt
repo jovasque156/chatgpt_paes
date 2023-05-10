@@ -1,0 +1,363 @@
+-------------------------
+Responde a las siguientes preguntas extraídas de la Prueba de Acceso a la Educación Superior (PAES) de Comprension Lectora del Ministerio de Educación de Chile. Entrega una columna con el numero de la pregunta y solamente la letra de la alternativa correcta.
+Lectura 1 (preguntas 1 a 9) 
+Fragmento del libro Introducción a laF inOgReMniAe r2ía0:9 u –n 2e0n2fo1que a través del diseño del autor Pablo Grech, edición del 2012. Definición del problema Un problema es todo aquello cuya solución También se habla de situaciones se desconoce; ese desconocimiento puede problemáticas: aquellas que encierran un ser para un grupo de personas o para problema. Que se quemen continuamente los la humanidad. Por ejemplo, el procedimiento fusibles de un equipo de computación, o que dos para colocar un hombre en la Luna ya no es veces al día, por lo menos, se caiga su sistema problema para los Estados Unidos, pero sí para operativo, o que nunca contesten en el teléfono el resto del mundo. La curación del sida o del de la recepción de una oficina, etcétera. Reflejan cáncer son problemas de la humanidad; nadie ha situaciones problemáticas. La diferencia con el resuelto estos problemas aún. La contaminación problema es que en esta todavía no se conoce del medio ambiente sigue siendo un problema cuál es el problema que la origina; solamente se para la humanidad, aunque se hayan planteado perciben indicios o síntomas de que existe un soluciones parciales al mismo. problema. Hay que encontrarlo, pues si no se puede identificar no se podrá resolver. Hay problemas de diversa índole: matemáticos, físicos, sociales, abiertos, cerrados, imposibles de Adicionalmente, en ingeniería (y en otras áreas resolver, con soluciones variadas, entre otros […]. del quehacer humano) se presentan situaciones u oportunidades que guardan alguna relación con Para encontrar la solución a un problema los problemas: la globalización de la economía ha es necesario emplear los niveles más altos de la cambiado muchas reglas de juego en el comercio taxonomía del conocimiento, desde el nivel de mundial, en la ingeniería de proyectos, etcétera, análisis hasta el de diseño, pasando por el de y hay situaciones nuevas que pueden conducir evaluación. No se consideran problemas aquellos a resultados inesperados. Es necesario plantear casos en los que solamente es necesario aplicar los posibles escenarios, analizarlos y desarrollar una fórmula y se conocen todos los datos. Estos soluciones a los problemas que puedan detectarse. son ejercicios. Con base en lo anterior, podrían establecerse las Por ejemplo, no es un problema hallar el clasificaciones que muestra el cuadro 8.1. espacio recorrido por un móvil que se desplaza a una velocidad promedio de 100 km/h durante 3 Cuadro 8.1 Diferentes tipos de problemas. horas. Pero sí puede considerarse problema salir Situación Hay que definir el problema de un laberinto, lograr reducir 30% el nivel de problemática subyacente. accidentalidad en una ciudad, construir una casa Oportunidad o Hay que definir los por la mitad del costo actual y en la cuarta parte nueva situación problemas que se plantean. del tiempo que se emplea en la mayor parte de Problema Hay que hallar la solución. los casos, lograr bajar el tiempo de respuesta de un computador en 50%, reducir los desperdicios Según se ve en el cuadro 8.1, todas las de material en una empresa industrial en 60%, situaciones planteadas conducen a la solución etcétera. de un problema. En las dos primeras entradas En todos estos casos existe una situación del cuadro es necesario, inicialmente, reducir actual que se desea mejorar, pero se desconoce la cada caso al nivel de problema, para después manera de lograrlo: esta podría ser una definición resolverlo. En la última entrada ya está planteado práctica de lo que es un problema. el problema cuya solución hay que encontrar. Para resolver un problema es primordial Por tanto, es de gran importancia que se analice definirlo previamente, con el objeto de que la la situación con lupa, y se evalúen objetivamente solución corresponda exactamente al que se las causas del problema para poder de esta manera planteó y no a uno diferente. Aunque esto puede llegar al verdadero problema, al problema real […]. sonar algo peregrino, no hay que perder de Es necesario conocer la o las causas de estos vista que a veces las circunstancias que rodean síntomas. El esclarecimiento de la causalidad una situación problemática pueden conducir permite definir claramente el problema que es al planteamiento de un problema que no necesario resolver; permite conocer el problema corresponde al verdadero. Tomemos el caso de real. Un profesor se quejaba ante sus estudiantes un automóvil que pierde potencia; el problema del ruido que hacían cuando entraban en el puede radicar en múltiples partes del mismo: salón de clases; todos movían sus asientos y inyectores obstruidos, bujías en mal estado, al hacerlo arrastraban el asiento o lo dejaban chispa adelantada, correa de distribución gastada, caer, produciendo mucho ruido. El profesor les entre otras. Se pueden cambiar las bujías y lograr pidió que plantearan soluciones al problema, una mejora instantánea, pero al cabo de unos días pero primero sugirió que definieran cuál era el la situación empeora. En muchas situaciones, hay problema en realidad. Hubo múltiples respuestas. notables diferencias entre el problema percibido Finalmente, el profesor sugirió que si el problema y el real. era el ruido investigaran el origen físico del ruido, De lo anterior se deduce la importancia que la forma como se produce, el fenómeno físico que tiene la definición correcta del problema que debe hay alrededor de esta situación. Al explorar en resolverse. Definir implica determinar claramente esta dirección se dieron cuenta de que el ruido los límites de la solución; indicar precisamente lo se produce cuando se genera una vibración que se espera de la solución, las limitaciones que (arrastrar los asientos, soltarlos sin cuidado). En se impondrán y los indicadores visibles que darán el caso del asiento que se arrastra, para disminuir fe que esta se ha logrado [...]. la vibración es necesario disminuir el rozamiento. Sin entrar en más detalles, se pudo constatar que el Si los estudiantes se quejan de que deben problema se podría definir de la siguiente manera: esperar mucho tiempo para sacar una fotocopia, hallar el modo de disminuir el rozamiento entre ¿qué haría usted? ¿Aumentar el número de las patas de las sillas y el suelo. Claro, quedan fotocopiadoras? ¿Ampliar los horarios de otras causas del ruido que no se incluyen en esta atención? ¿Poner una línea rápida de atención? definición. Esto es otro problema. ¿Poner música de la buena para que se entretengan mientras esperan? Si no se resuelve el problema real, la situación problemática volverá a surgir o la solución implementada resolverá de alguna manera el problema, pero a unos costos exagerados […]. Grech, P. (2013). Definición del problema. En Introducción a la ingeniería: un enfoque a través del diseño. 2a. ed. Bogotá, Colombia: Pearson. 
+-Preguntas-
+1. De acuerdo con el texto, ¿cuál de los siguientes enunciados es falso en relación con los problemas? 
+A) En algunos problemas hay más de una solución. 
+B) En algunos problemas la solución ya es conocida. 
+C) En algunos problemas solo se presentan soluciones parciales. 
+D) En algunos problemas no coincide lo percibido y el problema real. 
+2. ¿Cuál de los siguientes casos NO corresponde a un problema según el texto? 
+A) Calcular la distancia recorrida por un automóvil. 
+B) Reducir la cantidad de accidentes en una ciudad. 
+C) Disminuir los desperdicios productivos de una industria. 
+D) Encontrar la cura para enfermedades como el sida o el cáncer. 
+3. ¿Cuál es la característica que tienen en común los diferentes tipos de problemas? 
+A) La inexistencia de una causa. 
+B) La búsqueda de una solución. 
+C) La ausencia de una definición. 
+D) La imposibilidad de resolución. 
+4. Respecto de los tipos de problemas y la búsqueda de una solución, ¿cuál es la función del Cuadro 8.1? 
+A) Añadir información. 
+B) Rectificar la información. 
+C) Sintetizar la información. 
+D) Ejemplificar la información. 
+5. ¿Para qué es importante la definición del problema? 
+A) Para que las causas sean fácilmente identificables. 
+B) Para clasificarlo correctamente según su índole. 
+C) Para que la solución propuesta sea la adecuada. 
+D) Para aumentar el conocimiento en ese quehacer. 
+6. ¿Qué función cumple el siguiente párrafo en el texto? Si los estudiantes se quejan de que deben esperar mucho tiempo para sacar una fotocopia, ¿qué haría usted? ¿Aumentar el número de fotocopiadoras? ¿Ampliar los horarios de atención? ¿Poner una línea rápida de atención? ¿Poner música de la buena para que se entretengan mientras esperan? 
+A) Mencionar los distintos elementos que componen un problema. 
+B) Dar un ejemplo de un caso en que aún no se ha definido el problema. 
+C) Informar acerca de las preguntas correctas para resolver un problema. 
+D) Presentar posibles definiciones correctas e incorrectas de un problema. 
+7. De acuerdo con el texto, poner música agradable mientras se espera para sacar fotocopias es un ejemplo de 
+A) un ejercicio. 
+B) una oportunidad. 
+C) un problema. 
+D) una solución. 
+8. De acuerdo con el ejemplo del salón de clases, ¿con qué característica cumple para ser considerado un problema? 
+A) El problema del ruido se ha identificado como un síntoma. 
+B) El problema del ruido carece de solución conocida. 
+C) El problema del ruido puede resolverse con una fórmula. 
+D) El problema del ruido puede llevar a resultados imprevistos. 
+9. ¿Cuál es el objetivo del autor respecto del tema? 
+A) Contrastar los diversos tipos de problemas. 
+B) Informar acerca de cómo solucionar los problemas. 
+C) Señalar situaciones cotidianas que encierran problemas. 
+D) Dar cuenta de la importancia de la definición del problema. 
+-------------------------
+Responde a las siguientes preguntas extraídas de la Prueba de Acceso a la Educación Superior (PAES) de Comprension Lectora del Ministerio de Educación de Chile. Entrega una columna con el numero de la pregunta y solamente la letra de la alternativa correcta.
+Lectura 2 (preguntas 10 a 19) 
+Ficha educativa elaborada por el Museo Nacional de Historia Natural de Chile para sus visitantes. Guía educativa: LA MACRAUQUENIA Hace 13.000 a 9.000 años se No se tiene certeza del motivo extinguieron todos los grandes de su extinción, pudieron ser mamíferos sudamericanos factores ambientales o bien el (animales de más de una contagio de enfermedades. tonelada de peso) y también la Algunas teorías apuntan mayoría de los mamíferos de directamente a la inﬂuencia de más de 44 kilogramos. Estos son los humanos, mientras otras conocidos colectivamente con el optan por señalar una nombre de megafauna y se sumatoria de todas las vieron especialmente afectados anteriores. en el continente americano. ©MNHN | Pablo Jaramillo LA MACRAUQUENIA EN CHILE En Sudamérica, habitó una especie de en el cráneo, lo que hace pensar que CLASIFICACIÓN TAXONÓMICA mamífero parecido a un gran camello habría tenido una especie de trompa pero con extremidades terminadas de manera similar a la encontrada Macrauchenia patachonica en tres dedos y sin joroba. Antes se en los tapires actuales. Esto le habría relacionaba evolutivamente con los permitido a la macrauquenia Reino: Animalia camélidos, emparentándola por lo ramonear en los árboles que tanto con las actuales llamas y componían su dieta. Si bien los Clase: Mammalia vicuñas. Estudios posteriores la han hábitos de este animal son poco clasiﬁcado en el orden Litopterna, conocidos, se especula que se Orden: Litopterna mamíferos ungulados hoy desplazaba en manadas compuestas completamente extintos. de pocos individuos. Familia: Macrauchenidae Entre las características que En Chile, se han encontrado sus Subfamilia: Macrauchenidae distinguían a la macrauquenia restos que datan del Plio- encontramos los oriﬁcios nasales Pleiistoceno (era Cenozoica), es Género: Macrauchenia ubicados en una posición posterior decir, desde 2,5 millones a 10.000 años atrás. ANATOMÍA DE LA MACRAUQUENIA Trompa Oreja Cola 200 cm 165 cm Patas HALLAZGOS DE MACRAUQUENIA EN CHILE Calama Tongoy Chacabuco Lago General Carrera CuevadelMilodón ©MNHN| Marco Puebla MNHN (s.f.). Guía Educativa: La macrauquenia. Museo Nacional de Historia Natural de Chile. https://www.mnhn.gob.cl/613/articles-5037_archivo_01.pdf / MNHN (s.f.). 
+-Preguntas-
+10. ¿Qué se entiende por megafauna en el texto? 
+A) Grandes animales que en Sudamérica se extinguieron hace 9 mil años. 
+B) Mamíferos de gran tamaño que aún sobreviven en el continente americano. 
+C) Animales muy pesados que habitan el continente americano hace 9 mil años. 
+D) Varias especies de animales extintos que pesaban más de una tonelada. 
+11. ¿Cuál es la función de la primera columna del texto que comienza con la expresión “Hace 13.000 a 9.000 años…”? 
+A) Explicar los motivos de extinción de la megafauna sudamericana. 
+B) Describir geográficamente el hábitat de la megafauna sudamericana. 
+C) Contextualizar la desaparición de los grandes mamíferos sudamericanos. 
+D) Caracterizar los grandes mamíferos sudamericanos extintos hace miles de años. 
+12. ¿Con qué propósito se nombra a los tapires en el texto? 
+A) Para describir el origen evolutivo que comparten con la macrauquenia. 
+B) Para ejemplificar una característica anatómica común con la macrauquenia. 
+C) Para comparar hábitos de desplazamiento similares a los de la macrauquenia. 
+D) Para explicar la organización de las manadas semejantes a las de la macrauquenia. 
+13. ¿Cuál es la función de las figuras humanas que aparecen en la sección titulada “Anatomía de la macrauquenia”? 
+A) Comparar la anatomía humana con la de la macrauquenia. 
+B) Contrastar la estatura de los seres humanos con la de la macrauquenia. 
+C) Ejemplificar la reacción de seres humanos al visualizar una macrauquenia. 
+D) Distinguir los grados de evolución de la especie humana y de la macrauquenia. 
+14. ¿Qué información es verdadera sobre la presencia de la macrauquenia en Chile? 
+A) Se han encontrado restos que datan de la era Cenozoica, 2.5 millones a 10.000 años atrás. 
+B) Comparte el mismo origen evolutivo que los camélidos que habitan Chile hoy: llamas y vicuñas. 
+C) Se extinguió hace 2.5 millones de años de antigüedad, en la era del Plio- Pleistoceno. 
+D) Solo habitó las zonas de Calama, Tongoy, Chacabuco, Lago General Carrera y La cueva del Milodón. 
+15. ¿Cuál de las siguientes afirmaciones es verdadera en relación con la macrauquenia? 
+A) Se alimentaba de árboles. 
+B) Se hallaba únicamente en Chile. 
+C) Se desplazaba en grandes manadas. 
+D) Se asemejaba a los camellos en el número de dedos. 
+16. Respecto de la extinción de la macrauquenia, ¿cuál de las siguientes opciones es verdadera? 
+A) Se inició en Chile y después se expandió al resto de América. 
+B) Se sabe que en Chile ocurrió durante la era Cenozoica. 
+C) Se demostró que fue causada por factores ambientales. 
+D) Se derivó en la extinción de la megafauna en Sudamérica. 
+17. Respecto de la macrauquenia, ¿cuál de los siguientes datos se presenta como una hipótesis NO comprobada? 
+A) Su presencia en el sur de Chile. 
+B) Su desplazamiento en manadas. 
+C) Su clasificación en el orden Litopterna. 
+D) Sus orificios nasales ubicados en el cráneo. 
+18. ¿Cuál de las siguientes opciones presenta un elemento de la clasificación taxonómica de la macrauquenia? 
+A) Pertenencia a la familia de los tapires. 
+B) Hábitat dentro del continente americano. 
+C) Inclusión dentro de la clase Mammalia. 
+D) Peso superior a los 44 kilogramos. 
+19. ¿Qué opción representa el contenido de la sección titulada “Hallazgos de macrauquenia en Chile”? 
+A) Ubicación de restos de la macrauquenia en Chile. 
+B) Factores de extinción de la macrauquenia en Chile. 
+C) Características del hábitat de la macrauquenia en Chile. 
+D) Identificación de diversas huellas de la macrauquenia en Chile. 
+-------------------------
+Responde a las siguientes preguntas extraídas de la Prueba de Acceso a la Educación Superior (PAES) de Comprension Lectora del Ministerio de Educación de Chile. Entrega una columna con el numero de la pregunta y solamente la letra de la alternativa correcta.
+Lectura 3 (preguntas 20 a 26) 
+Fragmento del libro La ciencia. Su método y su filosofía de Mario Bunge, publicado en 1959. 1. «Apenas se discute ya que la ciencia es lo que distingue la cultura contemporánea de las anteriores. No solo es el fundamento de la tecnología que está dando una fisonomía inconfundible a nuestra cultura material, sino que de continuo absorbe disciplinas que otrora fueron artísticas y filosóficas: ayer, la antropología, la psicología y la economía; hoy, la sociología y la historia; mañana, quizá, la estética y la ética. Además, la concepción del mundo del hombre contemporáneo se funda, en medida creciente, sobre los resultados de la ciencia: el dato reemplaza al mito, la teoría a la fantasía, la predicción a la profecía. La cultura social y la personal se tornan, en suma, cada vez más científicas. Hace un siglo, quien ignoraba La Ilíada era tildado de ignorante. Hoy lo es, con igual justicia, quien ignora los rudimentos de la física, de la biología, de la economía y de las ciencias formales. Con razón, porque estas disciplinas nos ayudan mejor que Homero a desenvolvernos en la vida moderna; y no solo son más útiles, sino que también son intelectualmente más ricas. 2. Semejante actitud no implica desdén para con las artes y las llamadas humanidades; no significa que sea digno de admiración el especialista que permanece insensible a la belleza o que menosprecia la investigación filológica. Lo criticable es que, en el siglo de los mayores avances sociales y de la energía nuclear, se siga sosteniendo que la literatura y la crítica literaria deben seguir siendo el eje de la cultura o por lo menos la base de la formación cultural. Modernicemos el concepto de humanidades y equilibremos los diversos ingredientes de la educación, ofreciendo las posibilidades de una educación integral y actual. Si la vida no es ni debe ser puro goce, y si la cultura no es ni debe limitarse a ser comentario de textos, entonces es preciso que renovemos las ideas acerca del lugar que deben desempeñar las artes y las humanidades en la educación moderna. Sostener que el goce estético y la educación para refinarlo deben ocupar un lugar más importante que la búsqueda de la verdad, de la utilidad y del bien social, no es hoy signo de cultura refinada, sino de incultura, de egoísmo, de frivolidad propia de salones victorianos. 3. ¿Cómo es posible seguir sosteniendo que la ciencia y la filosofía de la ciencia son áridas, inhumanas o deshumanizadas, siendo por ello preciso dulcificarlas y dignificarlas mediante una dosis de las llamadas humanidades? ¿Acaso las teorías científicas y metacientíficas se encuentran en la naturaleza, para que pueda tildárselas de inhumanas? ¿No son acaso creaciones humanas, que suelen costar un esfuerzo de imaginación y de concepción mayor que la mayoría de las obras literarias y de crítica literaria? ¿Acaso las obras científicas y metacientíficas no emplean, además de elementos sensibles y del lenguaje diario, almacenes de experiencias, instrumentales conceptuales y lenguajes enormemente más ricos que los que usa el escritor? Consúltese cualquier revista científica y se advertirá cuán ardorosa —aunque controlada— es la imaginación requerida para inventar una teoría, o para hacer un cálculo aproximado, o para diseñar un instrumento. Solo cree que la ciencia es pobre en concepto y en imágenes, y que la investigación - 13 - científica carece de poesía, quien tiene pobres informaciones acerca de la vida de la ciencia. Junto con la filosofía, ella constituye la más rica creación del espíritu. ¿Por qué, entonces, oponer las humanidades a las ciencias, como si estas fuesen menos humanas que aquellas, y como si no fuesen precisamente las ciencias las que alcanzan el conocimiento más profundo y adecuado del hombre? Dígase más bien que las ciencias y las llamadas humanidades no son antagónicas sino complementarias, aun reconociendo que en la época contemporánea el centro de la cultura se desplaza de las humanidades a las ciencias. 4. ¿Cómo lograr eficazmente la integración de la ciencia y de las humanidades en la enseñanza universitaria? La solución que suele ofrecerse en algunos países consiste en agregar trabajos de laboratorio al plan de estudios de las humanidades, y literatura al plan de estudios de ciencia. No debe asombrar que esta solución sumista fracase: lo que se agrega se considera materia "blanda", que se tolera y estudia a desgano, sin que deje rastros. No se logra una reorientación de los estudios universitarios y de la mentalidad de los estudiantes con el mero agregado de cursos. Si lo que se busca es una síntesis, debe ensayarse una solución integradora y no aditiva. ¿Por qué no ensayar el cultivo de una actitud filosófica en las ciencias naturales y sociales, y de una actitud científica en la filosofía y en las llamadas humanidades? No hay por qué buscar la ciencia fuera de las humanidades, cuando lo que se requiere es encararlas en forma científica; ni hay por qué buscar la filosofía fuera de la ciencia, cuando se sabe que esta posee sustancia filosófica.» Mario Bunge. La ciencia. Su método y su filosofía (fragmento). - 14 - 
+-Preguntas-
+20. ¿Con qué finalidad se menciona La Ilíada en el primer párrafo del fragmento leído? 
+A) Para resaltar que el conocimiento literario ha perdido importancia para la cultura de una persona en la actualidad. 
+B) Para ejemplificar cómo la literatura en el ámbito de las humanidades ha sido asimilada por la ciencia. 
+C) Para comparar la ignorancia que significaba el desconocimiento de la obra en un pasado, con la incultura que implica hoy en día no conocer de ciencia. 
+D) Para contrastar las causas por las que el conocimiento del pasado no resulta relevante para las necesidades actuales. E) Para explicar la razón por la cual la ciencia brinda un saber más útil para desarrollarse en la vida moderna. 
+21. Según el autor del texto, ¿cuál de las siguientes disciplinas sigue sin ser asimilada por la ciencia? 
+A) La historia 
+B) La ética 
+C) La psicología 
+D) La antropología E) La sociología 
+22. ¿Cuál es la actitud del autor del texto respecto de las humanidades? 
+A) Las critica, porque son saberes menos relevantes que las ciencias. 
+B) Las respeta, porque son un conocimiento propio de la cultura tradicional. 
+C) Las acepta, pero rechaza su formalidad y carencia de utilidad social. 
+D) Las reconoce, porque han sido absorbidas por las ciencias naturales. E) Las valora, pero les asigna un nuevo sentido complementario a las ciencias. 
+23. Según el tercer párrafo, ¿por qué una persona puede negar el valor humano de la ciencia? 
+A) Porque desconoce el aporte de la ciencia a las humanidades. 
+B) Porque ignora cómo funciona el mundo contemporáneo. 
+C) Porque tiene escasa información respecto de la ciencia. 
+D) Porque recibió una educación basada en las humanidades. E) Porque adquirió conocimientos irrelevantes sobre la ciencia. 
+24. ¿Cuál de las siguientes afirmaciones se puede concluir a partir de la lectura del cuarto párrafo del fragmento leído? 
+A) La filosofía es la disciplina humanista más cercana a las ciencias naturales. 
+B) La mejor educación universitaria debe integrar las ciencias y las humanidades. 
+C) Las ciencias naturales deben asimilarse a las llamadas disciplinas humanistas. 
+D) Las actuales humanidades carecen de base científica que les proporcione credibilidad. E) Las humanidades son una materia que está implícita dentro de la formación científica. 
+25. ¿Qué propone el autor para integrar la ciencia y las humanidades en la educación universitaria? 
+A) Las disciplinas científicas y tecnológicas deben complementarse con asignaturas humanísticas. 
+B) Los planes de estudio de las universidades deben considerar las características de los estudiantes de ciencias. 
+C) Las experiencias de otros países deben ser revisadas cuidadosamente para aplicar sus logros. 
+D) Las humanidades deben cultivarse con una actitud científica y las ciencias deben buscar su sentido filosófico. E) La universidad debe pasar desde la supremacía de las humanidades al fortalecimiento de la enseñanza de las ciencias. 
+26. ¿Qué afirma el autor sobre la ciencia en el texto? I. Es distintiva de la cultura contemporánea. II. Requiere del uso de la imaginación. III. Es antagónica a las Humanidades. 
+A) Solo I 
+B) Solo II 
+C) Solo III 
+D) Solo I y II E) I, II y III 
+-------------------------
+Responde a las siguientes preguntas extraídas de la Prueba de Acceso a la Educación Superior (PAES) de Comprension Lectora del Ministerio de Educación de Chile. Entrega una columna con el numero de la pregunta y solamente la letra de la alternativa correcta.
+Lectura 4 (preguntas 27 a 36) 
+Artículo de divulgación científica publicado en la sección de Reportajes del periódico La Segunda por D. Pérez el 2018. LOS MISTERIOS DE LAS BALLENAS «Los mares ocupan tres cuartas partes del planeta, y representan el 99% del volumen habitable de vida de la Tierra. Entre los cientos de miles de especies que navegan bajo la superficie del mar están los cetáceos, colosales mamíferos que descienden de animales terrestres que volvieron al agua después de vivir millones de años en la superficie. En el mundo existen cerca de 87 especies de cetáceos y 43 de ellas –el 50%– han sido registradas en aguas chilenas. Las bajas temperaturas del océano Pacífico, producto de la corriente de origen antártico, lo transforman en una importante reserva alimentaria, un factor que explica su proliferación. Específicamente, las ballenas están concentradas en la Reserva Nacional Pingüino de Humboldt, en Chañaral, y en las costas de la Región de Los Lagos, Aysén, el Archipiélago de Chiloé, Magallanes e incluso en la Antártica. Ahí, científicos de Chile y el mundo se montan en pequeñas embarcaciones en las que durante dos décadas han observado a ballenas azules –el animal más grande del mundo–, jorobadas, Sei, Fin, Minke, entre las que han logrado registrar. ¿Quiénes son y cuáles son las preguntas que buscan responder? LA LEYENDA DE LAS BLANCAS El biólogo del Instituto de la Patagonia y la Universidad de Magallanes, Jorge Gibbons, jamás imaginó que los cetáceos que veía en la costa desde su casa en Punta Arenas cuando era un niño se convertirían en su objeto de estudio, a comienzos de los 80. “Empecé observando los delfines de Chañaral junto a Juan Capella, después viajé a Colombia a ver su trabajo con las ballenas jorobadas, volvimos a Chile para seguir buscándolas y desde entonces me sumergí completamente en este mundo, desde la biología y también desde la arqueología”, cuenta. Si bien su foco estuvo compartido con Capella, […] su interés se ha ampliado a otras especies, como la ballena blanca y Minke, que llamaban especialmente la atención de los pueblos originarios del sur de Chile. “Los cazadores terrestres tenían un conocimiento exquisito y detallado de lo que los biólogos, a lo largo de décadas, hemos ido encontrando en el presente”, dice Gibbons. Por ejemplo, la tradición oral cuenta que el territorio norte de Tierra del Fuego era visitado - 18 - ocasionalmente por una gran ballena macho, y cuando sucedía, era un gran evento para el pueblo. “Con investigadores argentinos descubrimos que hay una especie de cachalote que varaba allí regularmente. Todos eran machos. Lo que parecía un mito, era información precisa que viene de la observación”, agrega. La evidencia arqueológica demuestra que los selk’nam conocían a los cetáceos desde siempre. Jorge se emociona con la imagen de Tanu, una representación que este pueblo hacía de la ballena Minke, utilizada en ritos y ceremonias sagradas, con líneas blancas sobre un fondo rojo, muy parecidas a los surcos que tienen estos animales en la parte inferior de sus bocas. “La antropóloga Anne Chapman grabó en los años 60 a Lola Kiepja, una chamana de Tierra del Fuego que usaba cantos para atraer cetáceos a las costas. En períodos de hambruna, la gente pedía que una ballena varara en la tierra y el representante de la comunidad emitía una recreación del canto para confundirlas y atraerlas”, explica. Por estos días, Gibbons ocupa sus jornadas revisando unas fotografías de ballenas blancas recién llegadas de la Península Valdés, en Argentina, en una latitud similar a la isla de Chiloé. […] Lo interesante de esta investigación es que la población de estos cetáceos se extinguió en Chile debido a la caza. “En Península Valdés se recuperó, pero en la costa Perú-Chile si bien hay avistamientos, no tenemos un sitio de reproducción: los pocos que se han visto vienen desde el Atlántico. Son seres fascinantes e intelectualmente complejos. Los más viejos son capaces de aprender nuevos cantos, que son realmente difíciles. Para ellos la edad no es una limitante, pueden mantener activas sus capacidades cognitivas”, explica. LOS MISTERIOS DE LOS CANTOS La británica Susannah Buchan supo cuando era una niña que quería estudiar a las ballenas. Es una pasión que desarrolló en sus vacaciones en Canadá, en la casa de sus abuelos maternos. “Un lugar muy parecido al sur de Chile, con bosques y muchas ballenas”, dice la oceanógrafa, investigadora de la Universidad de Concepción y del Centro de Estudios Avanzados en Zonas Áridas (Ceaza). ¿Qué le llama la atención de ellas? “Fueron el primer grupo de fauna marina que llevamos al borde de la extinción, y eso me pareció muy impactante. Para mí representan todo lo que es el océano, la magnitud, la potencia, la inteligencia, el misterio”, asegura. Sin hablar una gota de español, en 2007 Buchan llegó al sur de Chiloé para poner en práctica sus estudios, enfocados en la acústica de las ballenas. […] “Todas las especies suenan distintas, pero dentro de las azules además existen dialectos regionales de la Antártica, Pacífico norte, Nueva Zelanda, océano Índico, California. En Chile, no sabíamos lo que estaban cantando, pero descubrimos a través de la acústica que las ballenas azules acá tienen un dialecto propio, chileno, que se escucha solamente en el Pacífico tropical. Especialmente en la Patagonia, pero también en Galápagos, Juan Fernández y en Chañaral de Aceituno, en la Región de Atacama”, agrega. - 19 - Comunicarse con las ballenas, o al menos comprenderlas, es también el sueño de Sonia Español, doctora en biología marina e investigadora asociada de la Fundación Meri. Su inquietud también le apareció desde niña, cuando veía la serie Flipper en televisión. “Me encantaba ver cómo ese delfín se comunicaba con la entrenadora”, cuenta. Desde entonces, su fascinación por los delfines se fue expandiendo y hoy está dedicada a estudiar la comunicación entre ballenas. “Mi doctorado fue en vocalizaciones jorobadas, y cómo podían verse afectadas por el ruido que genera el tráfico marítimo. Por una parte, tenía que estudiar los cantos de esta especie, que nunca se había hecho, y a partir de ahí ver si existía alguna relación con el ruido de las embarcaciones”, explica. Y agrega: “Registramos jorobadas cantando en el Golfo Corcovado, que por ser una zona fría siempre se había creído que era un área de alimentación, pero al estudiar sus cantos surgen nuevas hipótesis, porque los cantos que recogimos se asocian a cortejo, a reproducción, que se supone se da en zonas calientes como Ecuador. Entonces hoy surge la pregunta de por qué están cantando de esa forma ahí”. Es el ruido de los barcos lo que mantiene a ambas investigadoras en alerta. “El océano es un medio acústico, y en los últimos 100 años hemos inyectado fuentes de sonido ajeno a estos animales. Hoy, ellos viven como si estuvieran en una carretera donde pasan motores todo el rato, y eso produce un estrés e impide escuchar al otro”, dice Susannah Buchan». Pérez, D. (2018, 17 de agosto). Los misterios de las ballenas. La Segunda. https://digital.lasegunda.com/2018/08/17/V/RVSV-A-20180817-008 - 20 - 
+-Preguntas-
+27. ¿Qué función cumplen las secciones “LA LEYENDA DE LAS BLANCAS” y “LOS MISTERIOS DE LOS CANTOS”? 
+A) La primera sección habla sobre los descubrimientos más antiguos; la segunda, sobre los más nuevos. 
+B) La primera sección menciona estudios en el océano Atlántico; la segunda menciona estudios en el océano Pacífico. 
+C) La primera sección muestra antecedentes culturales; la segunda, estudios recientes sobre comunicación. 
+D) La primera sección presenta la investigación de científicos nacionales; la segunda, de los científicos internacionales. 
+28. ¿Por qué diversas especies de cetáceos llegan a las costas chilenas? 
+A) Porque existen reservas en donde pueden navegar de forma segura. 
+B) Porque las aguas frías contienen una fuente abundante de alimento. 
+C) Porque sus cantos indican que el océano Pacífico es un sitio de reproducción. 
+D) Porque poseen vínculos ancestrales con comunidades costeras originarias. 
+29. ¿Cuál es el aporte de la arqueología a la investigación de Jorge Gibbons? 
+A) Entrega pistas sobre cómo era el comportamiento de las ballenas con los pueblos ancestrales. 
+B) Revela el amplio conocimiento que los pueblos originarios tenían sobre la vida de las ballenas. 
+C) Prueba que los indígenas del sur de Chile utilizaban técnicas científicas en la observación de las ballenas. 
+D) Evidencia que la mitología ancestral es una herramienta confiable en las investigaciones actuales. 
+30. "La antropóloga Anne Chapman grabó en los años 60 a Lola Kiepja, una chamana de Tierra del Fuego que usaba cantos para atraer cetáceos a las costas. En períodos de hambruna, la gente pedía que una ballena varara en la tierra y el representante de la comunidad emitía una recreación del canto para confundirlas y atraerlas". ¿Cuál es la función del fragmento anterior? 
+A) Exponer la importancia de las ballenas en la comunidad selk’nam. 
+B) Afirmar que los selk´nam lograban sobrevivir gracias a las ballenas. 
+C) Ejemplificar los cantos usados por los selk’nam para atraer a las ballenas. 
+D) Explicar la implicancia de las ballenas en las ceremonias selk’nam. 
+31. ¿Qué se concluye sobre las ballenas en la cultura selk’nam? 
+A) Que tenían gran importancia arqueológica y cultural desde siempre. 
+B) Que sus cantos solo podían ser interpretados por medio de las chamanas. 
+C) Que estas eran consideradas como su trascendental objeto de estudio. 
+D) Que estas representaban una parte importante de sus rituales y creencias. 
+32. ¿Cuál de las siguientes características se manifiesta en el comportamiento de la ballena blanca? 
+A) Su facultad para aprender nuevos y complejos cantos. 
+B) Su habilidad para evitar la extinción migrando a Argentina. 
+C) Su destreza para encontrar lugares de reproducción seguros. 
+D) Su capacidad para aumentar su inteligencia durante la vejez. 
+33. ¿Por qué Susannah Buchan se interesó en el estudio de las ballenas? 
+A) Porque están en peligro de extinción. 
+B) Porque simbolizan la gran dimensión del océano. 
+C) Porque le traían recuerdos de sus vacaciones de infancia. 
+D) Porque son una de las especies más inteligentes del planeta. 
+34. ¿Qué concluye la investigadora Susannah Buchan sobre la comunicación de las ballenas? 
+A) Que representa la gran inteligencia de las ballenas. 
+B) Que es un área de estudio novedosa para la ciencia. 
+C) Que las ballenas azules tienen el dialecto más avanzado. 
+D) Que puede cambiar según la especie y lugar donde habiten. 
+35. ¿Qué tienen en común las investigaciones de Susannah Buchan y Sonia Español? 
+A) Ambas se enfocan únicamente en el estudio de la acústica de las ballenas. 
+B) Ambas analizan la comunicación de las ballenas de zonas tropicales. 
+C) Ambas estudian la relación entre la conducta y el canto de las ballenas. 
+D) Ambas se centran en comprender los distintos dialectos de las ballenas. 
+36. ¿Cuál es el propósito del último párrafo? 
+A) Describir las fuentes de ruido en el océano durante el último siglo. 
+B) Demostrar que las embarcaciones provocan contaminación acústica. 
+C) Afirmar que las embarcaciones circulan sin conciencia sobre las ballenas. 
+D) Exponer el daño que produce el ruido de las embarcaciones. 
+-------------------------
+Responde a las siguientes preguntas extraídas de la Prueba de Acceso a la Educación Superior (PAES) de Comprension Lectora del Ministerio de Educación de Chile. Entrega una columna con el numero de la pregunta y solamente la letra de la alternativa correcta.
+Lectura 5 (preguntas 37 a 42) 
+Fragmento de un cuento escrito por Julio Cortázar, publicado en 1947. Casa tomada 1. «Nos gustaba la casa porque aparte de espaciosa y antigua (hoy que las casas antiguas sucumben a la más ventajosa liquidación de sus materiales) guardaba los recuerdos de nuestros bisabuelos, el abuelo paterno, nuestros padres y toda la infancia. 2. Nos habituamos Irene y yo a persistir solos en ella, lo que era una locura pues en esa casa podían vivir ocho personas sin estorbarse. Hacíamos la limpieza por la mañana, levantándonos a las siete, y a eso de las once yo le dejaba a Irene las últimas habitaciones por repasar y me iba a la cocina. Almorzábamos al mediodía, siempre puntuales; ya no quedaba nada por hacer fuera de unos platos sucios. Nos resultaba grato almorzar pensando en la casa profunda y silenciosa y cómo nos bastábamos para mantenerla limpia. A veces llegábamos a creer que era ella la que no nos dejó casarnos. Irene rechazó dos pretendientes sin mayor motivo, a mí se me murió María Esther antes que llegáramos a comprometernos. Entramos en los cuarenta años con la inexpresada idea de que el nuestro, simple y silencioso matrimonio de hermanos, era necesaria clausura de la genealogía asentada por nuestros bisabuelos en nuestra casa. Nos moriríamos allí algún día, vagos y esquivos primos se quedarían con la casa y la echarían al suelo para enriquecerse con el terreno y los ladrillos; o mejor, nosotros mismos la voltearíamos justicieramente antes de que fuese demasiado tarde. 3. Irene era una chica nacida para no molestar a nadie. Aparte de su actividad matinal se pasaba el resto del día tejiendo en el sofá de su dormitorio. No sé por qué tejía tanto […] tejía cosas siempre necesarias, tricotas para el invierno, medias para mí, mañanitas y chalecos para ella. A veces tejía un chaleco y después lo destejía en un momento porque algo no le agradaba; era gracioso ver en la canastilla el montón de lana encrespada resistiéndose a perder su forma de algunas horas. Los sábados iba yo al centro a comprarle lana; Irene tenía fe en mi gusto, se complacía con los colores y nunca tuve que devolver madejas. Yo aprovechaba esas salidas para dar una vuelta por las librerías y preguntar vanamente si había novedades en literatura francesa. Desde 1939 no llegaba nada valioso a la Argentina. - 24 - 4. Pero es de la casa que me interesa hablar, de la casa y de Irene, porque yo no tengo importancia. Me pregunto qué hubiera hecho Irene sin el tejido. Uno puede releer un libro, pero cuando un pullover1 está terminado no se puede repetirlo sin escándalo. Un día encontré el cajón de abajo de la cómoda de alcanfor2 lleno de pañoletas blancas, verdes, lila. Estaban con naftalina, apiladas como en una mercería3; no tuve valor para preguntarle a Irene que pensaba hacer con ellas. No necesitábamos ganarnos la vida, todos los meses llegaba plata de los campos y el dinero aumentaba. Pero a Irene solamente la entretenía el tejido, mostraba una destreza maravillosa y a mí se me iban las horas viéndole las manos como erizos plateados, agujas yendo y viniendo y una o dos canastillas en el suelo donde se agitaban constantemente los ovillos. Era hermoso. 5. Cómo no acordarme de la distribución de la casa. El comedor, una sala con gobelinos4, la biblioteca y tres dormitorios grandes quedaban en la parte más retirada, la que mira hacia Rodríguez Peña. Solamente un pasillo con su maciza puerta de roble aislaba esa parte del ala delantera donde había un baño, la cocina, nuestros dormitorios y el living central, al cual comunicaban los dormitorios y el pasillo. Se entraba a la casa por un zaguán con mayólica, y la puerta cancel5 daba al living. De manera que uno entraba por el zaguán, abría la cancel y pasaba al living; tenía a los lados las puertas de nuestros dormitorios, y al frente el pasillo que conducía a la parte más retirada; avanzando por el pasillo se franqueaba la puerta de roble y más allá empezaba el otro lado de la casa, o bien se podía girar a la izquierda justamente antes de la puerta y seguir por un pasillo más estrecho que llevaba a la cocina y al baño. Cuando la puerta estaba abierta advertía uno que la casa era muy grande; si no, daba la impresión de un departamento de los que se edifican ahora, apenas para moverse; Irene y yo vivíamos siempre en esta parte de la casa, casi nunca íbamos más allá de la puerta de roble, salvo para hacer la limpieza, pues es increíble cómo se junta tierra en los muebles. Buenos Aires será una ciudad limpia, pero eso lo debe a sus habitantes y no a otra cosa. Hay demasiada tierra en el aire, apenas sopla una ráfaga se palpa el polvo en los mármoles de las consolas y entre los rombos de las carpetas de macramé; da trabajo sacarlo bien con plumero, vuela y se suspende en el aire, un momento después se deposita de nuevo en los muebles y los pianos». Julio Cortázar, Casa tomada (fragmento). 1 Suéter con el cuello redondo que se mete por la cabeza. 2 Árbol de la familia de las lauráceas, de 15 a 20 m de altura, de madera muy compacta. Originario de Japón, China y otros países de Oriente. 3 Mercería: Trato y comercio de cosas menudas y de poco valor o entidad, como alfileres, botones, cintas, etc./ Tienda de artículos de mercería 4 Tapiz tejido en el que se representan paisajes. 5 Puerta ubicada tras la de entrada a la casa, que la separa del pasillo o habitaciones. - 25 - 
+-Preguntas-
+37. Según el narrador, ¿cuál es la razón por la que Irene tejía? Porque así 
+A) se evadía de su vida rutinaria. 
+B) se sustentaba económicamente. 
+C) se mantenía físicamente activa. 
+D) se entretenía haciendo algo útil. E) se excusaba por no trabajar. 
+38. “Nos gustaba la casa porque aparte de espaciosa y antigua (hoy que las casas antiguas sucumben a la más ventajosa liquidación de sus materiales) guardaba los recuerdos de nuestros bisabuelos…” En el segmento anterior, ¿para qué se utiliza la información que está entre paréntesis? Para 
+A) demostrar que la casa conserva amplios espacios y tiene una antigua tradición arquitectónica. 
+B) señalar una desventaja de los materiales de la casa en que viven. 
+C) privilegiar el valor emocional de la casa sobre el valor económico de la misma. 
+D) manifestar su oposición a la construcción en serie de viviendas. E) persuadir acerca de la importancia del valor histórico de la vivienda de los dos hermanos. 
+39. ¿Cuál de los siguientes elementos determina la relación de los hermanos? 
+A) La monotonía y el espacio doméstico. 
+B) La rutina y los recuerdos de infancia. 
+C) La genealogía y la melancolía. 
+D) La incomunicación y la pobreza. E) Las acciones repetitivas y la culpa. 
+40. ¿Cuál es el tema del tercer párrafo? 
+A) La preocupación del narrador por la actividad de Irene. 
+B) La relación fraternal entre el narrador e Irene. 
+C) El gusto de Irene por el tejido. 
+D) El perfeccionismo de Irene al hacer sus tejidos. E) Las razones de Irene para la actividad de tejer. 
+41. A partir del relato del narrador, ¿qué simboliza la casa en el relato? 
+A) Desarraigo 
+B) Tristeza 
+C) Desapego 
+D) Soledad E) Aislamiento 
+42. ¿Por qué en el quinto párrafo el narrador describe la casa? Porque en el cuarto párrafo 
+A) describe la relación con su hermana Irene. 
+B) señala que hablar de él no tiene importancia. 
+C) menciona las habitaciones donde Irene guarda la ropa tejida. 
+D) afirma que le interesa hablar de Irene y de la casa. E) describe los muebles que utiliza Irene. 
+-------------------------
+Responde a las siguientes preguntas extraídas de la Prueba de Acceso a la Educación Superior (PAES) de Comprension Lectora del Ministerio de Educación de Chile. Entrega una columna con el numero de la pregunta y solamente la letra de la alternativa correcta.
+Lectura 6 (preguntas 43 a 51) 
+Columna de opinión escrita por Paola Vasconi, publicada en blog de La Tercera el 21 de abril de 2011. Día de la Tierra: un poco de historia y reflexión 1. «Este 22 de abril, como todos los años desde 1970 se celebra el Día Mundial de la Tierra. Un día especial que permite crear y ampliar la conciencia ciudadana sobre la necesidad de proteger el patrimonio ambiental mundial. Lo que un día fuera tarea de unos pocos, dedicados principalmente a la conservación, hoy se ha convertido en tarea de muchos preocupados por el entorno en que vivimos. Y es que, a propósito del cambio climático, de la destrucción del patrimonio ambiental local, nacional, regional y mundial, de innumerables episodios de contaminación y/o de conflictos ambientales locales, regionales o mundiales, cada vez más personas se están dando cuenta que de seguir con el modelo de desarrollo actual, que depreda los recursos naturales, que no se preocupa ni protege el patrimonio natural y ambiental de este maravilloso planeta llamado Tierra, se está poniendo en serio riesgo la vida de los seres humanos tal y como hoy la conocemos. 2. Todo partió en 1962 cuando el senador y activista ambiental estadounidense Gaylord Nelson, inició una cruzada para que el tema ambiental formara parte de la agenda gubernamental del presidente Kennedy. La idea fundamental del senador Nelson era llegar a tener un día destinado a la celebración, una gran manifestación popular donde las personas de todos los rincones del país pudieran expresar su preocupación por el manejo que al interior de Estados Unidos se le estaba dando a la temática ambiental. Un día en el país especialmente dedicado a la discusión nacional ambiental. 3. Esta iniciativa vio sus frutos el 22 de abril de 1970, más de veinte millones de personas se movilizaron estableciendo en distintas localidades de Estados Unidos una plataforma de difusión y discusión sobre el medio ambiente y sus principales problemas. Ese mismo año, producto de la presión social, el gobierno de Nixon creó la Agencia de Protección Medio Ambiental (EPA en sus siglas en inglés), entidad dedicada a proteger el medio ambiente y la salud pública. Paralelamente, el Congreso norteamericano promulgó el Acta del Aire Limpio (Clean Air Act) con la finalidad de establecer estándares seguros sobre la calidad del aire y las emisiones de contaminantes. 4. Desde ese 22 de abril 1970, con altos y bajos a lo largo de estas cuatro décadas, el Día de la Tierra se ha internacionalizado convirtiéndose en un momento para evaluar los problemas medioambientales del planeta, como son: la contaminación del aire, agua y suelos; la destrucción de ecosistemas; - 28 - los cientos de miles de plantas y especies animales amenazadas, y el agotamiento de recursos no renovables. Pero también en un día para proponer y promover las soluciones que permitan paliar y/o eliminar los efectos negativos de las actividades humanas y las políticas que permitan reorientar el llamado desarrollo. En esto, un rol preponderante lo han jugado los movimientos y las organizaciones ambientales a lo largo del mundo, quienes con sus diversas acciones han logrado concientizar a gobiernos y a la sociedad civil sobre la magnitud de los problemas que afectan al medio ambiente a nivel mundial y la necesidad de avanzar hacia un modelo distinto de desarrollo. Un hito importante se alcanzó en 1992, cuando en Río de Janeiro se celebró la Conferencia de Naciones Unidas sobre el Medio Ambiente. De ella emanó la Carta de la Tierra, la Agenda 21, varios convenios y documentos para promover el desarrollo sostenible y el cuidado del medioambiente. Sin embargo, hasta ahora, esto no se ha traducido en una acción decidida por parte de los gobiernos en el sentido de iniciar un proceso que permita cambiar el rumbo, de manera de construir un mundo más justo, seguro, próspero y sostenible. 5. El Día de la Tierra, que empezó en 1970 como un movimiento de protesta, ha evolucionado hacia una celebración global del medio ambiente y de nuestro compromiso con su protección. La historia del Día de la Tierra refleja el crecimiento de la conciencia ambiental en el transcurso del último cuarto de siglo, y el legado del Día de la Tierra es la noción inequívoca de que el medio ambiente hoy día es preocupación de todos». Columna de opinión de Paola Vasconi, Coordinadora Programa Medio Ambiente de Fundación Terram, publicada en blog de La Tercera. - 29 - 
+-Preguntas-
+43. Según lo expresado en el primer párrafo, ¿qué es lo que ha provocado que cada vez más personas tomen conciencia de los problemas ambientales? 
+A) La celebración del Día Mundial de la Tierra desde 1970. 
+B) El establecimiento de normas por parte de las autoridades. 
+C) La necesidad de incrementar el patrimonio ambiental. 
+D) Los problemas y conflictos ambientales a nivel mundial. E) La convocatoria a conferencias internacionales periódicas. 
+44. A partir de lo expresado en el texto, ¿qué se infiere respecto del tema que aborda? 
+A) Que las políticas medioambientales para proteger el planeta son aún insuficientes. 
+B) Que los movimientos sociales son responsables de velar por el patrimonio ambiental. 
+C) Que el cuidado del entorno es deber exclusivo de los gobiernos del mundo. 
+D) Que la celebración del Día de la Tierra conmemora la obra de Gaylord Nelson. E) Que la reflexión en torno al Día de la Tierra permanece todavía inconclusa. 
+45. ¿Cuál es el propósito comunicativo de la autora del texto? 
+A) Comprometer a ecologistas con el cuidado de la Tierra. 
+B) Problematizar sobre el verdadero origen del Día de la Tierra. 
+C) Polemizar acerca de las movilizaciones en los años setenta. 
+D) Criticar las políticas medioambientales norteamericanas. E) Involucrar al lector con el cuidado del medioambiente. 
+46. ¿Cuál de las siguientes opciones sintetiza el contenido del texto? 
+A) Hasta la actualidad, los gobiernos del mundo han sido incapaces de modificar sus modelos económicos para el cuidado del ambiente. 
+B) Los principales problemas medioambientales quedaron en evidencia con las iniciativas organizadas por la ONU. 
+C) El Día de la Tierra, que nació para expresar la preocupación por el medioambiente, permitió el desarrollo de la conciencia ambiental. 
+D) El Día de la Tierra es la comprobación de que en la mentalidad ciudadana ha crecido la preocupación por los problemas ambientales. E) Gracias a los eventos internacionales, se ha generado a nivel mundial una toma de conciencia de la destrucción del medioambiente. 
+47. ¿Qué se infiere de la información del segundo párrafo? 
+A) Que hasta la década de los 60 no hubo preocupación por los problemas ambientales en los gobiernos estadounidenses. 
+B) Que en Estados Unidos había muchas personas que participaban de grupos ambientalistas. 
+C) Que Gaylord Nelson era el principal representante de los ambientalistas que propagaban sus ideas en esa época. 
+D) Que antes de Estados Unidos no hubo otros países preocupados por los problemas ambientales de la Tierra. E) Que el senador Nelson dirigía un movimiento de activistas ambientales en el Senado estadounidense. 
+48. ¿Qué se concluye de lo expuesto en el tercer párrafo? 
+A) Que la EPA fue creada por decisión del presidente Nixon con el objetivo de educar a la población para enfrentar los problemas ambientales. 
+B) Que el 22 de abril de 1970, en distintas localidades estadounidenses, se movilizaron millones de personas para promulgar el Día de la Tierra. 
+C) Que la promulgación del Acta del Aire Limpio fue una de las primeras tareas asignadas por el gobierno a la EPA. 
+D) Que el Congreso norteamericano promulgó un Acta con el fin de concientizar a la población sobre los efectos de las emisiones contaminantes. E) Que la movilización de millones de personas obligó al gobierno de Estados Unidos a tomar medidas para la protección medioambiental. 
+49. ¿Cuál es el propósito de la propuesta del senador Gaylord Nelson? 
+A) Concebir la creación de entidades que protegieran el medioambiente. 
+B) Promover la movilización de millones de personas contra el gobierno. 
+C) Generar instancias de diálogo sobre las políticas medioambientales. 
+D) Elaborar políticas de salud pública y de protección del ambiente en EE.UU. E) Propagar ideas innovadoras para medir las emisiones contaminantes. 
+50. A partir de lo expresado en el texto, se concluye que 
+A) gracias al Día de la Tierra, los problemas ambientales en el mundo han disminuido considerablemente. 
+B) los gobiernos han cumplido los acuerdos emanados de las conferencias internacionales preocupadas del problema ambiental. 
+C) a pesar de los esfuerzos de organizaciones gubernamentales, no se ve una preocupación de los ciudadanos por el cuidado del planeta. 
+D) desde los años 60 ha crecido la preocupación de los gobiernos por firmar acuerdos para el resguardo del medioambiente. E) es necesario un cambio de modelo de desarrollo económico en el que predomine la preocupación por el medioambiente. 
+51. ¿Cuál es la actitud que adopta la autora respecto de la celebración del Día Mundial de la Tierra? 
+A) Reflexiva 
+B) Pasiva 
+C) Festiva 
+D) Admirativa E) Crítica 
+---------------------
+Responde a las siguientes preguntas extraídas de la Prueba de Acceso a la Educación Superior (PAES) de Comprension Lectora del Ministerio de Educación de Chile. Entrega una columna con el numero de la pregunta y solamente la letra de la alternativa correcta.
+Lectura 7 (preguntas 52 a 58) 
+Artículo escrito por Josefina Strahovsky, publicado en revistamujer.cl el 7 de agosto del 2016. La nueva vida lenta 1. «Vivir sin champú, reutilizando cada ingrediente del refrigerador o simplemente no comprando ninguna prenda nueva. Una cada vez más popular perspectiva se está apoderando del movimiento slow (lento), llevando a más personas a vivir una vida consciente donde más que ‘reciclar’ se apuesta a vivir sin generar residuos. ¿Se puede? Según los convencidos, no es tan difícil como parece. 2. Que nada se pierde, todo se transforma. Lamentablemente este principio ―uno de los conceptos clave de la Ley de la Conservación de la Materia― parece no aplicar en la actual sociedad de consumo. Hoy todo lo que se produce y utiliza tiene un destino cuyo impacto muchos deciden ignorar, pero que definitivamente está generando innegables consecuencias negativas tanto en el medioambiente como en la calidad de vida. Y nada se transforma si es que no hay alguien que se haga cargo. Esa es la premisa detrás de los cada vez más masivos movimientos sociales de personas que deciden hacerse responsables del destino no solo de los productos que consumen, sino también de las decisiones alimentarias que toman, asumiendo que pequeñas acciones sí pueden hacer una diferencia y aminorar las consecuencias que tiene el actual estilo de vida hiperconsumista. “El consumo responsable nos obliga a tomar responsabilidades individuales y colectivas. Las posibilidades que tenemos como sociedad sobre las decisiones que tomamos como consumidores son muy relevantes; al mirar nuestro contexto medioambiental y social podemos darnos cuenta de que somos capaces de generar un doble impacto”, asegura la sicóloga y especialista en antropología alimentaria Alejandra Naranjo. 3. Aunque tienen múltiples apellidos: slow, consciente, minimalista, etc., estos movimientos comparten como denominador común el deseo de bajarse del carro del consumismo sin reflexión y vivir una vida más conectada con el futuro del planeta. Bajo los principios de cooperación, respeto, sustentabilidad y gratitud ofrecen devolver a la sociedad un balance más natural y en sincronía con el medioambiente. “El movimiento slow llama por distintas vías a detenerse. Mirar los objetos, entender su historia y darse cuenta de que para producir un alimento o una prenda se necesitan recursos que son limitados y que hoy se están gastando indiscriminadamente”, asegura la sicóloga Pilar Navarro, voluntaria en el movimiento ciudadano DiscoSopa, que busca generar conciencia sobre el alarmante desperdicio de alimentos. Un pequeñísimo basurero 4. Aunque asegura que el proceso fue lento, el resultado no deja de ser impresionante. La bloguera estadounidense Lauren Singer guarda la basura que ha producido, durante 4 años, en un jarro mediano. Cuando el promedio de generación de basura de un chileno promedio es de 1 kilo al día su hazaña parece aún más increíble. “No fue tan difícil como lo pensé. Partí con lo básico: dejé las bolsas plásticas, las bombillas, los cubiertos desechables… y de ahí seguí con los envoltorios. Fue una serie de pequeños cambios que me permitieron generar cada vez menos basura hasta llegar al punto en que estoy hoy, donde prácticamente no produzco residuos y, claro, no consumo ningún producto que los contenga”, asegura al teléfono desde su departamento en Nueva York. 5. Algo que aplica en sus productos de belleza, los que fabrica con sus manos y solo con ingredientes naturales; también en su clóset, donde toda la ropa es de segunda mano, y en su cartera, donde siempre lleva cubiertos, una taza y, si sabe que tendrá que comer al paso, un jarro de vidrio con su comida. Ella es parte de un movimiento que también se conoce como ‘minimalista’ o ‘zero waste’6, y que ya no ve en el reciclaje una solución para generar una sociedad menos contaminada, sino que apuesta por generar la menor (o ninguna) cantidad de residuos para cambiar la situación desde su base. Nada se pierde, todo se mastica 6. En la cocina el movimiento slow tiene diferentes manifestaciones. Pero los principios que la sustentan son dos: disfrutar y aprovechar, y van de la mano, como asegura la directora de RecuperaLab, Alejandra Naranjo: “para nosotros la recuperación no solo es reaprovechar alimentos que están a punto de irse a la basura, sino también recuperar lo colectivo de reunirse en una mesa. Que comer no sea un trámite. Eso permite apreciar más los ingredientes y relacionarse de manera distinta con los alimentos”. Ese vínculo, explica, nos obliga como consumidores a asumir la responsabilidad que nos corresponde en la cadena alimentaria. “Porque en el trabajo de concientizar y educar para co-crear soluciones que realizamos en RecuperaLab nos hemos dado cuenta de que se pierde comida en todo ámbito: desde el productor hasta los restaurantes”, agrega. 7. En esa misma cruzada está Pilar Navarro, desde el movimiento DiscoSopa. “Para nosotros el movimiento de slow life7 o slow food8 tiene que ver con darse el tiempo de parar y ver las cosas en su amplitud. Nos obliga a mirar esta comida que antes creíamos que era basura, pero que no lo es”, explica. Para crear esa conciencia realiza eventos ciudadanos abiertos, que invitan a 6 Cero basura. 7 Vida lenta. 8 Alimentación lenta. utilizar ingredientes que otros han desechado, pero que son perfectamente aprovechables y deliciosos. 8. Desde la vereda de los cocineros, Nico Decarli, de la plataforma Simple y Vivo, adhiere también a las ideas base de la cocina slow. “Para mí significa la comida hecha en casa, con dedicación, intención y goce. Se respeta el medioambiente y se aprecia el alimento, su origen y calidad. Olvidar las distracciones como la televisión o el trabajo, disfrutar de la compañía y un entorno en armonía. Yo aporto enseñando y creando conciencia sobre este estilo de vida a través de las clases de cocina con Simple y Vivo, buscando y utilizando alimentos que respeten el medioambiente, rescatando lo que desperdicia el mercado, innovando y compartiendo en la cocina”, asegura.» Josefina Strahovsky, La nueva vida lenta, extraído de http://www.revistamujer.cl/2016/08/07/01/contenido/la-nueva-vida-lenta.shtml/ 
+-Preguntas-
+52. Segúnel texto leído, ¿qué se puede afirmar respecto de los seguidores del movimiento slow? 
+A) Que se preocupan por generar conciencia en la industria alimentaria. 
+B) Que buscan innovar en las técnicas de producción de la sociedad de consumo. 
+C) Que tratan de vivir sin generar grandes cantidades de residuos. 
+D) Que consumen alimentos producidos en armonía con el medioambiente. E) Que buscan nuevas estrategias de reciclaje para ayudar al medioambiente. 
+53. ¿Cuál es el objetivo de citar a la bloguera Lauren Singer en el cuarto párrafo? 
+A) Ejemplificar un procedimiento que permite generar menos residuos. 
+B) Exponer la preocupación de los neoyorquinos por el medioambiente. 
+C) Explicar el funcionamiento del movimiento slow en Nueva York. 
+D) Expresar las ventajas de las personas que han dejado de ser consumistas. E) Ilustrar la sencillez con que las personas pueden reciclar en sus casas. 
+54. ¿Qué afirma Pilar Navarro acerca del movimiento slow? 
+A) Que espera aminorar los efectos del consumismo en la sociedad actual. 
+B) Que considera el arte culinario como una iniciativa medioambiental. 
+C) Que pretende reciclar y generar acciones medioambientales. 
+D) Que invita a la reflexión sobre uso de los recursos naturales limitados. E) Que convoca a la sociedad actual a ser minimalista y transformadora. 
+55. Según el cuarto y quinto párrafos, ¿qué quiere demostrar Lauren Singer a través de sus acciones? 
+A) Que la elaboración artesanal de productos se puede lograr respetando el medioambiente. 
+B) Que la base del ‘minimalismo’ es el cuidado del medioambiente y la preocupación por una sociedad contaminada. 
+C) Que las sociedades menos contaminadas y con menos residuos se pueden construir a partir de prácticas de reciclaje. 
+D) Que la solución a los problemas medioambientales es la producción de menos residuos en la sociedad. E) Que la reutilización de productos permite reducir considerablemente la cantidad de residuos que una persona produce durante 4 años. 
+56. A partir del sexto párrafo, ¿a qué se refiere la expresión “Que comer no sea un trámite”? Que comer debe ser una actividad 
+A) de recuperación de alimentos a punto de descomponerse para reutilizarlos en nuevas comidas. 
+B) para motivar a los consumidores a tomar conciencia respecto del origen de los alimentos y de la forma de aprovecharlos. 
+C) para conocer el origen de los ingredientes que se consumen y de las tradiciones asociadas a su consumo. 
+D) en la que se eduque en temas medioambientales y sobre el aprovechamiento de los limitados recursos naturales. E) donde se disfrute tanto la preparación de los alimentos como el compartirlos en una mesa. 
+57. ¿Qué movimiento ciudadano nombrado en el texto realiza eventos para crear conciencia en torno a los alimentos consumidos? 
+A) Slow 
+B) Simple y Vivo 
+C) DiscoSopa 
+D) RecuperaLab E) Minimalista 
+58. ¿Por qué la Ley de la Conservación de la Materia NO se ve reflejada en la sociedad actual? 
+A) Por la mala calidad de vida. 
+B) Por la falta de conciencia ecológica. 
+C) Por el consumo irresponsable. 
+D) Por el desconocimiento de formas de reciclar. E) Por las políticas alimentarias de las sociedades. 
+Lectura 8 (preguntas 59 a 65) 
+Texto de divulgación ciudadana de la Comisión Nacional de Seguridad de Tránsito (CONASET) consultado en mayo de 2021. Circulación de los ciclos Se definen nuevos modos de transporte y se diferencian aquellos motorizados de los que no son motorizados. Dentro de los vehículos no motorizados se encuentran los “ciclos”, que son vehículos de 1 o más ruedas propulsados por las personas situadas en ellos, por ejemplo, las bicicletas, patinetas, patines, monopatines, etc. Además, asimila a los ciclos los vehículos con asistencia eléctrica con potencia máxima de 0,25 kw y que no superen los25 km/hr. Tal como la ley de tránsito lo establece desde su entrada en vigencia en 1985, los vehículos tienen la obligatoriedad de circular por la calzada. La nueva normativa define concretamente que los ciclos deben circular por las ciclovías (si estas existen) o a falta de estas lo harán por la pista derecha de la calzada. Es importante mencionar que constituyen una excepción a la obligación de transitar por la pista derecha de la calzada los siguientes casos: Cuando se adelante o sobrepase a otro vehículo motorizado que va en el mismo sentido, bajo las reglas que rige tal movimiento. Cuando el tránsito por la mitad derecha de una calzada esté impedido por construcciones, reparaciones u otros accidentes que alteren la normal circulación. En víasunidireccionales, cuando exista una pista de uso exclusivo de buses ubicada al costado derecho de la calzada. En esta situación, los ciclos deberán circular por el costado izquierdo de la pista izquierda. Tratándose de vías bidireccionalesesta disposición se aplicará solo en caso de existir bandejón central o mediana. Cruces Peatonales En el caso de tener que utilizar un cruce peatonal, el conductor del ciclo deberá detenerse antes del mismo y atravesarlo a velocidad reducida, respetando siempre la prioridad del peatón, a velocidad del peatón y si el flujo peatonal es muy alto deberá descender del ciclo. Los peatones deberán cruzar las ciclovías por los lugares debidamente señalizados y no podrán permanecer ni caminar por ellas. https://www.conaset.cl/circulacion-de-los-ciclos/ 
+-Preguntas-
+59. De acuerdo con el texto, ¿qué son los ciclos? 
+A) Un tipo de medio de transporte propulsado por su conductor. 
+B) Un tipo de vehículo motorizado para un solo pasajero. 
+C) Un tipo de automóvil eléctrico de una o más ruedas. 
+D) Un tipo de carro no motorizado que supera 25 km/hr. 
+60. ¿Qué debe realizar el ciclo si no existe ciclovía? 
+A) Desplazarse a menos de 25 km/hr. 
+B) Circular a la velocidad de los peatones. 
+C) Utilizar la pista de uso exclusivo de buses. 
+D) Transitar por la pista derecha de la calzada. 
+61. ¿En cuál de los siguientes casos el ciclo puede utilizar la pista izquierda de la calzada? 
+A) Cuando se encuentre ante un cruce peatonal. 
+B) Cuando no exista bandejón central o mediana. 
+C) Cuando adelante a un vehículo motorizado. 
+D) Cuando transite por la pista de uso exclusivo de buses. 
+62. ¿Qué función cumple la segunda imagen en relación con el contenido del texto? 
+A) Ilustra la normativa que debe cumplir el usuario de ciclo en un cruce peatonal. 
+B) Ejemplifica la relación que surge entre los usuarios de ciclo y los peatones. 
+C) Grafica la jerarquía que existe entre los vehículos motorizados, ciclos y peatones. 
+D) Muestra la situación en que un ciclo está autorizado para adelantar a un peatón. 
+63. ¿Qué función cumple el siguiente fragmento en relación con la normativa sobre los ciclos? “Los peatones deberán cruzar las ciclovías por los lugares debidamente señalizados y no podrán permanecer ni caminar por ellas.” 
+A) Explica la forma en que deben transitar los ciclos por los cruces peatonales. 
+B) Establece el deber de los usuarios de ciclos de respetar el tránsito de peatones. 
+C) Agrega las restricciones al tránsito de peatones por las vías destinadas a los ciclos. 
+D) Especifica las excepciones en que los peatones pueden hacer uso de las ciclovías. 
+64. ¿Cuál es el objetivo social del texto leído? 
+A) Dar a conocer a la ciudadanía la nueva normativa de tránsito para la circulación de los ciclos. 
+B) Promover entre las personas un nuevo modo de transporte no motorizado llamado ciclo. 
+C) Fomentar entre la población el uso de vehículos propulsados por las mismas personas que los conducen. 
+D) Informar a la comunidad sobre las medidas de seguridad que deben cumplir los usuarios de los ciclos. 
+65. ¿Cómo se organiza la información de la primera sección del texto? 
+A) Presentación de los vehículos – Origen de la ley de tránsito – Obstrucciones al desplazamiento. 
+B) Definición del vehículo – Norma sobre la circulación – Excepciones a la norma general. 
+C) Ejemplos de vehículos – Definición de la norma – Aplicaciones específicas en distintas rutas. 
+D) Diferencia entre vehículos – Uso de las ciclovías – Descripción de distintos tipos de vías.

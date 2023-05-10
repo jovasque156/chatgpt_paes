@@ -1,0 +1,1322 @@
+<head_reading>LECTURA 1 (Preguntas 1 a 7)
+<reading>Documento publicado por el Ministerio de Salud de Chile (MINSAL). Consultado en marzo
+<reading>de 2021.
+<reading>Nutrición
+<reading>Políticas Públicas en Alimentación y Nutrición
+<reading>En Chile, las políticas en alimentación y nutrición están enfocadas a la promoción de la
+<reading>alimentación saludable en el contexto de una vida sana, y a la prevención de la obesidad y
+<reading>otras enfermedades no transmisibles vinculadas a la dieta. Lo anterior en respuesta a la
+<reading>alta prevalencia de malnutrición por exceso en nuestra población y a que esta enfermedad
+<reading>se asocia a las principales causas de morbilidad, mortalidad y discapacidad precoz, tales
+<reading>como diabetes, hipertensión, infartos cardíacos, ataques cerebrales y algunos tipos de
+<reading>cáncer. La malnutrición por exceso afecta a hombres y mujeres, pero con mayor
+<reading>intensidad a las mujeres; afecta también a los niños y niñas desde muy pequeños
+<reading>incidiendo en su crecimiento y desarrollo; y afecta a todos los grupos socioeconómicos,
+<reading>pero principalmente a los grupos socioeconómicos más vulnerables. Esta realidad hace de
+<reading>la obesidad el problema de salud
+<reading>pública más importante en la
+<reading>actualidad por lo que constituye una
+<reading>responsabilidad ineludible del
+<reading>Estado.
+<reading>Desde el Ministerio de Salud, el
+<reading>enfoque que se plantea para abordar
+<reading>la prevención y control de la
+<reading>malnutrición por exceso considera
+<reading>los determinantes sociales de la
+<reading>salud, apuntando a las causas que
+<reading>influyen en las conductas de las
+<reading>personas y, en ese sentido, es por lo
+<reading>tanto un enfoque intersectorial,
+<reading>mediante políticas estructurales
+<reading>basadas en la evidencia, que
+<reading>contribuyen a modificar los entornos
+<reading>que rodean a las personas y que
+<reading>inciden en la toma de decisiones,
+<reading>tales como, mejorar la oferta y
+<reading>disponibilidad de alimentos
+<reading>saludables, aumentar la información
+<reading>respecto de los alimentos mediante
+<reading>un etiquetado nutricional claro y fácil
+<reading>de comprender, el uso regulado de
+<reading>mensajes nutricionales y el control de la publicidad asociada a los alimentos,
+<reading>especialmente aquella dirigida a la población infantil. Así también, este enfoque considera
+<reading>políticas individuales tales como la educación en salud y nutrición, la consejería en
+<reading>alimentación y programas dirigidos a tratar a las personas con obesidad y sobrepeso.
+<reading>Entre las políticas y estrategias más destacadas, se encuentran:
+<reading>LEYES, NORMAS Y REGULACIONES:
+<reading>Tales como la Ley 20.606 sobre la Composición nutricional de los alimentos y su publicidad,
+<reading>que obliga a los alimentos que sobrepasen los límites determinados de energía, azúcares,
+<reading>sodio y grasas saturadas, a rotular “ALTO EN”, que prohíbe la venta de estos alimentos en
+<reading>establecimientos educacionales de pre básica, básica y media y que prohíbe la publicidad de
+<reading>estos alimentos dirigida a menores de 14 años. En este ámbito, existen además normas y guías
+<reading>para la evaluación nutricional, de alimentación y de manejo de malnutrición.
+<reading>ACUERDOS VOLUNTARIOS DE REDUCCIÓN DE NUTRIENTES CRÍTICOS:
+<reading>En este ámbito, el ejemplo más exitoso es el acuerdo con FECHIPAN y ASACH para reducir el
+<reading>contenido de sodio en el pan.
+<reading>PROGRAMAS DE VIGILANCIA Y FISCALIZACIÓN DE ALIMENTOS:
+<reading>Que incluyen aspectos de inocuidad, etiquetado y composición nutricional de los alimentos
+<reading>con foco en nutrientes críticos y de fortificación.
+<reading>PROGRAMA DE INTERVENCIÓN EN OBESIDAD:
+<reading>Programas integrales de atención de personas con malnutrición por exceso en atención primaria
+<reading>de salud “Programa Vida Sana” para menores desde los 2 años de edad, escolares y adolescentes
+<reading>y adultos hasta los 60 años.
+<reading>PROGRAMA NACIONAL DE ALIMENTACIÓN COMPLEMENTARIA:
+<reading>PNAC y PACAM, que contribuyen a la seguridad alimentaria y nutricional de los grupos más
+<reading>vulnerables de nuestro país, entregando gratuitamente alimentos de alta calidad nutricional y
+<reading>alta especificidad, vinculada a otras intervenciones de salud como el control sano y las
+<reading>vacunas.
+<reading>PLANES DE PROMOCIÓN DE SALUD:
+<reading>Trabajo intersectorial coordinado desde el nivel central, y que se expresa a nivel regional y
+<reading>comunal en distintas intervenciones tales como las comunas saludables, las escuelas y
+<reading>universidades saludables y los lugares de trabajo promotores de la salud.
+<reading>GUÍAS ALIMENTARIAS PARA LA POBLACIÓN:
+<reading>Conjunto de mensajes educativos breves, claros y concretos, validados en nuestra población,
+<reading>dirigidos a personas sanas mayores de dos años, con el objetivo de promover la alimentación
+<reading>saludable y reducir el riesgo de enfermedades nutricionales. Estos mensajes se traducen además
+<reading>en un símbolo que la población reconoce como orientador del consumo saludable y de una vida
+<reading>sana.
+<reading>CAMPAÑAS DE MEDIOS MASIVOS:
+<reading>Para apoyar las estrategias en curso y promover el desarrollo de entornos alimentarios saludables
+<reading>que contribuyan a instalar hábitos de vida sana.
+<reading>División de Políticas Públicas. (s.f.). Nutrición. Políticas Públicas en Alimentación y Nutrición. Ministerio
+<reading>de Salud de Chile. https://dipol.minsal.cl/departamentos-2/nutricion-y-alimentos/nutricion/
+<id_question>1.
+<prompt>¿Qué se afirma en el texto sobre la hipertensión?
+<choice>A) Que es una consecuencia de las enfermedades no transmisibles asociadas a la
+<choice>dieta.
+<choice>B) Que es un factor de riesgo para la población adulta de grupos socioeconómicos
+<choice>más vulnerables.
+<choice>C) Que es una alerta del consumo indiscriminado de alimentos nocivos para la
+<choice>salud.
+<choice>D) Que es un efecto de la obesidad que afecta a todos los grupos
+<choice>socioeconómicos.
+<id_question>2.
+<prompt>¿Por qué se plantea un enfoque intersectorial para abordar la prevención y control
+<prompt>de la malnutrición por exceso?
+<choice>A) Porque la lucha contra la malnutrición por exceso proviene de sectores políticos
+<choice>y la publicidad.
+<choice>B) Porque el entorno de las personas es determinante en su conducta y decisiones
+<choice>alimentarias.
+<choice>C) Porque la disponibilidad de los alimentos debe ser independiente de la
+<choice>condición socioeconómica.
+<choice>D) Porque el descubrimiento de la causa de la malnutrición por exceso todavía
+<choice>requiere más investigación.
+<id_question>3.
+<prompt>¿A cuál de las siguientes políticas o estrategias corresponde la figura que
+<prompt>aparece en el texto?
+<choice>A) Planes de promoción de salud.
+<choice>B) Programas de vigilancia y fiscalización de alimentos.
+<choice>C) Guías alimentarias para la población.
+<choice>D) Programa nacional de alimentación complementaria.
+<id_question>4.
+<prompt>¿Qué se dice en el texto sobre la asociación FECHIPAN?
+<choice>A) Es una de las empresas que ayuda al MINSAL en la prevención y control de la
+<choice>malnutrición.
+<choice>B) Es un ejemplo exitoso dentro de las estrategias planteadas por el MINSAL en la
+<choice>prevención y control de la malnutrición.
+<choice>C) Es uno de los programas transversales del MINSAL, asociado también al
+<choice>control sano.
+<choice>D) Es un programa encargado de la composición nutricional de los alimentos con
+<choice>foco en nutrientes críticos y de fortificación.
+<id_question>5.
+<prompt>¿Cuál de las siguientes medidas se encarga de proveer de alimentos de alta
+<prompt>calidad nutricional a personas vulnerables?
+<choice>A) Planes de promoción de salud.
+<choice>B) Guías alimentarias para la población.
+<choice>C) Programas de vigilancia y fiscalización de alimentos.
+<choice>D) Programa nacional de alimentación complementaria.
+<id_question>6.
+<prompt>¿Qué estrategia del MINSAL es reconocida como símbolo de vida sana y
+<prompt>alimentación saludable?
+<choice>A) Las guías educativas para la población.
+<choice>B) El etiquetado y composición nutricional de los alimentos.
+<choice>C) Los acuerdos voluntarios de reducción de nutrientes críticos.
+<choice>D) La seguridad alimentaria y nutricional de los grupos más vulnerables.
+<id_question>7.
+<prompt>¿Qué elemento de este texto otorga credibilidad a la información?
+<choice>A) La regulación de los mensajes a través de los medios de comunicación.
+<choice>B) La explicación de las consecuencias de la malnutrición por exceso.
+<choice>C) La mención de distintas normativas y programas gubernamentales.
+<choice>D) La exposición del tema a partir de elementos gráficos alusivos a alimentos.
+<head_reading>LECTURA 2 (Preguntas 8 a 16)
+<reading>Fragmento de La guía esencial de referencia para cineastas elaborada por la empresa
+<reading>Kodak. Sin fecha de publicación.
+<reading>UNA CRÓNICA DE LA INDUSTRIA CINEMATOGRÁFICA
+<reading>INTRODUCCIÓN
+<reading>Si ha tomado alguna vez una fotografía instantánea, ya conoce los fundamentos del rodaje de
+<reading>una imagen cinematográfica. La mayor diferencia entre las dos está en que la cámara de cine
+<reading>toma habitualmente veinticuatro imágenes cada segundo.
+<reading>Bien entrado el pasado siglo diecinueve, la mayoría de las imágenes
+<reading>se capturaban sobre placas de cristal, metal o papel grueso. Poco
+<reading>después de la invención de la fotografía, ya se realizaron intentos de
+<reading>capturar y reproducir una imagen en movimiento. Generalmente un
+<reading>conjunto de cámaras individuales disparadas en sucesión rápida,
+<reading>capturaban una serie de exposiciones únicas en placas de cristal.
+<reading>Estos experimentos se basaban en el concepto de la persistencia de
+<reading>la visión, la combinación ojo-cerebro es capaz de fusionar una serie
+<reading>1951 Cámara de
+<reading>de imágenes secuenciales en una película. Había que crear un
+<reading>cine KODAK
+<reading>sistema fotográfico aún más práctico.
+<reading>BROWNIE
+<reading>Fue el invento de George Eastman de la cámara KODAK y la película
+<reading>flexible que exponía lo que hizo posible la existencia de la cámara de
+<reading>cine.
+<reading>HISTORIA DE LA CINEMATOGRAFÍA
+<reading>La fascinación humana por el concepto de comunicarse con luces y
+<reading>sombras tiene sus raíces en la Antigüedad. Aristóteles nos proporcionó
+<reading>la referencia más antigua de la cámara oscura: la luz del sol, al
+<reading>atravesar un pequeño orificio, proyectaba una imagen invertida sobre la
+<reading>pared de una habitación oscurecida.
+<reading>Artistas del Renacimiento calcaron esa imagen proyectada para crear
+<reading>dibujos de gran precisión. Gemma Frisius publicó un dibujo de una
+<reading>cámara oscura en 1545. Trece años más tarde Giovanni Battista della
+<reading>Porta escribió Magia naturalis, un libro que describía el uso de la
+<reading>cámara oscura con lentes y espejos cóncavos para proyectar un cuadro
+<reading>en una habitación a oscuras. Podían también haber estado dibujando 1923 Película
+<reading>KODACOLOR
+<reading>imágenes sobre la arena, porque las imágenes eran efímeras.
+<reading>Este fenómeno finalmente condujo al desarrollo de la primera cámara fotográfica: una
+<reading>sencilla caja en la que la luz incidía contra una solución sensible aplicada sobre un soporte
+<reading>de cristal, metal o papel. Los orígenes de la fotografía se remontan a 1816, cuando
+<reading>Nicephore Niepce, un litógrafo francés, grabó imágenes sobre placas metálicas recubiertas
+<reading>de un material sensible. En 1827, grabó una imagen sobre una placa de peltre recubierta con
+<reading>una emulsión química sensible a la luz.
+<reading>Posteriormente, Niepce colaboró con Louis Jacques Mande Daguerre en el desarrollo del
+<reading>primer sistema fotográfico práctico del mundo. Registraron imágenes claras y nítidas sobre
+<reading>placas de cobre plateadas en el estudio de Daguerre en 1837. Niepce donó su invento al
+<reading>gobierno francés, que lo declaró de dominio público.
+<reading>William Henry Fox Talbot inventó el primer proceso para realizar copias positivas de una
+<reading>imagen negativa durante la década de 1830. Richard Leach Maddox descubrió que el cristal
+<reading>de haluro de plata es un depósito increíblemente eficiente para capturar luz. Su
+<reading>descubrimiento de 1871 fue un componente básico fundamental para la fotografía moderna.
+<reading>Eadweard Muybridge, un fotógrafo itinerante que emigró a California, realizó el intento más
+<reading>antiguo documentado de fotografía cinematográfica. En 1872, el gobernador de California,
+<reading>Leland Stanford, contrató a Muybridge para que le ayudase a ganar una apuesta para
+<reading>demostrar que había veces en la carrera de un caballo en que las cuatro patas del animal no
+<reading>tocaban el suelo. Cinco años después, Muybridge preparó 24 cámaras en fila a lo largo de la
+<reading>pista de carreras. Sujetó un cordón al obturador de cada cámara y tendió las cuerdas a
+<reading>través de la pista. Muybridge escribió con tiza líneas y números en una pizarra detrás de la
+<reading>pista para medir el progreso. Mientras el caballo de Stanford corría por la pista, tropezó con
+<reading>los cables y grabó 24 fotografías que demostraron que las cuatro patas del caballo no
+<reading>tocaron el suelo al mismo tiempo.
+<reading>Stanford ganó la apuesta y Muybridge continuó experimentando. Durante la primera década
+<reading>de 1880, viajó a París para demostrar su sistema de múltiples cámaras a otros fotógrafos y
+<reading>científicos. Uno de sus invitados fue Etienne Jules Marey, que estaba experimentando el uso
+<reading>de una única cámara para grabar imágenes en movimiento.
+<reading>La cámara disponía de un largo cilindro que servía de objetivo y un compartimento circular
+<reading>que contenía una única placa fotográfica de cristal. Marey tardaba un segundo en grabar 12
+<reading>imágenes en el borde de la placa de cristal. Llamó a su invento cronofotografía. Marey
+<reading>registró imágenes en movimiento de hombres corriendo y saltando, caballos trotando y
+<reading>gaviotas volando. Fueron registros permanentes de uno a dos segundos de movimiento.
+<reading>Simultáneamente, Thomas Edison inventó un sistema que grababa y reproducía música
+<reading>usando un cilindro de cera. Después de que su invento se hizo popular, Edison tuvo la idea
+<reading>de construir y vender un dispositivo para consumidores que mostrasen imágenes en
+<reading>movimiento para acompañar a la música. En 1885 en su laboratorio de Menlo Park, New
+<reading>Jersey, asignó a W. K. L. Dickson la tarea de encontrar una forma de registrar imágenes en
+<reading>movimiento en los bordes de las grabaciones.
+<reading>El futuro fundador de Kodak, George Eastman, se interesó en la fotografía fija en 1877,
+<reading>cuando era un empleado de banco de 25 años de edad en Rochester, Nueva York. La
+<reading>fotografía era un proceso incómodo, el fotógrafo tenía que extender una emulsión química
+<reading>sobre una placa de cristal en un lugar muy oscuro y después capturar la imagen antes de que
+<reading>la emulsión se secase.
+<reading>En 1880, Eastman fabricó placas secas que mantenían su sensibilidad a la luz. EASTMAN
+<reading>Dry Plates (Placas secas EASTMAN) desempeñó un papel importante para popularizar la
+<reading>fotografía, pero el antiguo empleado de banco estaba decidido a hacerlo aún más fácil.
+<reading>En Inglaterra en 1887, el reverendo Hannibal Goodwin inventó y patentó un método para
+<reading>aplicar una emulsión fotográfica fotosensible sobre un soporte de nitrato de celulosa. El
+<reading>soporte era lo suficientemente resistente, transparente y delgado para perfeccionar un
+<reading>proceso para fabricar película sobre un soporte flexible.
+<reading>Eastman compró el derecho para utilizar la patente en 1888 e
+<reading>introdujo la cámara KODAK BROWNIE el año siguiente. La cámara
+<reading>venía cargada previamente con suficiente película para tomar 100
+<reading>fotografías. La campaña publicitaria promocionó la fotografía como
+<reading>una afición para todos, hombres, mujeres y niños; su lema: “Usted
+<reading>aprieta el botón y nosotros hacemos todo lo demás”. La cámara se
+<reading>enviaba por correo a Kodak después de tomar todas las fotografías.
+<reading>Kodak revelaba y copiaba la película, después devolvía las copias al
+<reading>fotógrafo junto con la cámara recargada.
+<reading>Dickson vio la cámara BROWNIE en un club de fotógrafos
+<reading>aficionados en New Jersey. Viajó a Rochester para conocer a 1898 Cámara KODAK
+<reading>Eastman, que aceptó suministrar la película necesaria para una plegable de bolsillo
+<reading>cámara cinematográfica experimental. Dickson desarrolló la cámara
+<reading>Kinetógrafo y el proyector Kinetoscopio, que Edison patentó en Estados Unidos en 1891.
+<reading>Dickson escribió a Edison afirmando, “¡Eureka, esto es!”. Edison respondió “¡Ahora, trabaja
+<reading>como un diablo!” […].
+<reading>El 20 de mayo de 1891, Edison demostró por primera vez su proyector cuando las delegadas
+<reading>de la Federación Nacional de Clubes de Mujeres visitaban el laboratorio de investigación de
+<reading>la compañía. Un periodista del The New York Sun escribió, “Las mujeres vieron una pequeña
+<reading>caja de pino con una mirilla de una pulgada de diámetro. Una por una miraron a través de la
+<reading>mirilla y vieron imágenes en movimiento de un hombre sonriendo, saludando con la mano,
+<reading>quitándose el sombrero e inclinándose con naturalidad y elegancia”.
+<reading>En 1892, Edison inauguró un rudimentario estudio cinematográfico en Orange, New Jersey, y
+<reading>dijo a Dickson que empezase a producir allí películas cinematográficas para una gran
+<reading>presentación en la Exposición de Chicago de 1894. Edison le llamó Estudio Black Maria,
+<reading>debido a su forma parecida a los carros tirados por caballos de la policía así llamados. El
+<reading>techo se podía retirar para permitir entrar la luz del día y el estudio estaba construido sobre
+<reading>una plataforma giratoria que giraba para seguir el sol. Dickson instaló una vía de vagonetas
+<reading>en el estudio que le permitía mover la cámara acercándose y alejándose de sus sujetos para
+<reading>obtener planos más interesantes, un primer paso intuitivo para hacer de la cinematografía un
+<reading>arte interpretativo.
+<reading>El Kinetoscopio fue la sensación de la Exposición. Ese mismo año, Edison hizo un acuerdo
+<reading>comercial con Norman Charles Raff, que organizó la Kinetoscope Company y vendió
+<reading>derechos territoriales a empresarios que querían explotar salones de peepshow. Pronto,
+<reading>funcionaron más de 1.000 salones en Estados Unidos y Canadá.
+<reading>Grabación de un estornudo, rodada por Dickson, es la película más antigua que consta en la
+<reading>Biblioteca del Congreso de Estados Unidos. El título de la película de 1893 es literal; muestra
+<reading>a Fred Ott, un mecánico que trabajaba para Edison, estornudando.
+<reading>Aunque las películas de Kinetoscopio duraban únicamente 20 segundos, se vendieron
+<reading>más de 1.000 Kinetoscopios entre 1894 y 1895 en Norteamérica y Europa. Se dice que
+<reading>Edison no vio ninguna aplicación de las películas salvo estos peepshows.
+<reading>Eastman Kodak Company. (s.f.). La guía esencial de referencia para cineastas. (pp. 5-8). KODAK
+<reading>Educational Products.
+<id_question>8.
+<prompt>Lee el siguiente segmento obtenido desde Wikipedia y relaciona su contenido con lo
+<prompt>que leíste en el fragmento de Una crónica de la industria cinematográfica.
+<prompt>«El 2 de mayo de 1887, [Hannibal Goodwin], coincidiendo con la jubilación en su
+<prompt>cargo sacerdotal hizo la presentación de su invento en una reunión al efecto, sin
+<prompt>embargo, al solicitar su patente entró en conflicto con Eastman Kodak que había
+<prompt>comenzado la producción de la misma. Los pleitos duraron diez años hasta que el
+<prompt>13 de septiembre de 1898 se la concedieron con el número 610861 y
+<prompt>posteriormente en 1914 sus propietarios obtuvieron una indemnización de cinco
+<prompt>millones de dólares».
+<prompt>https://es.wikipedia.org/wiki/Hannibal_Goodwin
+<prompt>A partir del segmento anterior de Wikipedia, ¿qué se puede afirmar acerca de la
+<prompt>información del fragmento Una crónica de la industria cinematográfica?
+<choice>A) Que entrega información falsa respecto del aporte del invento de Goodwin,
+<choice>comprado más tarde por Eastman.
+<choice>B) Que omite el conflicto entre Eastman y Goodwin, resaltando los aportes de
+<choice>Eastman en la historia cinematográfica.
+<choice>C) Que se enfoca en los aspectos técnicos de la historia de la industria
+<choice>cinematográfica más que en el invento de Eastman.
+<choice>D) Que destaca la capacidad empresarial de Eastman, quien logra comprar los
+<choice>derechos de la patente para comercializar su cámara.
+<id_question>9.
+<prompt>¿Cuál es el antecedente más antiguo de las películas de cine?
+<choice>A) La cámara KODAK de Eastman.
+<choice>B) Las fotografías de Muybridge.
+<choice>C) La cámara oscura de Frisius.
+<choice>D) El Kinetoscopio de Dickson.
+<id_question>10.
+<prompt>¿A cuál de los siguientes inventores se le atribuye el origen de la fotografía?
+<choice>A) Gemma Frisius.
+<choice>B) George Eastman.
+<choice>C) Giovanni Battista.
+<choice>D) Nicephore Niepce.
+<id_question>11.
+<prompt>¿Cuál de los siguientes inventores mejoró la luminosidad de las fotografías?
+<choice>A) Nicephore Niepce.
+<choice>B) Richard Leach Maddox.
+<choice>C) Giovanni Battista della Porta.
+<choice>D) Louis Jacques Mande Daguerre.
+<id_question>12.
+<prompt>¿Qué representa la siguiente figura dentro del fragmento leído?
+<choice>A) La nitidez de la imagen al utilizar cristal de haluro de plata.
+<choice>B) El primer registro documentado de una fotografía cinematográfica.
+<choice>C) La importancia de la película flexible en la emulación del movimiento.
+<choice>D) El resultado de una cámara única para grabar imágenes en movimiento.
+<id_question>13.
+<prompt>¿Qué logró Eastman una vez que obtuvo los derechos sobre el método inventado
+<prompt>por el reverendo Goodwin?
+<choice>A) Simplificar y masificar el proceso fotográfico.
+<choice>B) Mejorar la calidad y la nitidez de las fotografías.
+<choice>C) Crear, junto a Dickson, una cámara para aficionados.
+<choice>D) Perfeccionar un método para capturar el movimiento.
+<id_question>14.
+<prompt>¿Cuál de las siguientes propiedades de la cámara KODAK BROWNIE se desprende
+<prompt>del lema de su campaña publicitaria?
+<choice>A) Comodidad, porque no requería de esfuerzo por parte de quien la usara.
+<choice>B) Eficiencia, porque posee la capacidad de tomar 100 fotografías por cada
+<choice>película.
+<choice>C) Conveniencia, porque la compañía garantizaba la copia de la película y el
+<choice>revelado.
+<choice>D) Funcionalidad, porque podía adaptarse para ser utilizada por hombres,
+<choice>mujeres y niños.
+<id_question>15.
+<prompt>A partir de la lectura del fragmento, ¿cómo se puede definir la cinematografía?
+<choice>A) Proceso para realizar copias positivas de una imagen negativa.
+<choice>B) Captura de una secuencia de imágenes únicas para representar la realidad.
+<choice>C) Trabajo artístico centrado en la creación de imágenes simulando movimiento.
+<choice>D) Creación de secuencias de imágenes que en su conjunto simulan
+<choice>movimiento.
+<id_question>16.
+<prompt>Respecto a la participación de los inventores en el desarrollo de la industria
+<prompt>cinematográfica, ¿con qué intención se nombra constantemente a George
+<prompt>Eastman?
+<choice>A) Para equiparar los aportes de George Eastman con los de Edison en la
+<choice>historia del cine.
+<choice>B) Para instalar la idea de que George Eastman fue el creador de la industria
+<choice>cinematográfica.
+<choice>C) Para destacar el papel que el creador de la marca KODAK tuvo en la historia
+<choice>del cine.
+<choice>D) Para disminuir la importancia de Edison en el desarrollo de la industria
+<choice>cinematográfica.
+<head_reading>LECTURA 3 (Preguntas 17 a 23)
+<reading>Fragmento del libro Moleskine: Apuntes y reflexiones, escrito por Luis Sepúlveda.
+<reading>Publicado el 2004.
+<reading>La primera vez que grité “¡Acción!”
+<reading>El 11 de marzo me fui a la cama muy temprano, y antes de cerrar los ojos consulté el
+<reading>boletín meteorológico del día siguiente. Todo auguraba sol, mucho sol en el norte
+<reading>argentino, y era sol precisamente lo que necesitábamos para empezar a filmar
+<reading>Nowhere1; pero a las cuatro, todavía de noche, desperté sobresaltado por el rugir de
+<reading>un relámpago y de inmediato empezó a llover torrencialmente sobre la ciudad de
+<reading>Salta.
+<reading>A las seis de la mañana, con las primeras luces, seguía lloviendo y mientras
+<reading>bebíamos el primer café del día, hicimos una reunión de urgencia con Beppe, director
+<reading>de fotografía, Roberta, camarógrafa, Aitor, sonidista, Diego y Martín, mis ayudantes
+<reading>de dirección y Roberto, el productor ejecutivo. Hablando el idioma franco que
+<reading>empleamos en toda la película, mezcla de italiano, español e inglés, decidimos que
+<reading>pese a la lluvia que no daba muestras de parar empezaríamos a filmar a la hora
+<reading>acordada, solo que con un ligero cambio, filmaríamos interiores de un tren en
+<reading>marcha, ¡y qué tren!
+<reading>El viejo Tren de las Nubes trepa lentamente hasta los casi cuatro mil metros de altura
+<reading>impulsado por dos locomotoras diésel. En algunos tramos las subidas son tan
+<reading>empinadas que los ingenieros que construyeron el ferrocarril destinado a unir
+<reading>Argentina y Chile trazaron unos curiosos zigzags en las laderas de las montañas, lo
+<reading>que permite al tren recular, tomar impulso y seguir el rumbo.
+<reading>Nosotros teníamos una sola locomotora, un antiguo vagón de pasajeros con
+<reading>reminiscencias de Orient Express2 que nos servía de camerino, sala de maquillaje,
+<reading>vestuario, cafetería, bodega de materiales, y otros dos vagones que Coca y Cristina,
+<reading>las directoras de arte, habían transformado en celdas rodantes.
+<reading>A las siete de la mañana, más que llover, caía un verdadero diluvio sobre la estación
+<reading>Campo Quijano, el último pueblo al pie de los empinados Andes. ¿Este es el clima del
+<reading>desierto?, preguntó el actor cubano Jorge Perugorría. Daniel Fanego, argentino, le
+<reading>respondió que esa lluvia era un regalo de los dioses andinos, palabras a las que el
+<reading>resto del equipo contestó con espontáneos y amables insultos.
+<reading>Leo Sbaraglia, también argentino, empezó a repartir unos impermeables de hule
+<reading>amarillos que nos transformaron en un ejército de duendes, mientras mi hermano
+<reading>Carlos cuidaba de que la lluvia no despintara los rostros de sus “comandos”, todos
+<reading>1 En ningún lugar.
+<reading>2 El Orient Express fue el nombre del servicio de tren de larga distancia que, en su mayor trayecto,
+<reading>cubría la ruta París-Estambul.
+<reading>actores de teatro y estudiantes de Salta, que en dos semanas de instrucción
+<reading>transformó en temibles guerreros.
+<reading>Andrés Prodan, italiano, anunció que Marcelino, el hombre más popular de la
+<reading>filmación, jefe de electricistas, iluminador, mano derecha del director de fotografía y
+<reading>amante pasional del cine, había preparado su insuperable café para todos. Así que en
+<reading>el andén de la estación el café nos calentó el cuerpo, las arias cantadas por Luigi
+<reading>Buruano nos calentaron el alma, y mantuvimos el buen humor alentados por las
+<reading>insuperables historias narradas por Martín Seefeld, Antonio Hugo, Ariel Casas y
+<reading>Óscar Castro.
+<reading>Llovía sin pausas. Daniel, el foto fija, llevaba varios cientos de fotos hechas cuando
+<reading>recibimos la orden de partir, pero antes de poner el tren en marcha recibí una botella
+<reading>de champán francés que debía servir para iniciar oficialmente el rodaje de Nowhere.
+<reading>Luigi Buruano se apresuró a repartir vasitos de plástico y yo descorché lentamente la
+<reading>botella. Entonces, algo inexplicable me recordó que yo era de ahí, que estaba por
+<reading>empezar a rodar una película –mi primera película– latinoamericana en suelo
+<reading>latinoamericano, así que vacié la botella sobre la tierra ofrendándola a la Paccha
+<reading>Mama3, la madre tierra de los indios andinos. Creo que Luigi Buruano jamás me lo
+<reading>perdonó, pero el sacrificio tuvo su recompensa porque a los pocos minutos las nubes
+<reading>se abrieron y empezó a brillar el intenso, enceguecedor, sol andino. La Paccha Mama
+<reading>se ponía de nuestra parte.
+<reading>El tren empezó a ascender, cruzó puentes de vértigo, llanos en los que crecen cactus
+<reading>de tres metros, quebradas y arroyos que pasaban sobre las vías. En el interior se
+<reading>terminaban de poner filtros a los focos, los actores se transformaron en sufridos
+<reading>prisioneros, con las manos atadas y los ojos vendados. Sí, eran los personajes tal
+<reading>como los había visto en las largas y solitarias noches de escritura. Ellos creaban la
+<reading>atmósfera de inseguridad y temor de la que habíamos hablado en los ensayos.
+<reading>Dejaban de ser mis amigos y eran parte de mi propia historia, de la historia de
+<reading>tantos. El reino del horror se instaló en el vagón cárcel.
+<reading>Beppe Lanci realizó la última medición con el fotómetro y me hizo una señal de
+<reading>asentimiento. Fina, mi script4 y consejera en las horas más duras me dio un golpecito
+<reading>en el brazo.
+<reading>Había llegado el momento. Miré a Lucas, el técnico de video y dije “video”.
+<reading>“Grabando”, respondió Lucas. Miré a Aitor, el sonidista y dije “sonido”. “Grabando”,
+<reading>respondió Aitor. Miré a Roberta, mi camarógrafa, y dije “cámara”. Ella, sin despegar el
+<reading>ojo de la cámara me hizo una seña levantando el dedo pulgar y musitó el buona5 que
+<reading>me acompañaría durante ocho semanas. Entonces, un torbellino de fotoramas, tal vez
+<reading>a la velocidad de la luz, cruzó mi mente. Apuntaban hacia algo en lo que creo y se
+<reading>llama responsabilidad ética del artista, y juré que contaría una buena historia. Luego
+<reading>dije “¡Acción!” y empezó la magia del cine.
+<reading>3 Traducido como “Madre Tierra”, es una diosa venerada por los pueblos de los Andes.
+<reading>4 Del inglés scriptwriter, guionista.
+<reading>5 Buena suerte.
+<reading>Más tarde a la troupe6 se unieron Harvey Keitel, Ángela Molina, Manuel Bandera, mi
+<reading>hijo León Sepúlveda, Caterina Murino, Patricio Contreras, y así tomó forma definitiva
+<reading>Nowhere, la primera película de un hombre que le gusta contar historias.
+<reading>Sepúlveda, L. (2004). Moleskine: Apuntes y reflexiones. Ediciones B.
+<id_question>17.
+<prompt>¿Qué consecuencia tuvo la lluvia para la filmación de la película?
+<choice>A) Se modificó la hora de filmación.
+<choice>B) Se adaptó el maquillaje de los actores.
+<choice>C) Se incorporó en la trama de la película.
+<choice>D) Se eligió otro escenario para la grabación.
+<id_question>18.
+<prompt>Según lo presentado en el fragmento leído, ¿cuál es el nombre del miembro más
+<prompt>popular del equipo?
+<choice>A) Luigi.
+<choice>B) Beppe.
+<choice>C) Andrés.
+<choice>D) Marcelino.
+<id_question>19.
+<prompt>Según lo planteado en el fragmento leído, ¿para qué el director vació la botella
+<prompt>de champán sobre la tierra?
+<choice>A) Para festejar que salió el sol.
+<choice>B) Para molestar a Luigi Buruano.
+<choice>C) Para garantizar el éxito de la filmación.
+<choice>D) Para hacer una ofrenda a la Paccha Mama.
+<choice>6 Grupo, pandilla.
+<id_question>20.
+<prompt>A partir del fragmento leído, ¿qué opción presenta una dificultad para la
+<prompt>grabación de la película Nowhere?
+<choice>A) El cambio repentino en el tiempo atmosférico.
+<choice>B) El vínculo familiar y amistoso entre el personal.
+<choice>C) Las condiciones que ofrecía el viejo tren.
+<choice>D) La obligación de hablar tres idiomas.
+<id_question>21.
+<prompt>¿Qué opción presenta información que se puede desprender del fragmento leído?
+<choice>A) El total de los actores provenía de Argentina.
+<choice>B) El primer día de filmación fue un 12 de marzo.
+<choice>C) El equipo de dirección tenía la misma nacionalidad.
+<choice>D) El filme debía considerar la visión religiosa ancestral.
+<id_question>22.
+<prompt>Según el autor, ¿qué efecto tuvo la ofrenda a la Paccha Mama?
+<choice>A) El cambio favorable en el tiempo meteorológico.
+<choice>B) La validación de las creencias de los pueblos andinos.
+<choice>C) La transformación de la atmósfera de la película que se iba a filmar.
+<choice>D) El fortalecimiento del compañerismo expresado durante la grabación.
+<id_question>23.
+<prompt>A partir del contenido del fragmento leído, ¿quién podría ser el lector más idóneo?
+<choice>A) Una persona que necesite saber de qué trata el filme Nowhere.
+<choice>B) Una persona que busque información sobre el director de Nowhere.
+<choice>C) Una persona que se interese en conocer el detrás de cámaras de Nowhere.
+<choice>D) Una persona que quiera profundizar en el libro que dio origen a la película
+<choice>Nowhere.
+<head_reading>LECTURA 4 (Preguntas 24 a 32)
+<reading>Fragmento del libro Psicología Educativa, escrito por Anita Woolfolk. Publicado el 2010.
+<reading>¿QUÉ ES UNA BUENA ENSEÑANZA?
+<reading>Existen cientos de respuestas para esta pregunta, la cual ha sido objeto de estudio para
+<reading>educadores, psicólogos, filósofos, novelistas, periodistas, productores de cine, matemáticos,
+<reading>científicos, historiadores, políticos y padres de familia, solo por mencionar algunos grupos. La
+<reading>buena enseñanza no está limitada a los salones de clases, ya que se presenta en hogares y
+<reading>hospitales, museos y juntas de ventas, consultorios de terapeutas y campamentos de verano.
+<reading>En este libro nos interesa principalmente la enseñanza que se imparte en los salones de
+<reading>clases, aunque mucho de lo que usted aprenderá aquí también se aplica a otros contextos.
+<reading>Dentro de cuatro salones de clases
+<reading>Para iniciar nuestro análisis de la buena enseñanza, entremos en los salones de clases de
+<reading>varios profesores destacados. Las cuatro situaciones son reales. Los primeros dos trabajaron
+<reading>con mis alumnos de psicología educativa en escuelas primarias locales, y fueron estudiados
+<reading>por mi colega Carol Weinstein (Weinstein y Mignano, 2007). El tercer profesor se convirtió en
+<reading>un experto en ayudar a los alumnos que presentan dificultades para el aprendizaje con la guía
+<reading>de un asesor. El último ejemplo es de un profesor de secundaria que fue el centro de un
+<reading>estudio de caso.
+<reading>Un primer grado bilingüe. La clase de Viviana tiene 25 alumnos. La mayoría acaba de
+<reading>emigrar de la República Dominicana; el resto proviene de Nicaragua, México, Puerto Rico y
+<reading>Honduras. A pesar de que los niños no hablan inglés o lo hablaban muy poco al iniciar la
+<reading>escuela, cuando salen en junio, ya dominan el currículo normal de primer grado de su distrito
+<reading>gracias a la ayuda de Viviana. Lo logra al enseñar en español al inicio del año para favorecer
+<reading>la comprensión; después, introduce de manera gradual el inglés. Viviana no desea que a sus
+<reading>alumnos se les excluya o se les señale como niños con carencias. Ella los anima a sentirse
+<reading>orgullosos de su herencia cultural hispana y, al mismo tiempo, utiliza cualquier oportunidad
+<reading>para reforzar su desarrollo en el dominio del idioma inglés.
+<reading>Viviana tiene altas expectativas para sus alumnos y muestra un gran compromiso. “Con un
+<reading>nivel de energía poco común, motiva, estimula, instruye, modela, elogia y cautiva a los
+<reading>estudiantes. El ritmo es enérgico y evidentemente Viviana tiene un don para las artes
+<reading>dramáticas; utiliza música, accesorios, gestos, expresiones faciales y cambios en el tono de la
+<reading>voz para comunicar el material” (Weinstein y Mignano, 2007, p. 21). Para ella, la enseñanza
+<reading>no es solo un trabajo, sino una forma de vida.
+<reading>Un quinto grado suburbano. Ken es profesor de quinto grado en una escuela primaria
+<reading>suburbana en el centro de Nueva Jersey. Los estudiantes de su clase tienen diversos orígenes
+<reading>raciales y étnicos, con diferentes ingresos familiares y distintas lenguas maternas. Él siempre
+<reading>hace hincapié en el “desarrollo de habilidades de redacción”. Sus alumnos realizan
+<reading>borradores, los analizan con otros miembros del grupo, los revisan, los corrigen y al final
+<reading>“publican” su trabajo. Los alumnos también llevan diarios y a menudo los utilizan para
+<reading>compartir asuntos personales con Ken. Le hablan de problemas familiares, disgustos y
+<reading>temores; él siempre se toma el tiempo para responderles por escrito. Ken también utiliza la
+<reading>tecnología para relacionar las lecciones con la vida real. Los estudiantes aprenden acerca de
+<reading>los ecosistemas oceánicos utilizando un software llamado A Field Trip to the Sea7 (Sunburst,
+<reading>1999). Para la materia de ciencias sociales, el grupo participa en dos juegos de simulación
+<reading>que se enfocan en la historia. Uno trata sobre el surgimiento de las culturas nativas
+<reading>estadounidenses; y el otro, sobre la colonización del Continente Americano.
+<reading>Durante el año, Ken se interesa mucho por el desarrollo social y emocional de sus alumnos,
+<reading>pues desea que aprendan ciencias naturales y sociales, pero también a ser responsables y
+<reading>justos. Esta preocupación es evidente en la forma en que él establece las reglas para su grupo
+<reading>al inicio del año. En lugar de especificar lo que se debe o lo que no se debe hacer, Ken y sus
+<reading>alumnos diseñan una “carta de derechos” para el grupo, donde se describen los derechos de
+<reading>los estudiantes. Esos derechos contemplan la mayoría de las situaciones en que se podría
+<reading>necesitar de una “regla”.
+<reading>Una clase incluyente. Eliot era inteligente y desenvuelto. Cuando era niño memorizaba
+<reading>historias con facilidad, pero no era capaz de leer solo. Su situación se debía a que presentaba
+<reading>dificultades para el aprendizaje que le impedían integrar la información auditiva y visual con la
+<reading>memoria visual de largo plazo. Cuando trataba de escribir, todo resultaba confuso. La doctora
+<reading>Nancy White trabajó con Mia Russell, la profesora de Eliot, planeando una tutoría intensiva
+<reading>personalizada, enfocada específicamente en sus patrones de aprendizaje y en sus errores.
+<reading>Con la ayuda de su profesora, los años siguientes, Eliot se volvió un experto en su propio
+<reading>aprendizaje y un aprendiz independiente; sabía qué estrategias debía utilizar y cuándo
+<reading>hacerlo. En palabras de Eliot, “No es divertido aprender esas cosas, ¡pero funciona!” (Hallahan
+<reading>y Kauffman, pp. 184-185).
+<reading>Una clase de matemáticas avanzadas. Hilda Borko y Carol Livingston (1989) describen la
+<reading>manera en que Randy, un profesor de secundaria experto en matemáticas, trabajó con la
+<reading>confusión de sus alumnos para construir una lección de repaso acerca de las estrategias para
+<reading>resolver las integrales. Cuando un estudiante manifestó que una sección específica en el libro
+<reading>le parecía “desordenada”, guio al grupo por un proceso de organización del material. Les
+<reading>solicitó aseveraciones generales acerca de las estrategias útiles para resolver las integrales.
+<reading>Consideró las sugerencias, profundizó en algunas de ellas y ayudó a que los estudiantes
+<reading>mejoraran otras. Les pidió, además, que vincularan sus ideas con partes del libro. Aun cuando
+<reading>aceptaba todas las sugerencias razonables, en la pizarra elaboró una lista que incluía
+<reading>únicamente las estrategias clave. Al final del periodo, los estudiantes habían transformado el
+<reading>material desorganizado del libro en un boceto ordenado y útil para guiar su aprendizaje.
+<reading>También sabían más sobre cómo leer y entender el material difícil.
+<reading>¿Qué observa usted en estos cuatro salones de clases? Los profesores están comprometidos
+<reading>con sus alumnos, y deben enfrentarse con una amplia variedad de habilidades y desafíos de
+<reading>los estudiantes: idiomas, vidas familiares y necesidades diferentes. Estos profesores deben
+<reading>adaptar la enseñanza y la evaluación a las necesidades de los alumnos; deben lograr que los
+<reading>conceptos más abstractos, como las integrales, se vuelvan concretos y comprensibles para
+<reading>sus alumnos en particular. Todo el tiempo que estos expertos ocupan navegando a través del
+<reading>material de estudio, también están cuidando las necesidades emocionales de sus alumnos,
+<reading>7 Una salida a terreno al mar. Software utilizado para enseñar a los niños y niñas sobre los animales y
+<reading>otras formas de vida del océano.
+<reading>apoyan autoestimas débiles y fomentan la responsabilidad. Si realizáramos un seguimiento de
+<reading>estos individuos desde el primer día de clases, veríamos que planean y enseñan
+<reading>cuidadosamente los procedimientos básicos para vivir y aprender en sus cursos. Ellos son
+<reading>eficientes para reunir y corregir las tareas, reagrupar a los estudiantes, dar indicaciones,
+<reading>distribuir los materiales y manejar las interrupciones, y lograr todo esto mientras toman notas
+<reading>mentales para descubrir por qué uno de sus estudiantes está cansado. Por último, estos
+<reading>profesores son reflexivos: constantemente recuerdan las situaciones para analizar qué
+<reading>hicieron y por qué lo hicieron, y consideran cómo podrían ayudar a sus alumnos a mejorar su
+<reading>aprendizaje.
+<reading>Reflexivo. Pensativo e
+<reading>inventivo. Los profesores
+<reading>reflexivos recuerdan las
+<reading>situaciones y después
+<reading>analizan lo que hicieron y por
+<reading>qué lo hicieron; además,
+<reading>consideran cómo podrían
+<reading>ayudar a mejorar el
+<reading>aprendizaje de sus alumnos.
+<reading>¿Qué es una buena
+<reading>enseñanza? ¿Una buena
+<reading>enseñanza es una ciencia o un
+<reading>arte? ¿La aplicación de teorías
+<reading>basadas en investigaciones o la
+<reading>LOS MENTORES SON IMPORTANTES La enseñanza es una de
+<reading>invención creativa de prácticas
+<reading>las pocas profesiones en las que un profesor nuevo debe asumir
+<reading>específicas? ¿Un buen profesor
+<reading>todas las responsabilidades de un “profesional” experimentado
+<reading>es un experto en explicar (“un
+<reading>durante las primeras semanas de trabajo. Los profesores
+<reading>sabio en la tribuna”) o un buen
+<reading>veteranos pueden ser una excelente fuente de información y
+<reading>entrenador (“un guía apoyo durante esas primeras semanas.
+<reading>compañero”)? Tales debates se
+<reading>han presentado durante muchos años. En sus demás cursos sobre educación quizás usted
+<reading>encontrará críticas a las posturas basadas en la teoría y centradas en el profesor. Se le
+<reading>animará a ser un guía inventivo y centrado en el estudiante. Sin embargo, tenga cuidado de
+<reading>las opciones maximalistas o excluyentes. Los profesores deben tener conocimientos e
+<reading>inventiva; deben ser capaces de utilizar una amplia gama de estrategias y de crear otras
+<reading>nuevas. Deben contar con ciertas rutinas básicas basadas en las investigaciones para
+<reading>manejar sus clases, pero también deben estar dispuestos y ser capaces de salir de la rutina
+<reading>cuando la situación requiera de un cambio. Necesitan conocer las investigaciones sobre el
+<reading>desarrollo de los estudiantes, así como “los patrones comunes a edades, culturas, clases
+<reading>sociales, geografía y géneros específicos” (Ball, 1997, p. 773); además, necesitan conocer a
+<reading>sus propios alumnos, los cuales son una combinación única de cultura, género y geografía. De
+<reading>manera personal, espero que todos ustedes se conviertan en profesores que sean al mismo
+<reading>tiempo “sabios” y “guías”, sin importar dónde estén.
+<reading>Viviana, Ken, Mia y Randy son ejemplos de profesores expertos, pero han ejercido la docencia
+<reading>durante mucho tiempo. ¿Y usted? ¿Toda esta plática sobre experiencia, ciencia y arte lo
+<reading>hicieron sentir un poco nervioso?
+<reading>Woolfolk, A. (2010). Psicología Educativa. (pp. 7-9). Pearson.
+<id_question>24.
+<prompt>¿De qué forma la profesora Viviana logra enseñar inglés a sus estudiantes?
+<choice>A) Animándolos a sentirse orgullosos de su herencia hispana.
+<choice>B) Demostrándoles altas expectativas de logro y un gran compromiso.
+<choice>C) Incentivando el interés por el idioma mediante las artes musicales y dramáticas.
+<choice>D) Favoreciendo el aprendizaje progresivo del idioma inglés a partir de su lengua
+<choice>materna.
+<id_question>25.
+<prompt>¿Qué estrategia usa Ken para establecer las reglas en sus clases?
+<choice>A) Utiliza la tecnología para relacionar las lecciones con la vida real.
+<choice>B) Participa con sus estudiantes en juegos de simulación.
+<choice>C) Diseña una “carta de derechos” junto con sus alumnos.
+<choice>D) Especifica lo que se debe y no se debe hacer.
+<id_question>26.
+<prompt>¿Cuál de los siguientes profesores utiliza la tecnología como recurso de
+<prompt>enseñanza?
+<choice>A) Viviana.
+<choice>B) Randy.
+<choice>C) Mia.
+<choice>D) Ken.
+<id_question>27.
+<prompt>¿Cuál de los profesores es un experto en ayudar a los alumnos con dificultades
+<prompt>para el aprendizaje?
+<choice>A) Ken.
+<choice>B) Mia.
+<choice>C) Eliot.
+<choice>D) Nancy.
+<id_question>28.
+<prompt>¿Cómo se podría caracterizar la enseñanza de Randy de acuerdo al método
+<prompt>utilizado con sus estudiantes?
+<choice>A) Creativa, pues los estudiantes pueden formular nuevas estrategias para
+<choice>organizar el contenido según su utilidad.
+<choice>B) Desafiante, porque los estudiantes deben comprender por sí mismos
+<choice>materias complejas como las integrales.
+<choice>C) Permisiva, porque el profesor tiene un papel pasivo respecto a qué contenido
+<choice>abordar y cómo abordarlo.
+<choice>D) Autónoma, pues el profesor solo se limita a sintetizar las principales
+<choice>conclusiones de la investigación.
+<id_question>29.
+<prompt>¿Cuál de los siguientes objetivos de los docentes se encuentra presente en los
+<prompt>cuatro salones de clases?
+<choice>A) Favorecer el desarrollo socioemocional de los estudiantes.
+<choice>B) Estimular la colaboración entre los estudiantes de la clase.
+<choice>C) Potenciar el dominio de la lengua materna de los estudiantes.
+<choice>D) Fomentar la adquisición de habilidades tecnológicas en los estudiantes.
+<id_question>30.
+<prompt>¿Con qué propósito se muestran las experiencias de los cuatro profesores?
+<choice>A) Para valorar a un grupo de profesionales expertos que han sido destacados en
+<choice>su área.
+<choice>B) Para mostrar que una buena enseñanza también se presenta fuera de las salas
+<choice>de clases.
+<choice>C) Para demostrar que la enseñanza puede ser el objeto de estudio de muchas
+<choice>disciplinas.
+<choice>D) Para ejemplificar el compromiso y la adaptación de la enseñanza a las
+<choice>necesidades de los alumnos.
+<id_question>31.
+<prompt>Si un docente necesita incorporar nuevas herramientas tecnológicas para la
+<prompt>enseñanza de su asignatura, ¿a qué profesor de los que se mencionan en la
+<prompt>lectura debería recurrir?
+<choice>A) A Viviana.
+<choice>B) A Ken.
+<choice>C) A Eliot.
+<choice>D) A Randy.
+<id_question>32.
+<prompt>¿A quién está dirigido el fragmento leído?
+<choice>A) A padres de familia.
+<choice>B) A profesores expertos.
+<choice>C) A estudiantes de pedagogía.
+<choice>D) A estudiantes con dificultades de aprendizaje.
+<head_reading>LECTURA 5 (Preguntas 33 a 40)
+<reading>Fragmento de un listado de medicamentos herbarios tradicionales, elaborado por el
+<reading>Ministerio de Salud de Chile. Sin fecha de publicación.
+<reading>Ajenjo
+<reading>Artemisia absinthium L.
+<reading>Nombres vernáculos: ajenjo, ajenko (mapudungun).
+<reading>Descripción: planta aromática y arbustiva de
+<reading>raíces permanentes, de las que brotan tallos
+<reading>firmes, foliosos y lignificados en la base. Hojas de
+<reading>7,5 cm de largo por 3,8 cm de ancho, haz y envés
+<reading>densamente cubiertos por un vello blanquecino.
+<reading>Las cabezuelas florales, pequeñas y
+<reading>semiglobosas, se disponen en una espiga erecta
+<reading>y foliosa, de un color verdoso-amarillo. El fruto es
+<reading>un aquenio muy pequeño.
+<reading>Farmacodinamia: el célebre médico griego
+<reading>Dioscórides (siglo I d.C.) refiere varias de las
+<reading>propiedades medicinales del ajenjo apreciadas
+<reading>incluso hoy en día. La actividad terapéutica de
+<reading>esta planta reside principalmente en su aceite
+<reading>esencial, el que posee acción colerética,
+<reading>antihelmíntica, antibacteriana, además de
+<reading>emenagogo, vermífugo y favorecedor de las
+<reading>funciones digestivas. En medicina popular se
+<reading>emplea la infusión de las hojas y sumidades
+<reading>floridas frescas o desecadas del ajenjo en
+<reading>malestares estomacales y hepáticos, para
+<reading>eliminar parásitos intestinales, regular el ciclo menstrual (emenagogo) y como tratamiento del
+<reading>resfrío con tos. Por su sabor amargo, esta planta entra en la composición de varias bebidas
+<reading>alcohólicas, como aperitivos, de libre venta en el comercio.
+<reading>Contraindicaciones: no es aconsejable su uso durante los periodos del embarazo y lactancia.
+<reading>También las personas que presentan diagnóstico de epilepsia deben abstenerse del consumo
+<reading>de ajenjo en cualquiera de sus formas, por una posible interacción con los medicamentos
+<reading>indicados para personas que están en esta condición.
+<reading>Presentación comercial: existe en el comercio un Té de Ajenjo Compuesto, mezcla de
+<reading>manzanilla, menta, paico, quinchamalí y ajenjo, indicado en trastornos digestivos, flatulencia y
+<reading>acidez estomacal.
+<reading>Interés agronómico: el ajenjo es una planta rústica y nativa del Viejo Mundo, bastante
+<reading>resistente al frío y a las condiciones de sequía, poco exigente en suelos y que prospera bien
+<reading>en climas templados. Se multiplica por semillas, estacas o división de matas. En el primer
+<reading>caso, las semillas se siembran en almácigos, bien cubiertas con una capa ligera de mantillo o
+<reading>tierra arenosa; se recomienda sembrar entre fines de invierno y comienzo de primavera. Es
+<reading>conveniente regar el almácigo diariamente. Si se
+<reading>Hábitat natural
+<reading>desea propagar el ajenjo por estacas, se eligen
+<reading>ramas de un año de edad y se cortan de un
+<reading>tamaño entre 15 a 20 cm; se le quitan las hojas y
+<reading>luego se entierran en macetas dejando dos o tres
+<reading>yemas al exterior. Conviene realizar esta labor a
+<reading>comienzos de invierno para trasplantar las estacas
+<reading>durante los meses de primavera. La propagación
+<reading>por división de matas requiere de la elección inicial
+<reading>de una planta madre adulta de la que se separa el
+<reading>mayor número de hijuelos vigorosos, y se los
+<reading>planta habiendo podado previamente sus raíces y
+<reading>hojas. La mejor época para este tipo de
+<reading>propagación es a partir de mediados de invierno
+<reading>hasta finales de la misma estación. La cosecha se
+<reading>realiza antes de la floración cuando el contenido
+<reading>en aceite esencial es el más alto.
+<reading>Los tallos se cortan a pocos centímetros del suelo,
+<reading>y después del primer año ya es posible realizar
+<reading>dos cosechas, una en primavera o principios de
+<reading>verano, y la segunda a comienzos de invierno,
+<reading>aunque con menor rendimiento.
+<reading>AJENJO (Artemisia absinthium),
+<reading>tallo-hojas-flores.
+<reading>PROPIEDADES
+<reading>Usos tradicionales: malestares estomacales y hepáticos; parásitos intestinales; ciclo
+<reading>menstrual irregular; resfrío con tos.
+<reading>La infusión se prepara con 1 cucharada del vegetal para 1 litro de agua recién hervida: beber
+<reading>una taza 3 veces al día.
+<reading>Efectos: antiespasmódico1, carminativo2, emenagogo3, vermífugo4.
+<reading>Precauciones: no es aconsejable su uso en embarazo y lactancia, ni administrar a niños
+<reading>pequeños o a personas que presentan diagnóstico de epilepsia. No consumir por periodos
+<reading>largos. Evitar su uso en inflamaciones digestivas crónicas.
+<reading>Estos productos tienen el carácter de auxiliares sintomáticos y no reemplazan lo indicado por
+<reading>el médico en el tratamiento de una enfermedad. Al consultar al médico, infórmele que está
+<reading>usando esta hierba medicinal. Evite su preparación en utensilios de aluminio.
+<reading>Otros antecedentes: sus efectos tienen alguna evidencia científica.
+<reading>1 Calma los retortijones intestinales.
+<reading>2 Previene y favorece la expulsión de gases en estómago e intestinos.
+<reading>3 Estimula o favorece el flujo menstrual.
+<reading>4 Elimina las lombrices intestinales.
+<reading>Ministerio de Salud de Chile. (s.f.). MHT. Medicamentos herbarios tradicionales. 103 especies vegetales.
+<reading>Gobierno de Chile.
+<id_question>33.
+<prompt>¿Qué opción presenta otro título adecuado al contenido global de la lectura?
+<choice>A) “El ajenjo: la comercialización de una planta tradicional”
+<choice>B) “El ajenjo: una larga historia de su uso en occidente”
+<choice>C) “El ajenjo: propiedades y riesgos de su consumo”
+<choice>D) “El ajenjo: una planta medicinal fácil de cultivar”
+<id_question>34.
+<prompt>En relación con el ajenjo, ¿qué necesidad de lectura satisface la sección
+<prompt>“Farmacodinamia”?
+<choice>A) La evolución histórica del ajenjo.
+<choice>B) Las contraindicaciones del consumo del ajenjo.
+<choice>C) Las propiedades terapéuticas atribuidas al ajenjo.
+<choice>D) Los tipos de formatos en que se comercializa el ajenjo.
+<id_question>35.
+<prompt>Según la sección “Interés agronómico”, ¿cuál es el primer paso que debe
+<prompt>realizar una persona para multiplicar el ajenjo por estacas?
+<choice>A) Enterrar dejando 2 o 3 yemas al exterior.
+<choice>B) Cortar las ramas de 15 a 20 cm.
+<choice>C) Elegir ramas de un año de edad.
+<choice>D) Regar la planta diariamente.
+<id_question>36.
+<prompt>¿Qué opción presenta otro título adecuado al contenido de la sección “Interés
+<prompt>agronómico”?
+<choice>A) “Formas de reproducir el ajenjo”
+<choice>B) “Características de la planta ajenjo”
+<choice>C) “Propiedades alimenticias del ajenjo”
+<choice>D) “Instrucciones para cosechar el ajenjo”
+<id_question>37.
+<prompt>¿Cuál de las siguientes personas puede consumir ajenjo sin problemas?
+<choice>A) Una mujer que se encuentra con un embarazo avanzado.
+<choice>B) Un hombre que experimenta un cuadro de resfrío con tos.
+<choice>C) Una mujer que sufre de inflamaciones digestivas crónicas.
+<choice>D) Un hombre que ingiere medicamentos para tratar la epilepsia.
+<id_question>38.
+<prompt>Con relación al ajenjo, ¿qué función cumple principalmente la sección ubicada al
+<prompt>final de la lectura?
+<choice>A) Entrega indicaciones acerca del consumo.
+<choice>B) Advierte sobre posibles efectos secundarios.
+<choice>C) Especifica las múltiples posibilidades de uso.
+<choice>D) Expone sus cualidades medicinales.
+<id_question>39.
+<prompt>Si una persona pretende propagar el ajenjo por estacas, ¿cuándo debe trasplantar
+<prompt>dichas estacas?
+<choice>A) Al inicio del verano.
+<choice>B) Durante la primavera.
+<choice>C) Después del primer año.
+<choice>D) A comienzos del invierno.
+<id_question>40.
+<prompt>Una persona intentó propagar el ajenjo por división de matas, sin embargo, su
+<prompt>intento no fructificó. ¿Qué error pudo haber cometido?
+<choice>A) Se adelantó al cosechar antes de la floración.
+<choice>B) Dejó la tarea para mediados y final del invierno.
+<choice>C) Optó por usar una planta madre de edad adulta.
+<choice>D) Se olvidó de podar previamente las raíces y hojas.
+<head_reading>LECTURA 6 (Preguntas 41 a 49)
+<reading>Artículo de divulgación escrito por Sarah Romero. Publicado el 2021.
+<reading>Maneras en que la tecnología nos ayuda a luchar contra el
+<reading>cambio climático
+<reading>La inteligencia artificial y las nuevas tecnologías son aliadas muy poderosas de cara a
+<reading>frenar la emergencia climática. Te mostramos algunos ejemplos.
+<reading>Los avances tecnológicos, en particular el descubrimiento y uso de combustibles
+<reading>fósiles, han contribuido al cambio climático, eso ya lo sabemos todos, pero también
+<reading>es cierto que han permitido a la humanidad tomar conciencia del impacto del ser
+<reading>humano en el planeta y desarrollar técnicas para abordar el calentamiento global.
+<reading>Hoy te hablamos de algunas innovaciones tecnológicas que podrían ayudar a la
+<reading>humanidad a evitar el daño catastrófico que podría causar un aumento continuo de
+<reading>las temperaturas globales, pues los gases contaminantes hacen que las temperaturas
+<reading>se incrementen cada vez más y que el clima cambie, lo que, a su vez, redunda en
+<reading>sequías y aumenta el riesgo de incendios a lo que se sumaría la deforestación y la
+<reading>desertificación de nuestro planeta, cada día más asfixiado por nuestro
+<reading>comportamiento.
+<reading>La quema de combustibles fósiles para satisfacer la creciente demanda de energía ha
+<reading>elevado las emisiones de dióxido de carbono a un nivel récord y parece que la
+<reading>innovación puede servirnos de salvavidas para luchar contra esta emergencia
+<reading>climática en la que nos encontramos.
+<reading>He aquí unos ejemplos en los que la tecnología está jugando su parte en la reducción
+<reading>del aumento del nivel del mar y el calentamiento de las temperaturas. Después de
+<reading>todo, los gigantes tecnológicos influyen en las decisiones de miles de millones de
+<reading>consumidores todos los días.
+<reading>Los científicos del clima dicen que las emisiones globales deben reducirse muchísimo
+<reading>de aquí a 2030 para evitar las peores consecuencias del calentamiento.
+<reading>Reducir las emisiones de CO
+<reading>2
+<reading>Los científicos atribuyen principalmente el aumento de la temperatura media de la
+<reading>Tierra a las emisiones de gases de efecto invernadero provocadas por el hombre.
+<reading>Entre los gases de efecto invernadero más importantes se encuentra el dióxido de
+<reading>carbono (CO ), cuyas concentraciones han aumentado casi un 50 % desde que
+<reading>2
+<reading>comenzó la revolución industrial. ¿Cómo se emplea la tecnología para reducir las
+<reading>emisiones de CO ? Con tecnologías de captura, utilización y almacenamiento de
+<reading>2
+<reading>carbono, como el desarrollado en un proyecto […] de Reino Unido que explora la
+<reading>captura y almacenamiento de carbono del Reino Unido a partir de energía
+<reading>proveniente de residuos. El proyecto planea capturar hasta 10 millones de toneladas
+<reading>de emisiones de dióxido de carbono (CO ), el equivalente al uso anual de energía de
+<reading>2
+<reading>más de 3 millones de hogares en el Reino Unido […].
+<reading>Biomasa oceánica
+<reading>Si bien la biomasa (un tipo de energía) se puede usar para energía renovable con
+<reading>carbono negativo, siempre será un recurso limitado debido a las limitaciones del uso
+<reading>de la tierra. Pero en el espacio oceánico podríamos cosechar de manera sostenible.
+<reading>Pero, ¿qué exactamente? Algas, por supuesto. O, más bien, macroalgas. Las
+<reading>macroalgas crecen rápidamente: pueden crecer dos centímetros y medio al día.
+<reading>También extraen el CO del agua de mar y si podemos recogerlas y mantener el
+<reading>2
+<reading>carbono y aislarlo para que no vuelva a entrar a la atmósfera o al océano, ahí
+<reading>tenemos la solución. Los proyectos para la recolección de algas a gran escala se están
+<reading>desarrollando en una organización de investigación noruega […], donde hablan de
+<reading>contar con dos o tres cosechas al año de estas macroalgas. Pero antes de que las
+<reading>algas puedan cultivarse y cosecharse a gran escala, sería necesario realizar una
+<reading>investigación para ver cómo afectaría esto a los ecosistemas submarinos […].
+<reading>Baterías para vehículos eléctricos
+<reading>Las baterías son cada vez más livianas y más pequeñas que las baterías recargables
+<reading>anteriores. Se pueden cargar más rápido y con más frecuencia. A medida que su peso
+<reading>y precio continúan cayendo, están desempeñando un papel cada vez más
+<reading>fundamental en la descarbonización del sector del transporte al hacer que los
+<reading>vehículos eléctricos sean más baratos, algo que permitirá la integración de más y más
+<reading>tecnología renovable […].
+<reading>Herramientas de Inteligencia Artificial
+<reading>La ciencia es una herramienta eficaz para redefinir la realidad. La próxima generación
+<reading>de motores de búsqueda debe apoyar los objetivos sociales. Las nuevas herramientas
+<reading>de inteligencia artificial que están desarrollando empresas emergentes pueden ayudar
+<reading>a este propósito. Pero, ¿quién elige la fuente de información? Ahí es donde debe
+<reading>entrar la ciencia para poner consenso en la comunicación.
+<reading>¿Reparar el clima?
+<reading>El Centro de Reparación del Clima de la Universidad de Cambridge (Inglaterra) está
+<reading>investigando una serie de ideas que repararían el daño causado por la contaminación
+<reading>que causa el hombre. Entre sus postulados se encuentra la posibilidad de volver a
+<reading>congelar los polos. ¿De qué forma? Iluminando las nubes sobre ellos, esencialmente
+<reading>rociando pequeñas gotas de sal en el cielo para ayudar a las nubes a reflejar la
+<reading>radiación de regreso al espacio. Otra de las soluciones propuestas reside en
+<reading>"reverdecer" los océanos, esencialmente fertilizándolos para estimular el crecimiento
+<reading>de materia vegetal y algas que podrían absorber más CO . Sin embargo, este último
+<reading>2
+<reading>aspecto no cuenta con la aprobación de los climatólogos y biólogos que opinan que
+<reading>las consecuencias de llevar esta empresa a cabo acabarían con una enorme
+<reading>interrupción en los ecosistemas de los océanos y tampoco capturaría el suficiente CO
+<reading>2
+<reading>para compensar las emisiones de gases de efecto invernadero humanas […].
+<reading>¿Qué podemos hacer nosotros como consumidores de tecnología?
+<reading>Por nuestra parte, podemos educarnos sobre lo que implica la tecnología que
+<reading>compramos, cuáles son los impactos climáticos y cuánto tiempo puede durar un
+<reading>producto o dispositivo concreto. También podemos pensar en qué es lo que vamos a
+<reading>comprar primero, antes de preguntárnoslo después. Pues la compra, el envío, la
+<reading>entrega y la devolución del material también contribuyen al calentamiento global.
+<reading>Podemos ayudar haciendo que nuestros productos o dispositivos existentes duren
+<reading>más, reemplazando su batería o componentes, haciendo una reparación del mismo o
+<reading>incluso comprando productos de segunda mano.
+<reading>Romero, S. (3 de marzo de 2021). Maneras en que la tecnología nos ayuda a luchar contra el cambio
+<reading>climático. Muy interesante. https://www.muyinteresante.es/tecnologia/fotos/maneras-en-que-la-tecnologia-nos-ayuda-a-luchar-contra-el-cambio-climatico-191614713036/8
+<id_question>41.
+<prompt>¿Cuál es el propósito del texto leído?
+<choice>A) Demostrar los daños causados por el aumento del CO .
+<choice>2
+<choice>B) Explicar los efectos del uso de combustibles contaminantes.
+<choice>C) Motivar el interés sobre los avances en el ámbito tecnológico.
+<choice>D) Presentar innovaciones tecnológicas para revertir el cambio climático.
+<id_question>42.
+<prompt>¿Qué recurso utilizado en el texto permite generar cercanía con el lector?
+<choice>A) La inclusión de referencias temporales como “de aquí a 2030”.
+<choice>B) La utilización de subtítulos para tratar las diferentes propuestas.
+<choice>C) La mención de elementos cotidianos como “vehículos eléctricos”.
+<choice>D) La utilización de expresiones en primera persona plural como “eso ya lo
+<choice>sabemos todos”.
+<id_question>43.
+<prompt>A partir del párrafo inicial, ¿cómo se puede calificar el aporte de los avances
+<prompt>tecnológicos en la lucha de la humanidad contra el cambio climático?
+<choice>A) Complejo, pues involucra una serie de consideraciones éticas.
+<choice>B) Peligroso, pues genera un impacto que es ignorado por la ciencia.
+<choice>C) Paradójico, pues presenta tanto aspectos positivos como negativos.
+<choice>D) Contraproducente, pues proporciona más problemas que soluciones.
+<id_question>44.
+<prompt>¿Qué característica tienen en común las innovaciones mencionadas en el texto?
+<choice>A) La inclusión de energía renovable.
+<choice>B) La utilización de recursos naturales.
+<choice>C) La aplicación de inteligencia artificial.
+<choice>D) La incorporación de avances tecnológicos.
+<id_question>45.
+<prompt>¿Qué advertencia plantea la autora acerca del cultivo de algas?
+<choice>A) Que tiene que realizarse a gran escala.
+<choice>B) Que debe ser objeto de un estudio previo.
+<choice>C) Que utiliza un recurso ilimitado en el océano.
+<choice>D) Que es un problema para el ecosistema marino.
+<id_question>46.
+<prompt>Según el texto, ¿qué característica de las baterías de los vehículos eléctricos
+<prompt>facilitará la integración de más tecnología renovable?
+<choice>A) El precio.
+<choice>B) El tamaño.
+<choice>C) La estructura.
+<choice>D) La velocidad de carga.
+<id_question>47.
+<prompt>¿Cuál de las innovaciones descritas en el texto es objetada por la comunidad
+<prompt>científica?
+<choice>A) El congelamiento de los polos.
+<choice>B) El almacenamiento del carbono.
+<choice>C) El empleo de inteligencia artificial.
+<choice>D) El reverdecimiento de los océanos.
+<id_question>48.
+<prompt>En el último párrafo, ¿a quiénes critica indirectamente la autora del texto?
+<choice>A) A quienes compran tecnología sin informarse.
+<choice>B) A quienes fabrican aparatos tecnológicos desechables.
+<choice>C) A quienes promueven el uso excesivo de la tecnología.
+<choice>D) A quienes distribuyen artículos tecnológicos a bajo costo.
+<id_question>49.
+<prompt>¿Qué función cumplen las preguntas incluidas en el texto?
+<choice>A) Plantean una invitación al lector para que reflexione en torno a las
+<choice>consecuencias del cambio climático.
+<choice>B) Destacan las reflexiones de la autora respecto del rol de la tecnología en la
+<choice>lucha contra el cambio climático.
+<choice>C) Introducen explicaciones de la autora sobre los proyectos de innovación para
+<choice>enfrentar el cambio climático.
+<choice>D) Representan las dudas de los lectores acerca de los alcances que tiene el
+<choice>cambio climático.
+<head_reading>LECTURA 7 (Preguntas 50 a 58)
+<reading>Artículo escrito por Lorenzo Díaz, publicado en la revista Arquine el 2021.
+<reading>La maqueta, de la simulación al engaño
+<reading>Cuando llegaba el momento de aventurarse y realizar una obra pictórica de gran
+<reading>envergadura, los artistas del renacimiento italiano hacían una prueba preliminar de
+<reading>los pigmentos aplicando una muestra, una pequeña mancha, una macchietta o
+<reading>manchita, con el fin de probar y corroborar que el resultado era el deseado antes de
+<reading>proceder a usarlo en una gran superficie. Esta “maqueta” no buscaba vender, ni
+<reading>convencer al posible mecenas sobre la ejecución de la obra, era simplemente un
+<reading>método de trabajo, una herramienta.
+<reading>Una maqueta puede revelar secretos, fórmulas efectivas de ejecución. Probablemente
+<reading>esa es la razón por la que Filippo Brunelleschi se negó a presentar un modelo a
+<reading>escala de su propuesta para la cúpula de la Catedral de Florencia, por más que el
+<reading>prestigiado panel calificador se lo pidió. Existe una leyenda urbana que cuenta que el
+<reading>maestro Brunelleschi procedió a explicar la geometría de su cúpula usando una
+<reading>cáscara de huevo para demostrar su resistencia y ligereza. Está claro que el notable
+<reading>arquitecto entendía perfectamente el enorme valor del trabajo con modelos a escala.
+<reading>Se preserva aún en el Museo de la Ópera del Duomo, en Florencia, un modelo en
+<reading>madera de la cúpula y se han rescatado vestigios de un modelo en mampostería al pie
+<reading>de la construcción. Descubierta apenas hace unos años, esta pequeña cúpula se
+<reading>encontraba enterrada precisamente debajo de donde se encuentra el Museo de la
+<reading>Ópera y su estudio permitió descifrar varios de los secretos constructivos de la mítica
+<reading>cúpula. Este modelo, la «cupulita» como le llaman los arqueólogos que la
+<reading>descubrieron, deja en claro el uso recurrente de modelos como herramienta de
+<reading>prueba y sistema didáctico para la posterior construcción del “milagro de la
+<reading>arquitectura” (1).
+<reading>La extraordinaria ejecución de la estructura de mampostería más grande del planeta
+<reading>implicó no solo dibujarla, o hacer una o varias maquetas: fue necesario idear el
+<reading>método constructivo. Brunelleschi diseñó la maquinaria, los andamios, el sistema
+<reading>entero para su construcción dejando claro que no bastaba con trazar la geometría
+<reading>perfecta, había que saber cómo modelarla.
+<reading>Para Dennis Dollens “Las maquetas son un modo primario de comunicación. Sin ser
+<reading>lenguaje, constituyen un juego de formas, símbolos y materiales comunicativos que
+<reading>esculpen el espacio y transmiten ideas y emociones; son mundos seductores en
+<reading>miniatura: psíquicamente, nos conmueven” (2). En su libro De lo digital a lo
+<reading>analógico, Dollens salta de la maqueta física, espacial y sensorial, a lo digital y
+<reading>virtual. Compara lo sensorial con ese mundo de imaginación de los niños donde un
+<reading>fuerte de sábanas, una casa de muñecas, permiten construir mundos a escala,
+<reading>imaginarios pero reales y tangibles. Las maquetas son herramientas físicas y
+<reading>palpables que materializan lo imaginado, permitiendo comprobar situaciones,
+<reading>funcionamientos, recorridos, sombras y contrastes de manera tangible.
+<reading>La reciente incursión de las herramientas computacionales en el modelaje de la
+<reading>arquitectura crea nuevos horizontes. La verificación de ideas y conceptos toma toda
+<reading>una nueva dimensión, una que permite transportar ya, después de 40 años de
+<reading>evolución, el quehacer del diseño arquitectónico casi en su totalidad al mundo
+<reading>virtual. Un salto escabroso que ha permitido imaginar nuevas dimensiones pero que,
+<reading>a mi forma de ver, corre el enorme riesgo de ahuyentar el verdadero sentido de
+<reading>proporción, aquel que parte de dividir en dos una determinada distancia sin la
+<reading>necesidad de lo digital, usando la geometría básica y pura.
+<reading>Para Otl Aicher, fundador de la mítica escuela de ULM ‒escuela de diseño que surgió
+<reading>a mediados de los años 50 y que desapareció en 1968‒, “la comunicación analógica8
+<reading>produce comprensión porque está acoplada a la percepción sensorial, ante todo con
+<reading>el ver. Su dimensión científica es la geometría, la matemática de las posiciones en
+<reading>contraposición a la matemática de las magnitudes. Hay un estrecho acoplamiento
+<reading>entre percepción visual y pensar, precisamente la visión analógica” (3). Como es de
+<reading>pensarse, Aicher privilegiaba un reloj analógico sobre uno digital, simplemente le
+<reading>parecía que en lugar de decirle la hora le ayudaba a comprender el tiempo.
+<reading>Las maquetas no deberían buscar simular la realidad final, deberían de ayudar a
+<reading>comprender la experiencia que la arquitectura causará. Modelar no la construcción
+<reading>sino el espacio. La capacidad de procesamiento de datos de los equipos de cómputo
+<reading>nos ha llevado a la creación de imágenes “foto realistas” (el entrecomillado es
+<reading>intencional) que, al igual que el reloj digital, nos da la hora con precisión
+<reading>astronómica, pero dificulta la comprensión del tiempo. El “render”, o “representación”
+<reading>en español, busca más que explorar, engañar: pasamos de la simulación a la mentira.
+<reading>Frei Otto hizo del modelo físico, la maqueta, su herramienta de pensamiento. Su
+<reading>arquitectura nace de la inspiración del juego entre un filamento y unas pompas de
+<reading>jabón, emulando geometrías que, en sus tiempos, eran imposibles de computar en
+<reading>modelos digitales. Otto encontró en la creación de modelos, de todas dimensiones y
+<reading>complejidades, la fuente de verificación para espacios nunca antes imaginados.
+<reading>“En toda su poética fragilidad, los modelos de Otto cuentan historias de una estética
+<reading>operativa que oscila entre la precisión de instrumentos científicos y la imaginación de
+<reading>artefactos artísticos. El debate es entonces sobre nada menos que la reformulación de
+<reading>la historia de la maqueta arquitectónica. En otras palabras, si uno busca mapear la
+<reading>historia de la arquitectura ‒tradicionalmente vista como la historia de los edificios y
+<reading>los estilos‒ como una historia de los procesos, las prácticas, y las operaciones de
+<reading>diseño, si uno se dispone a entender el cambio del énfasis de “producto del
+<reading>significado” a la “producción del significado” como una equivalente lectura de la
+<reading>arquitectura con un acento fundamentalmente diferente, entonces los modelos
+<reading>experimentales de Frei Otto ofrecen un fascinante punto de partida para tal
+<reading>empresa” (4).
+<reading>8 La comunicación analógica es aquella que se basa en los gestos, las posturas, los símbolos, etc., es
+<reading>decir, en el lenguaje corporal.
+<reading>La arquitectura limita el aprendizaje usando la prueba y error como práctica
+<reading>definitiva. Si se han de cometer errores estos deberán de hacerse antes de la
+<reading>construcción final. Todo error posterior puede resultar caro, si no es que fatal. La
+<reading>simulación de posibles escenarios resulta, entonces, fundamental a la praxis.
+<reading>Imaginar y probar es la única manera de engendrar.
+<reading>Renzo Piano estudió sus primeros dos años en la escuela de arquitectura de
+<reading>Florencia, encontrando en el más famoso de sus arquitectos, Brunelleschi,
+<reading>inspiración para una carrera en la que usaría los modelos siempre. La maqueta de la
+<reading>linternilla de la cúpula, que Brunelleschi dejó a su muerte, y que inspiraría a Piano,
+<reading>permitió a los constructores concluirla póstumamente.
+<reading>Fue así como Piano se ciñó a “un principio fundamental: el arquitecto no solo debe
+<reading>preocuparse por el objeto final, debe también inventar las herramientas, inventar el
+<reading>equipo que permita que se construya” (5).
+<reading>Notas
+<reading>1. Lucía Magi “Hallado el „boceto‟ de Brunelleschi”. El País, 14 de diciembre de 2012.
+<reading>2. Dennis Dollens, De lo digital a lo analógico, editorial Gustavo Gili, 2002, p. 11.
+<reading>3. Otl Aicher, Analógico y Digital, editorial Gustavo Gili, 1991 (versión en castellano
+<reading>2001), p. 76.
+<reading>4. Georg Vrachliotis, «Thinking in Modeles», Thinking by Modeling, Spector Books,
+<reading>2016, p. 30.
+<reading>5. Lorenzo Ciccarelli citando a Renzo Piano, Renzo Piano before Renzo Piano,
+<reading>Fondazione Renzo Piano, 2017, p. 34.
+<reading>Díaz, L. (15 de febrero de 2021). La maqueta: de la simulación al engaño. Arquine.
+<reading>https://www.arquine.com/la-maqueta-de-la-simulacion-al-engano
+<id_question>50.
+<prompt>Según el texto, ¿cuál era el propósito original de hacer maquetas?
+<choice>A) Verificar la implementación de los procesos involucrados en las operaciones de
+<choice>diseño.
+<choice>B) Demostrar al patrocinador de una obra la factibilidad de una propuesta
+<choice>arquitectónica.
+<choice>C) Corroborar que el resultado de la obra arquitectónica cumpliera con lo
+<choice>esperado.
+<choice>D) Probar las herramientas que serían utilizadas en la construcción de una obra
+<choice>final.
+<id_question>51.
+<prompt>Según el texto, ¿qué permitió el estudio de la “cupulita”?
+<choice>A) Descifrar algunos enigmas relacionados con la construcción de la cúpula.
+<choice>B) Demostrar la autenticidad de uno de los mayores milagros de la arquitectura.
+<choice>C) Reposicionar el valor de la geometría básica y pura de los modelos a escala.
+<choice>D) Reconstruir algunos rasgos de la estructura de mampostería más grande del
+<choice>planeta.
+<id_question>52.
+<prompt>¿Cómo se puede calificar la conducta de Brunelleschi al negarse a presentar su
+<prompt>modelo de la cúpula de la Catedral de Florencia?
+<choice>A) Ambiciosa, porque él suponía que un modelo de su proyecto tenía una alta
+<choice>retribución económica.
+<choice>B) Estratégica, porque él conocía el gran valor del trabajo que involucraba la
+<choice>creación de un modelo.
+<choice>C) Oportunista, porque él aprovecharía este modelo para perpetuar su legado
+<choice>como maestro de la arquitectura.
+<choice>D) Interesada, porque él esperaba que su modelo le garantizara la aprobación de
+<choice>la construcción de su obra final.
+<id_question>53.
+<prompt>Según el autor, ¿qué riesgo implica el uso de recursos computacionales en el
+<prompt>modelaje de la arquitectura?
+<choice>A) Alejar el verdadero sentido de la proporción.
+<choice>B) Llevar las imágenes a nuevas dimensiones.
+<choice>C) Desvirtuar el quehacer del diseño arquitectónico.
+<choice>D) Desestimar el valor de la geometría como ciencia pura.
+<id_question>54.
+<prompt>¿Qué tienen en común Dennis Dollens y Otl Aicher?
+<choice>A) Ambos crearon herramientas computacionales.
+<choice>B) Ambos privilegiaron lo sensorial sobre lo digital.
+<choice>C) Ambos participaron en la escuela de arquitectura de Florencia.
+<choice>D) Ambos influyeron en la perspectiva arquitectónica de Frei Otto.
+<id_question>55.
+<prompt>¿A qué se refiere el autor en el siguiente enunciado?
+<prompt>«El “render”, o “representación” en español, busca más que explorar,
+<prompt>engañar: pasamos de la simulación a la mentira».
+<choice>A) A que las maquetas encubren errores de los mecanismos de construcción.
+<choice>B) A que las maquetas esconden diferentes secretos constructivos de ejecución.
+<choice>C) A que las maquetas inducen a imaginar creaciones imposibles de materializar.
+<choice>D) A que las maquetas constituyen una representación artificiosa de la obra final.
+<id_question>56.
+<prompt>¿Qué conceptos se relacionan con el reloj digital y el reloj analógico,
+<prompt>respectivamente?
+<choice>A) Precisión – Comprensión.
+<choice>B) Simulación – Verificación.
+<choice>C) Imaginación ‒ Materialización.
+<choice>D) Representación – Exploración.
+<id_question>57.
+<prompt>Según el autor del texto, ¿qué acciones permiten la creación de una obra?
+<choice>A) Materializar y corroborar.
+<choice>B) Comunicar y demostrar.
+<choice>C) Imaginar y probar.
+<choice>D) Trazar y modelar.
+<id_question>58.
+<prompt>¿Quién inspiró la carrera arquitectónica de Renzo Piano?
+<choice>A) Frei Otto.
+<choice>B) Otl Aicher.
+<choice>C) Dennis Dollens.
+<choice>D) Filippo Brunelleschi.
+<head_reading>LECTURA 8 (Preguntas 59 a 65)
+<reading>Fragmento de un reportaje publicado en el sitio web del Servicio Nacional del Patrimonio
+<reading>Cultural el 2021.
+<reading>UNESCO incluye asentamientos y momificación artificial de la
+<reading>cultura chinchorro en la Lista del Patrimonio Mundial
+<reading>El Comité del Patrimonio Mundial de UNESCO, reunido hoy en Fuzhou, China y de manera
+<reading>telemática con los Estados Parte para la 44ª sesión anual, decidió incluir en la Lista del
+<reading>Patrimonio Mundial los asentamientos (sitios) y momificación artificial de la cultura chinchorro
+<reading>en la Región de Arica y Parinacota nominado por Chile en un proceso liderado por el
+<reading>Ministerio de las Culturas, las Artes y el Patrimonio, el Ministerio de Relaciones Exteriores y
+<reading>que es fruto de un trabajo junto a la Universidad de Tarapacá y diversas instituciones locales.
+<reading>Lo anterior en virtud de su Valor Universal Excepcional al corresponder a un ejemplo
+<reading>sobresaliente de la interacción de un grupo de cazadores-recolectores marinos con uno de los
+<reading>ambientes más secos del mundo y ser un testimonio único de la compleja espiritualidad de
+<reading>una tradición cultural ya desaparecida –la cultura chinchorro– expresada a través de los
+<reading>cementerios en los que se encuentran cuerpos momificados natural y artificialmente.
+<reading>El Ministerio de las Culturas, las Artes y el Patrimonio celebró este importante hito: “Esta es
+<reading>una gran noticia para Chile, es un reconocimiento al esfuerzo sostenido del Estado, de la
+<reading>Universidad de Tarapacá y de muchos actores locales, y constituye también un aliciente para
+<reading>continuar trabajando para la proyección de este patrimonio cultural milenario y magnífico. Esta
+<reading>declaratoria aporta una tipología poco representada en la Lista del Patrimonio Mundial,
+<reading>correspondiente a culturas de cazadores recolectores tempranos que dan cuenta de la
+<reading>excepcional adaptación de los seres humanos a medioambientes extremos, a la par que
+<reading>exponen la compleja cosmovisión de estas culturas y su relación con la muerte”.
+<reading>Por su parte, el rector de la Universidad de Tarapacá, Emilio Rodríguez, sostuvo: “La
+<reading>Universidad de Tarapacá destaca este gran logro para el país y para nuestra Región. En
+<reading>efecto, incluir los sitios de la cultura chinchorro en la Lista de Patrimonio Mundial de UNESCO
+<reading>es la resultante de un trabajo de décadas. Reconocemos el esfuerzo de nuestros
+<reading>investigadores y de sus equipos, así como el esfuerzo de las instituciones regionales y
+<reading>nacionales, que han apostado por potenciar a la cultura chinchorro. En esta magnífica ocasión
+<reading>reiteramos nuestro total compromiso con el rescate, conservación y puesta en valor
+<reading>permanente de nuestra milenaria cultura, que hoy saluda a la humanidad toda”.
+<reading>De esta forma, Chile consigue el séptimo reconocimiento de parte de UNESCO como parte de
+<reading>la Lista de Patrimonio Mundial, el máximo grado de protección patrimonial debido a su “valor
+<reading>universal excepcional”, sumándose así a los sitios Oficinas salitreras Humberstone y Santa
+<reading>Laura; el Parque Nacional Rapa Nui; las Iglesias de Chiloé; Campamento Sewell; Área
+<reading>histórica de la ciudad-puerto de Valparaíso; y a Qhapaq Ñan-Sistema Vial Andino.
+<reading>Los asentamientos de la cultura chinchorro nominados como Sitio de Patrimonio Mundial son
+<reading>tres: Faldeos del Morro (1) y el Museo Colón 10 (2), los que se encuentran en el entorno
+<reading>urbano de Arica y destacan por ser los cementerios más importantes y representativos de la
+<reading>tradición funeraria chinchorro, y se suma la desembocadura del río Camarones (3), ubicado en
+<reading>la zona rural de la comuna de Camarones, donde es posible encontrar distintos vestigios de
+<reading>esta cultura, tantos funerarios como habitacionales, los que se conservan en un ambiente y
+<reading>paisaje similar a la época que lo habitaron.
+<reading>Un largo camino
+<reading>Esta postulación acumula más de 20 años de trabajo y tiene su inicio formal en 1998, cuando
+<reading>este milenario patrimonio fue incluido por Chile en la Lista Tentativa de Patrimonio Mundial.
+<reading>Una década más tarde la Universidad de Tarapacá (UTA) inició las investigaciones para
+<reading>elaborar el expediente de postulación, el que contó con el apoyo del Ministerio de las Culturas,
+<reading>el Gobierno Regional y distintas instituciones locales y nacionales y fue enviado a UNESCO
+<reading>en 2020 tras la firma de la Ministra de las Culturas, las Artes y el Patrimonio. En su versión
+<reading>final, cuenta con casi 400 páginas de texto de postulación y 900 de anexos.
+<reading>Junto a la elaboración del expediente, Chile fue avanzando en otros pasos clave para la
+<reading>protección del bien y la nominación ante UNESCO y que fueron enviados y considerados por
+<reading>el Comité de Patrimonio Mundial para su decisión. Es así como en 2019 se conformó la
+<reading>Corporación Chinchorro Marka, que agrupa a la UTA y a las corporaciones culturales de los
+<reading>municipios de Arica y Camarones, contando con el apoyo del Ministerio de las Culturas.
+<reading>Dicha corporación estará a cargo de administrar la gestión de los sitios arqueológicos de la
+<reading>cultura chinchorro y ya redactó un Plan de Manejo para protegerlos y preservarlos.
+<reading>Entre diciembre de 2020 y febrero de 2021 se llevaron a cabo diferentes instancias de
+<reading>evaluación por parte de UNESCO, entre las que se contó una misión del Consejo Internacional
+<reading>de Monumentos y Sitios de UNESCO (ICOMOS) para conocer en terreno las condiciones de
+<reading>autenticidad, integridad y gestión de estos vestigios arqueológicos.
+<reading>Asimismo, parte de los bienes postulados son propiedad del Estado de Chile y ya cuentan con
+<reading>la máxima protección patrimonial que otorga el país en la categoría Monumento Arqueológico
+<reading>reconocida en la Ley 17.288 de Monumentos Nacionales. Para efectos de la nominación, a
+<reading>esa protección existente se suma la de Monumento Histórico y Santuario de la Naturaleza,
+<reading>esta última en proceso de tramitación. Por lo anterior, estos sitios quedan definidos como
+<reading>áreas protegidas para efectos de la ley de bases del medio ambiente chilena y cuentan con
+<reading>todo el procedimiento de evaluación de impacto ambiental asociado […].
+<reading>Cultura chinchorro
+<reading>La cultura chinchorro se desarrolló hace más de 7 mil años por cazadores recolectores
+<reading>marinos que se establecieron y habitaron en la costa del desierto de Atacama, el más árido del
+<reading>mundo, aprovechando los abundantes recursos marinos que proporciona la corriente de
+<reading>Humboldt. Esta profusión de materias primas les permitió generar asentamientos
+<reading>semipermanentes en las desembocaduras de los escasos ríos y quebradas de la zona, con
+<reading>una tecnología marítima especializada, cuyas frágiles evidencias se han podido preservar
+<reading>gracias a las excepcionales condiciones climáticas del norte de Chile.
+<reading>El subsecretario del Patrimonio Cultural, Emilio De la Cerda, –quien actúa como punto focal
+<reading>ante UNESCO en estas materias– destacó en su intervención durante la sesión del Comité
+<reading>que estos tres componentes incluyen la evidencia arqueológica conocida más antigua del
+<reading>mundo de momificación artificial de cuerpos. En los cementerios chinchorro hay cuerpos
+<reading>momificados debido al medio ambiente y a la momificación humana artificial. Esto último es
+<reading>notable debido a la antigüedad y la técnica, pues los chinchorro fueron innovadores en cuanto
+<reading>a la momificación artificial. Con el tiempo perfeccionaron prácticas mortuorias complejas, para
+<reading>crear momias “artificiales” que poseían cualidades materiales, escultóricas y estéticas que
+<reading>presumiblemente reflejaban el papel fundamental de los muertos en su sociedad.
+<reading>Por las evidencias del lugar de entierro, a pocos centímetros de la superficie, y cerca o en los
+<reading>lugares en que vivían, y por el desgaste y reparaciones que presentan, los especialistas
+<reading>plantean que estas momias seguían formando parte de la vida comunitaria o familiar de los
+<reading>chinchorro, en que eran desenterradas para ciertas ocasiones y posteriormente vueltas a
+<reading>sepultar. Este proceso de momificación es más antiguo que el de las momias egipcias.
+<reading>Servicio Nacional del Patrimonio Cultural. (27 de julio de 2021). UNESCO incluye Asentamientos y
+<reading>Momificación Artificial de la Cultura Chinchorro en la Lista de Patrimonio Mundial.
+<reading>https://www.patrimoniocultural.gob.cl/noticias/unesco-incluye-asentamientos-y-momificacion-artificial-de-la-cultura-chinchorro-en-la
+<id_question>59.
+<prompt>De acuerdo con la lectura, ¿cómo se puede calificar el proceso de postulación de la
+<prompt>cultura chinchorro al reconocimiento de la UNESCO?
+<choice>A) Colaborativo, pues contó con la participación de varias instituciones regionales
+<choice>y nacionales.
+<choice>B) Costoso, pues requirió del financiamiento de fondos públicos y privados para la
+<choice>investigación.
+<choice>C) Gradual, pues se incorporó paulatinamente cada uno de los tres sitios de
+<choice>Patrimonio Mundial.
+<choice>D) Polémico, pues se tuvo que demostrar la autenticidad e integridad de los
+<choice>vestigios arqueológicos.
+<id_question>60.
+<prompt>¿Cuál es la función del siguiente segmento dentro del fragmento leído?
+<prompt>«Lo anterior en virtud de su Valor Universal Excepcional al corresponder a un
+<prompt>ejemplo sobresaliente de la interacción de un grupo de cazadores-recolectores
+<prompt>marinos con uno de los ambientes más secos del mundo y ser un testimonio único
+<prompt>de la compleja espiritualidad de una tradición cultural ya desaparecida –la cultura
+<prompt>chinchorro– expresada a través de los cementerios en los que se encuentran
+<prompt>cuerpos momificados natural y artificialmente».
+<choice>A) Destacar las condiciones climáticas adversas que debió enfrentar la cultura
+<choice>chinchorro.
+<choice>B) Presentar la visión de mundo de la cultura chinchorro expresada en sus
+<choice>actividades cotidianas.
+<choice>C) Exponer los motivos por los que la cultura chinchorro fue reconocida como
+<choice>Patrimonio Mundial.
+<choice>D) Ejemplificar con la cultura chinchorro los criterios para que una cultura sea
+<choice>reconocida universalmente.
+<id_question>61.
+<prompt>¿Qué aspecto social de la cultura chinchorro destaca el Ministerio de las Culturas,
+<prompt>las Artes y el Patrimonio?
+<choice>A) La distribución del trabajo que desarrolló su sociedad.
+<choice>B) La adaptación de sus habitantes a los lugares inhóspitos.
+<choice>C) La interacción entre sus recursos naturales y la religiosidad.
+<choice>D) La implementación de tecnologías innovadoras para la momificación.
+<id_question>62.
+<prompt>¿Cuál es el rol de la Universidad de Tarapacá en la obtención del reconocimiento
+<prompt>de la UNESCO a la cultura chinchorro?
+<choice>A) Apoyar la postulación a través de la producción de un completo expediente de
+<choice>investigación.
+<choice>B) Financiar la postulación a través de becas de investigación para cubrir los
+<choice>gastos administrativos.
+<choice>C) Patrocinar la postulación a través de la firma de académicos para respaldar los
+<choice>datos del proyecto.
+<choice>D) Validar la postulación a través del análisis de las condiciones de autenticidad,
+<choice>integridad y gestión de los vestigios arqueológicos.
+<id_question>63.
+<prompt>De acuerdo con la lectura, ¿qué institución estará a cargo de administrar la gestión
+<prompt>de los sitios arqueológicos de la cultura chinchorro?
+<choice>A) Corporación Chinchorro Marka.
+<choice>B) Comité de Patrimonio Mundial.
+<choice>C) Ministerio de las Culturas, las Artes y el Patrimonio.
+<choice>D) Consejo Internacional de Monumentos y Sitios de UNESCO.
+<id_question>64.
+<prompt>¿Cuál es una evidencia de que las momias eran parte de la vida cotidiana de la
+<prompt>cultura chinchorro?
+<choice>A) La vestimenta con que preparaban a las momias.
+<choice>B) La técnica innovadora de momificación que desarrollaron.
+<choice>C) Las restauraciones que poseían las momias enterradas superficialmente.
+<choice>D) La sequedad del clima y su relación con la momificación natural y artificial.
+<id_question>65.
+<prompt>Según el fragmento leído, ¿qué fenómeno permite profundizar en el valor de la
+<prompt>cultura chinchorro?
+<choice>A) La explicación del proceso de momificación artificial.
+<choice>B) Los aspectos espirituales de las culturas originarias.
+<choice>C) La opinión de los habitantes de Arica sobre la UNESCO.
+<choice>D) La ubicación geográfica de los otros sitios patrimoniales.

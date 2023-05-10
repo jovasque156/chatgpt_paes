@@ -1,0 +1,1018 @@
+<head_reading>LECTURA 1 (Preguntas 1 a 6)
+<reading>Reportaje escrito por Boris Miranda, publicado por BBC Mundo el 2016.
+<reading>Pedro Paulet, el peruano que se convirtió en el padre de la
+<reading>astronáutica inspirado por un libro de Julio Verne
+<reading>Pedro Paulet fue ingeniero, arquitecto, diplomático y escritor.
+<reading>Pedro Paulet desarrolló la idea que serviría de base para propulsar al hombre a la
+<reading>Luna y diseñó su propia nave aeroespacial, pero los únicos que quisieron aprovechar
+<reading>sus descubrimientos inicialmente fueron los nazis, a pesar de que él se negó a
+<reading>ayudarlos.
+<reading>Sus fórmulas y experimentos sirvieron de punto de referencia para los principales
+<reading>diseñadores de la agencia espacial estadounidense NASA y, por ello, el peruano es
+<reading>considerado como el padre de la astronáutica y pionero de la era especial.
+<reading>Pero todo comenzó muy lejos de los laboratorios modernos y las prestigiosas
+<reading>universidades europeas por las que pasó.
+<reading>Esta historia empezó en su Arequipa natal, en aquellas noches despejadas en las que
+<reading>pasaba horas mirando la Luna e imaginando un viaje fantástico hasta aquel satélite
+<reading>natural de la Tierra.
+<reading>La principal fuente de inspiración fue aquella premonitoria novela del escritor francés
+<reading>Julio Verne titulada “De la Tierra a la Luna” (1865).
+<reading>Ese vuelo de la imaginación que encontró en las páginas llevó a Pedro Paulet a creer
+<reading>que ese fantástico viaje era posible. E hizo todo lo que pudo para lograrlo.
+<reading>¿Quién era Pedro Paulet?
+<reading>Aunque suene difícil de creer, en Perú el nombre de Pedro Paulet se relaciona más
+<reading>con una academia militar que con el inventor del primer cohete de combustible
+<reading>líquido.
+<reading>Por fortuna o por desgracia, la principal escuela de cadetes de Lima lleva el nombre
+<reading>de Pedro Paulet.
+<reading>A pesar de eso, pocos saben del científico nacido en 1874 en esa tierra al que
+<reading>homenajea, señala Álvaro Mejía, investigador de su obra y documentalista.
+<reading>“Su trabajo y logros no se enseñan en colegios, su historia está poco documentada y
+<reading>todavía su obra está dispersa en muchas bibliotecas del mundo”, señala Mejía, quien
+<reading>está preparando una película sobre la vida de Paulet titulada “El niño que soñaba con
+<reading>la Luna”.
+<reading>Añade que el arequipeño “sería mucho más reconocido en Perú y en el mundo si
+<reading>hubiera sido alemán o estadounidense”.
+<reading>De la Tierra a la Luna
+<reading>Fue un sacerdote francés llamado Hipót Duhamel el que, sin intención, convirtió al
+<reading>espacio en la obsesión de Paulet, cuando llevó a Arequipa varias cajas de libros, entre
+<reading>ellos las novelas de Julio Verne.
+<reading>“Duhamel fue uno de los maestros de Paulet y es quien le entregó el ejemplar de “De
+<reading>la Tierra a la Luna” que cambió su vida”, asegura Álvaro Mejía.
+<reading>Antes de terminar el colegio, el joven inventor ya fabricaba sus propios cohetes por su
+<reading>fascinación por los fuegos artificiales.
+<reading>Paulet estuvo a punto de quedarse sin estudios universitarios por los pocos recursos
+<reading>con los que contaba.
+<reading>“Pero el rector de la Universidad San Agustín de ese entonces lo invitó a dar un
+<reading>examen ante varios profesores y terminó ovacionado. Era un genio”, relata el
+<reading>documentalista que ha publicado varios artículos sobre la vida del inventor en
+<reading>revistas y diarios peruanos.
+<reading>Por su notable talento, poco tiempo después el gobierno peruano le dio una beca para
+<reading>estudiar Ingeniería y Arquitectura en la Universidad La Sorbona.
+<reading>Pese a que Paulet no es uno de los personajes más conocidos en Perú,
+<reading>se realizaron varias publicaciones en medios sobre su historia.
+<reading>El “motor-cohete”
+<reading>Fue en París, en los últimos años del siglo XIX, que Paulet afinaría su “motor-cohete”
+<reading>alimentado por combustible líquido.
+<reading>El descubrimiento iba en contra de la industria de aquel entonces que se esmeraba
+<reading>en mejorar sus cohetes impulsados por pólvora.
+<reading>Faltaban más de 70 años para que el hombre pisara la superficie lunar, pero en un
+<reading>aula de la Sorbona parisina un peruano había dado el primer gran paso.
+<reading>El “motor-cohete” de Paulet rápidamente se convertiría en el “autobólido”, la nave
+<reading>aeroespacial diseñada por el peruano en 1902 que nunca llegó a materializarse.
+<reading>El inventor pasó décadas buscando financiamiento para su construcción mientras
+<reading>ejercía cargos diplomáticos en países de Europa y América Latina.
+<reading>Sostuvo fuertes polémicas con científicos europeos de la época durante las primeras
+<reading>décadas del siglo XX y, pocos años antes del ascenso de Adolf Hitler al poder,
+<reading>científicos alemanes intentaron imitar su “motor-cohete” de combustible líquido para
+<reading>misiles de guerra.
+<reading>Paulet nunca les entregó la fórmula, pero con los años, y ya con el nazismo en auge,
+<reading>los alemanes lograron su objetivo.
+<reading>En 1944, las ciudades de Amberes y Londres fueron bombardeadas por las tropas de
+<reading>Hitler con misiles A2 de combustible líquido.
+<reading>Un año después, Paulet fallecería en Buenos Aires a la edad de 71 años.
+<reading>Pero la historia no termina ahí
+<reading>Quien logró convertir el “motor-cohete” de combustible líquido en un misil de guerra
+<reading>fue Wernher von Braun, un científico afiliado a la Schutzstaffel (“Escuadras de
+<reading>protección”) de Hitler, mejor conocida como la SS.
+<reading>Von Braun no compartía el ideario nazi, pero fue puesto a trabajar para el régimen
+<reading>como muchos científicos alemanes de aquel entonces.
+<reading>En 1945, con Alemania a punto de perder la Segunda Guerra Mundial, se entregó a
+<reading>las fuerzas estadounidenses.
+<reading>Wernher von Braun, creador de los misiles
+<reading>alemanes A2 y director de la misión espacial de
+<reading>la NASA que llegó a la Luna, consideraba a
+<reading>Pedro Paulet como el pionero de la propulsión
+<reading>con combustible líquido que usan los cohetes
+<reading>espaciales.
+<reading>De a poco fue ganando espacio y reconocimiento en Estados Unidos hasta que llegó a la
+<reading>NASA, donde dirigió el programa espacial que en 1969 lograría el ansiado objetivo de
+<reading>llegar a la Luna.
+<reading>El cohete que permitió que Neil Armstrong y Edwin Aldrin pisaran la superficie lunar se
+<reading>impulsaba, al igual que los misiles A2 alemanes, por un motor de combustible líquido.
+<reading>Von Braun, quien se quedó con buena parte del crédito por la hazaña humana, en uno de
+<reading>sus libros reconoció el aporte del peruano en el alunizaje.
+<reading>“Paulet debe ser considerado como el pionero del motor a propulsión con combustible
+<reading>líquido”, escribió el científico en su libro “Historia de la cohetería y los viajes espaciales”.
+<reading>Von Braun tenía algo en común con el inventor peruano: ambos leyeron “De la Tierra a la
+<reading>Luna” cuando eran niños y comenzaron a creer que la fantasía era posible.
+<reading>Tal vez Paulet no llegó a ver su sueño hecho realidad, pero estuvo mucho más cerca de lo
+<reading>que muchos creían en ese entonces.
+<reading>Dio el primer paso. Y eso no es poca cosa. Porque además de brillante, era un obstinado.
+<reading>Y como él solía decir: “los arequipeños no le tienen miedo al fuego ni a las explosiones”.
+<reading>Miranda, B. (2016). Pedro Paulet, el peruano que se convirtió en el padre de la astronáutica inspirado en un
+<reading>libro de Julio Verne. BBC Mundo. https://www.bbc.com/mundo/noticias-america-latina-38197437
+<id_question>1.
+<prompt>¿Por qué Pedro Paulet es considerado un pionero de la era espacial?
+<choice>A) Por su libro científico “Historia de la cohetería y los viajes espaciales”.
+<choice>B) Por sus logros académicos en la Universidad San Agustín y Universidad La
+<choice>Sorbona.
+<choice>C) Porque participó en el diseño de la primera nave espacial que llegó a la Luna.
+<choice>D) Porque su motor de combustible líquido permitió propulsar las naves
+<choice>espaciales.
+<id_question>2.
+<prompt>Según el texto, ¿de qué manera se busca revertir el desconocimiento popular
+<prompt>acerca del aporte de Paulet a la astronáutica?
+<choice>A) Con el rodaje de una película del documentalista Álvaro Mejía.
+<choice>B) Con el uso del motor de combustible líquido por parte de la NASA.
+<choice>C) Con la utilización de su nombre para bautizar una academia militar.
+<choice>D) Con la publicación de un libro de memorias de Wernher von Braun.
+<id_question>3.
+<prompt>¿Cuál fue el principal aporte de Pedro Paulet en el desarrollo de la astronáutica?
+<choice>A) Inspiró a científicos peruanos hacia nuevos campos de investigación.
+<choice>B) Impulsó directamente la creación de los misiles A2 de combustible líquido.
+<choice>C) Permitió la construcción del “autobólido”, la primera nave aeroespacial
+<choice>diseñada.
+<choice>D) Cambió el enfoque científico de la pólvora hacia la combustión líquida en los
+<choice>cohetes.
+<id_question>4.
+<prompt>En relación con el texto, ¿cuál es la intención de citar a Wernher von Braun?
+<choice>A) Mostrar un punto de vista diferente al planteado en el texto.
+<choice>B) Presentar una fuente que valide la importancia de Paulet.
+<choice>C) Demostrar una investigación profunda sobre el legado de Paulet.
+<choice>D) Incluir una fuente que resuelva las contradicciones descritas en el texto.
+<id_question>5.
+<prompt>¿Qué impidió el reconocimiento del “motor-cohete” como un gran invento?
+<choice>A) La preferencia del uso de la pólvora como combustible.
+<choice>B) La dedicación de Paulet a su trabajo como diplomático.
+<choice>C) Las fuertes disputas que Paulet mantenía con otros científicos.
+<choice>D) Las avanzadas tecnologías de los nazis en misiles para la guerra.
+<id_question>6.
+<prompt>¿Qué característica del artículo sobre Paulet dificulta realizar una síntesis del
+<prompt>contenido del texto?
+<choice>A) La diferencia de extensión entre las secciones.
+<choice>B) La inclusión de una serie de enunciados sin conexión.
+<choice>C) La detallada descripción de diversos hechos históricos.
+<choice>D) La alternancia entre los temas abordados sobre el inventor.
+<head_reading>LECTURA 2 (Preguntas 7 a 13)
+<reading>Fragmento del ensayo Vindicación del libro, escrito por Juan Manuel de Prada el 2000.
+<reading>Vindicación del libro
+<reading>1. La consideración de la biblioteca como ámbito casi religioso, como refugio o
+<reading>templo donde el hombre halla abrigo en su andadura huérfana por la tierra, la
+<reading>expresa, quizá mejor que nadie, Jean-Paul Sartre, en su hermosísima
+<reading>autobiografía Las palabras, donde comparece el niño que fue, respaldado por
+<reading>el silencio sagrado de los libros: “No sabía leer aún, y ya reverenciaba aquellas
+<reading>piedras erguidas –escribe Sartre con unción–: derechas o inclinadas, apretadas
+<reading>como ladrillos en los estantes de la biblioteca. Sentía que la prosperidad de
+<reading>nuestra familia dependía de ellas. Yo retozaba en un santuario minúsculo,
+<reading>rodeado de monumentos pesados, antiguos, que me habían visto nacer, que
+<reading>habían de verme morir y cuya permanencia me garantizaba un porvenir tan
+<reading>tranquilo como el pasado”. Esta quietud callada y a la vez despierta de los
+<reading>libros, esta condición suya de dioses penates o vigías del tiempo que velan por
+<reading>sus poseedores y abrigan su espíritu los convierte en el objeto más
+<reading>formidablemente reparador que haya podido concebir el hombre. El libro, en
+<reading>apariencia inerte y mudo, nos reconforta con su elocuencia, porque entre sus
+<reading>páginas se aloja nuestra biografía espiritual; y esta capacidad suya para
+<reading>invocar los hombres que hemos sido es lo que lo convierte en nuestro
+<reading>interlocutor más valioso y ajeno a las contingencias del tiempo.
+<reading>2. Yo también puedo decir con legítimo orgullo que “los libros fueron mis pájaros
+<reading>y mis nidos, mis animales domésticos, mi establo y mi campo”, como escribe
+<reading>Sartre en algún pasaje de su autobiografía. También para mí la biblioteca ha
+<reading>sido, como para Sartre, “el mundo atrapado en un espejo”; también para mí la
+<reading>lectura ha sido una vocación de permanencia que ha exaltado y consolado mis
+<reading>días. Por eso contemplo con cierto preocupado escepticismo esas proclamas
+<reading>más o menos elegíacas que nos hablan de la muerte inminente de estos
+<reading>compañeros del alma. La comunicación electrónica viaja por delante de
+<reading>nosotros, se adelanta a nuestras inquisiciones, procurándonos un copioso
+<reading>caudal de información; los libros, en cambio, viajan con nosotros y acicatean
+<reading>nuestras pesquisas, deparándonos el difícil venero del conocimiento.
+<reading>Precisamente porque no ofrecen soluciones rápidas e instantáneas,
+<reading>precisamente porque estimulan nuestra curiosidad perenne, tienen la
+<reading>supervivencia garantizada.
+<reading>3. La digitalización de textos, las redes y foros interactivos han conseguido
+<reading>liberarnos de las “ataduras” del libro; de este modo, la lectura electrónica se ha
+<reading>convertido en una especie de “simultaneidad textual” que inculca un sentido
+<reading>fragmentario de la realidad, repudia las elaboraciones abstractas, disminuye
+<reading>nuestra capacidad retentiva y mutila nuestra percepción de la historia. La
+<reading>comunicación electrónica niega el carácter ritual y perdurable del lenguaje,
+<reading>que es como negar sus posibilidades como vehículo para transmitir
+<reading>conocimiento, relegándolo a una mera condición vicaria de transmisor de
+<reading>informaciones.
+<reading>4. Cada vez que nos asomamos a un libro, escapamos de un mundo aturdido por
+<reading>la banalidad y el vértigo para lanzarnos a la conquista de otro mundo más
+<reading>verdadero y postular una realidad enaltecedora. Al leer no nos limitamos a
+<reading>absorber contenidos, a estimular nuestras dotes imaginativas o a mejorar
+<reading>nuestras habilidades verbales; por el contrario, regresamos a nuestro mundo
+<reading>aturdido por la banalidad y el vértigo con una cosecha de iluminaciones que
+<reading>irradian su influjo sobre la realidad y nos enseñan a ser mejores. Este viaje de
+<reading>ida y vuelta, además, nos hace dueños de nuestro propio tiempo, de nuestra
+<reading>duración en la tierra; la aventura de leer un libro nos proporciona el
+<reading>incalculable gozo de aprehender y comprender nuestra vida, no solo los
+<reading>acontecimientos que poblaron su pasado, sino también los que otorgarán su
+<reading>argumento al incierto y multiforme futuro.
+<reading>De Prada, J. M. (2000). Vindicación del libro. ABC.
+<id_question>7.
+<prompt>De los párrafos uno y dos, se infiere que un rasgo común entre el emisor y Jean-Paul
+<prompt>Sartre es
+<choice>A) el carácter retraído frente al ámbito social.
+<choice>B) la valoración del proceso de lectura.
+<choice>C) el gusto por los mismos temas literarios.
+<choice>D) el desprecio por aquellos que no gustan de la lectura.
+<choice>E) la consideración de los libros como un cúmulo de conocimientos.
+<id_question>8.
+<prompt>La comunicación electrónica se diferencia de los libros en que estos
+<choice>A) no entregan demasiada información.
+<choice>B) no ofrecen soluciones inmediatas.
+<choice>C) no aportan inquisiciones sobre la realidad.
+<choice>D) no se anticipan a la ocurrencia de hechos.
+<choice>E) no garantizan su supervivencia.
+<id_question>9.
+<prompt>A partir de la lectura del párrafo dos, es posible afirmar que el emisor
+<choice>A) considera los libros como compañeros existenciales.
+<choice>B) desprecia la comunicación electrónica.
+<choice>C) evade su realidad a través de la lectura tradicional.
+<choice>D) cree no poder subsistir sin la lectura de libros.
+<choice>E) pertenece a una familia que aprecia la lectura.
+<id_question>10.
+<prompt>Una desventaja de la comunicación electrónica es que
+<choice>A) reduce el tiempo de lectura.
+<choice>B) elimina el efecto placentero de la lectura.
+<choice>C) disminuye el valor simbólico del lenguaje.
+<choice>D) niega el carácter ritual del lenguaje.
+<choice>E) impide el desarrollo de la imaginación.
+<id_question>11.
+<prompt>Del fragmento leído, se infiere que el emisor prefiere la lectura de los libros
+<prompt>tradicionales porque estos desarrollan en el ser humano sus capacidades
+<choice>A) filosóficas y sicológicas.
+<choice>B) éticas y científicas.
+<choice>C) sociales y educativas.
+<choice>D) funcionales y orgánicas.
+<choice>E) intelectuales y espirituales.
+<id_question>12.
+<prompt>La intención comunicativa del emisor del fragmento leído es
+<choice>A) destacar la importancia que tiene leer un buen libro.
+<choice>B) defender la comunicación íntima que produce la lectura de un libro impreso.
+<choice>C) subrayar que la lectura electrónica no aporta a la comunicación humana.
+<choice>D) insistir en que el hombre debe resistirse a la lectura electrónica.
+<choice>E) señalar las ventajas de la lectura tradicional y las desventajas de la lectura
+<choice>electrónica.
+<id_question>13.
+<prompt>“…regresamos a nuestro mundo aturdido por la banalidad y el vértigo con
+<prompt>una cosecha de iluminaciones que irradian su influjo sobre la realidad y
+<prompt>nos enseñan a ser mejores…”
+<prompt>De acuerdo con el segmento anterior, los libros permiten
+<choice>A) encontrar un refugio de descanso espiritual.
+<choice>B) escapar de experiencias negativas y sin sentido.
+<choice>C) descubrir mundos mejores que el cotidiano.
+<choice>D) proteger a las personas de los excesos mundanos.
+<choice>E) experimentar la lectura como crecimiento personal.
+<head_reading>LECTURA 3 (Preguntas 14 a 23)
+<reading>Artículo de divulgación escrito por Josefina Hepp y Macarena Echeverría el 2020.
+<reading>1
+<reading>Know your pebre :
+<reading>la química entre sus
+<reading>ingredientes
+<reading>Cuchareado, con ají o a la piedra, la química entre estos ingredientes es innegable y deliciosa.
+<reading>Linalool terpeno, el perfume del cilantro
+<reading>El cilantro debe su aroma en gran parte al linalool, un
+<reading>compuesto secundario del tipo terpeno. Los terpenos tienen
+<reading>la función de atraer polinizadores o repeler insectos y
+<reading>herbívoros a través de señales olfativas. Muchas veces,
+<reading>estos compuestos “advierten” de la toxicidad de una planta
+<reading>para que el potencial enemigo ni siquiera se atreva a probar
+<reading>el vegetal. Eso, en el mundo de los insectos.
+<reading>Para nosotros, el terpeno evoca el olor del cilantro porque al
+<reading>picarlo para hacer el pebre se forma “aceite” (esa “babita”
+<reading>que sale cuando uno pica el cilantro) que toma forma de
+<reading>monoterpeno con grupos alcohol (que es el OH que se ve
+<reading>en la estructura), este componente es oloroso y súper
+<reading>volátil. ¡Por eso sale más olor a cilantro luego de picarlo!
+<reading>Farmacológicamente tiene efectos anticancerígenos (lo que no implica que su ingesta
+<reading>reemplace un tratamiento médico), y también se usan sus extractos como preservantes.
+<reading>Por otro lado, el color verde de las plantas está dado fundamentalmente
+<reading>por un pigmento llamado clorofila (en realidad es una familia de
+<reading>pigmentos), que absorbe luz en la zona roja y azul del espectro visible,
+<reading>pero no en la zona del verde: esta última se refleja, y por lo tanto es
+<reading>percibida por nuestros ojos.
+<reading>1 Know your pebre: “Conoce tu pebre”.
+<reading>Al absorber la energía del sol, la clorofila entra en un estado de “excitación” y es capaz de
+<reading>transferir esa energía en una cadena de reacciones que son parte de la fotosíntesis,
+<reading>proceso necesario para sintetizar carbohidratos y generar el oxígeno que respiramos.
+<reading>Un datito desde la espectroscopía: el color verde se ubica justo al medio en la
+<reading>distribución de colores, por lo que es el que menos “esfuerzo” requiere para
+<reading>ver. Por eso es uno de los colores favoritos del mundo, ¡y es el más presente
+<reading>en la naturaleza!
+<reading>Licopeno para el color del tomate
+<reading>El licopeno es un carotenoide, un tipo de pigmento
+<reading>vegetal responsable del color rojo y anaranjado de
+<reading>algunas frutas y verduras, lo que serviría para
+<reading>atraer el consumo de frutos y por tanto la
+<reading>dispersión de semillas por animales. Otra de sus
+<reading>funciones es proteger las plantas contra el daño
+<reading>por luz excesiva. Se encuentra en tomates, pero
+<reading>también en sandías, pomelos, guayabas, papayas
+<reading>y otros frutos rojizos.
+<reading>Además, esta “defensa” de los carotenoides (que es el símil a nuestro sistema inmune,
+<reading>pero en los vegetales y plantas) se basa en actividad antioxidante. Por eso estos extractos
+<reading>se usan tanto en productos de belleza como cremas para disminuir las arrugas y el daño a
+<reading>la piel. Esto hace que el pebre no solo sea rico, sino que también nos ayuda a protegernos
+<reading>del avance del tiempo en la piel.
+<reading>Cebolla, capas y azufre
+<reading>En la cebolla, naturalmente existen compuestos que contienen azufre y se encuentran
+<reading>almacenados en las células. Al romper las células (es decir, cuando cortas la cebolla), se
+<reading>liberan los compuestos y se combinan con una enzima, como reacción ante el daño que le
+<reading>estamos haciendo: es un mecanismo de defensa. El “factor lacrimógeno” creado
+<reading>corresponde a una molécula volátil que llega a nuestros ojos y los irrita. Por eso lloramos
+<reading>(pero no nos impide comernos la cebolla).
+<reading>Collage de José Vilches (@periocollages)
+<reading>Hepp, J. y Echeverría, M. (2020). Know your pebre. Chilecientífico.
+<reading>https://chilecientifico.com/know-your-pebre-la-quimica-entre-sus-ingredientes/
+<id_question>14.
+<prompt>¿Cuál es la temática del texto leído?
+<choice>A) Los estudios científicos de los vegetales del pebre.
+<choice>B) Los ingredientes básicos de la composición del pebre.
+<choice>C) Las propiedades químicas de los ingredientes del pebre.
+<choice>D) Las recomendaciones para la elaboración de un buen pebre.
+<id_question>15.
+<prompt>Según la lectura del texto, ¿qué es el terpeno?
+<choice>A) Es un componente tóxico de algunas especies vegetales.
+<choice>B) Es una sustancia responsable del aroma de algunas plantas.
+<choice>C) Es un elemento anticancerígeno usado en algunos tratamientos.
+<choice>D) Es una materia química que preserva el color de algunas plantas.
+<id_question>16.
+<prompt>En el texto, ¿cuál es la función de la información contenida en los paréntesis?
+<choice>A) Introducir ejemplos de situaciones comunes sobre lo que se expone.
+<choice>B) Vincular el contenido textual con la información gráfica presentada.
+<choice>C) Presentar restricciones sobre lo que se va mencionando en el texto.
+<choice>D) Aclarar información compleja introduciendo expresiones cotidianas.
+<id_question>17.
+<prompt>En el segundo párrafo, ¿con qué propósito se utilizan las comillas en la palabra
+<prompt>“babita”?
+<choice>A) Para comentar la semejanza entre la consistencia del aceite y la sustancia que
+<choice>produce el cilantro al picarlo.
+<choice>B) Para explicar la consistencia del monoterpeno por medio del uso de un término
+<choice>de carácter cotidiano.
+<choice>C) Para destacar un concepto clave de la composición química del cilantro como
+<choice>ingrediente del pebre.
+<choice>D) Para describir las características de la estructura del cilantro al combinarse con
+<choice>grupos de alcohol.
+<id_question>18.
+<prompt>De acuerdo con la lectura, ¿por qué la vista humana capta fácilmente el color verde?
+<choice>A) Porque se considera uno de los colores favoritos del mundo.
+<choice>B) Porque es el que está más presente en la naturaleza.
+<choice>C) Porque se ubica en el centro de la distribución de colores.
+<choice>D) Porque es un pigmento clorofílico carente de luz.
+<id_question>19.
+<prompt>Según el texto, ¿qué aspecto NO corresponde a una característica del licopeno?
+<choice>A) Propicia la dispersión de las semillas de las frutas que lo contienen.
+<choice>B) Protege a las plantas de los daños por la exposición excesiva a la luz.
+<choice>C) Contribuye a disminuir las arrugas y daños en la piel.
+<choice>D) Ayuda a fortalecer nuestro sistema inmune.
+<id_question>20.
+<prompt>¿Con qué propósito las autoras nombran al sistema inmune de los seres
+<prompt>humanos?
+<choice>A) Para precisar cuál es la función de los carotenoides en las plantas.
+<choice>B) Para explicar la importancia del consumo de alimentos antioxidantes.
+<choice>C) Para ejemplificar los sistemas defensivos existentes en la naturaleza.
+<choice>D) Para describir el uso del licopeno en el cuidado y protección de la piel.
+<id_question>21.
+<prompt>Según el texto, ¿qué tienen en común los compuestos químicos de los tres
+<prompt>ingredientes presentados?
+<choice>A) Se activan al momento de picar cada ingrediente.
+<choice>B) Se vinculan con mecanismos de defensa de las plantas.
+<choice>C) Se potencian a través de la mezcla con otros componentes.
+<choice>D) Se relacionan con el color que posee cada alimento.
+<id_question>22.
+<prompt>Considerando texto e imágenes, ¿qué aspecto dificulta la comprensión del contenido
+<prompt>del artículo?
+<choice>A) La ubicación de las imágenes y fórmulas que acompañan al texto.
+<choice>B) La relación entre los títulos y el contenido de los apartados.
+<choice>C) La ausencia de explicaciones de algunos recursos gráficos.
+<choice>D) La falta de un apartado que sintetice la información.
+<id_question>23.
+<prompt>¿Qué información nueva presenta la infografía final del texto?
+<choice>A) El origen de la palabra pebre.
+<choice>B) La función del linalool terpeno en el pebre.
+<choice>C) Los ingredientes más importantes del pebre.
+<choice>D) Los beneficios indirectos de consumir licopeno.
+<head_reading>LECTURA 4 (Preguntas 24 a 29)
+<reading>Fragmento de la monografía El lenguaje que nos identifica escrita por Mabel Pruvost de
+<reading>Kappes. Sin fecha de publicación.
+<reading>El lenguaje que nos identifica
+<reading>1. ¿Cuándo comenzamos a conformar nuestra identidad?
+<reading>2. Durante el primer año de nuestra vida, empezamos a conformar nuestra
+<reading>identidad como integrantes de una familia inserta en una comunidad de
+<reading>cultura y lenguaje. Desde ese momento estamos aprendiendo a ser nosotros
+<reading>mismos. Esta tarea continúa durante toda la vida. Aunque seamos muy
+<reading>chicos, percibimos mensajes de la sociedad que valora o desvalora cómo
+<reading>somos. Nuestra familia y la comunidad pueden reforzar o debilitar esta idea.
+<reading>Las dinámicas de poder también tienen sus influencias sobre nosotros.
+<reading>3. Si hablamos de identidad pensamos en quiénes somos, cómo nos ven los
+<reading>demás y cómo nos vemos a nosotros mismos. La identidad nos define tanto
+<reading>como individuos como grupo al que pertenecemos.
+<reading>4. La identidad de un individuo humano incluye género, raza, grupo étnico, clase,
+<reading>cultura, lengua, edad, sexo, entre otras referencias. Todas se combinan para
+<reading>definir un ser único. Pero, asimismo, compartimos algunas como miembros de
+<reading>una comunidad.
+<reading>5. El lenguaje es factor de identidad, que nos une al pasado y proyecta al futuro.
+<reading>Además, es un vínculo de símbolos que aglutina a la comunidad que comparte
+<reading>el mismo código. No solo es un método de comunicación, lo trasciende porque
+<reading>es una institución social, lazo incuestionable que nos une al pasado, que lo
+<reading>mantiene gravitando sobre nuestra actualidad, que aglutina y es un motor de
+<reading>identificación. Watkins ha dicho que “our ancestors, in a real cultural sense, are
+<reading>our linguistic ancestors”.2
+<reading>6. Desde un punto de vista científico, a partir de Ferdinand de Saussure se
+<reading>entiende por lengua el sistema de signos orales y escritos del que disponen los
+<reading>miembros de una comunidad para realizar los actos lingüísticos cuando
+<reading>hablan y escriben. La lengua es un inventario que los hablantes no pueden
+<reading>modificar, solo emplearlo a través del habla, es decir, el conjunto de emisiones
+<reading>que los hablantes producen gracias al inventario del que disponen. Este
+<reading>concepto fue ligeramente modificado por Noam Chomsky, que entiende la
+<reading>2 “Nuestros ancestros, en un sentido realmente cultural, son nuestros ancestros lingüísticos”.
+<reading>lengua como el sistema interiorizado que poseen los hablantes, capaz de
+<reading>generar sus realizaciones lingüísticas. El hablante las evalúa gracias a la
+<reading>competencia, o sea, el dominio inconsciente que tiene de su lengua.
+<reading>7. De ninguna manera podemos considerar al lenguaje como algo acabado,
+<reading>inmodificable, terminado, invariable. Debemos sentirnos promotores y
+<reading>formadores del lenguaje, en cuanto somos integrantes de la comunidad
+<reading>hablante. Decía Borges: “El lenguaje no lo hace la Academia, ni el Poder, ni la
+<reading>Iglesia, ni los escritores. El lenguaje lo hacen los cazadores, los pescadores, los
+<reading>obrajeros, los campesinos, los caballeros y los tipos sinceros. Hay que acudir a
+<reading>las bases, donde se forma la lengua”. Hablar claro y en buen idioma nos da la
+<reading>identidad.
+<reading>Pruvost, M. (s.f.). El lenguaje que nos identifica. Educar. http://www.educar.org/artículos.asp
+<id_question>24.
+<prompt>¿Cuál es la idea central del fragmento leído?
+<choice>A) La importancia de compartir códigos similares en una misma comunidad.
+<choice>B) La formación de un lenguaje claro y preciso como reflejo de la identidad.
+<choice>C) La conformación de una identidad individual y social por medio del lenguaje.
+<choice>D) La vinculación entre las posturas científicas de Saussure y Chomsky.
+<choice>E) La caracterización individual y gregaria de una comunidad lingüística.
+<id_question>25.
+<prompt>¿Cuál es la idea central del párrafo seis?
+<choice>A) La modificación del concepto de lengua y de habla.
+<choice>B) La realización lingüística del habla y de la lengua.
+<choice>C) Los puntos de vista de Saussure y Chomsky sobre el habla.
+<choice>D) La perspectiva científica del concepto de lengua.
+<choice>E) El sistema de signos orales y escritos que posee la lengua.
+<id_question>26.
+<prompt>Cuando Borges señala: “Hay que acudir a las bases, donde se forma la
+<prompt>lengua”, se refiere a que
+<choice>A) la Academia tiene las facultades para determinar el uso y significado de
+<choice>ciertos términos.
+<choice>B) el lenguaje está en constante cambio y movimiento, ya que se busca siempre
+<choice>la corrección.
+<choice>C) la claridad lingüística depende del entorno socioeconómico y del desempeño
+<choice>del hablante.
+<choice>D) los hablantes comunes son los que producen el lenguaje al usarlo
+<choice>cotidianamente.
+<choice>E) los usuarios de la lengua cambian conscientemente el lenguaje de acuerdo a
+<choice>sus necesidades.
+<id_question>27.
+<prompt>¿Qué función comunicativa cumple en el fragmento leído la cita de Borges?
+<choice>A) Confirma que la lengua es un sistema de signos orales y escritos, como postulan
+<choice>los científicos.
+<choice>B) Corrobora que la identidad de un individuo está marcada por su desempeño
+<choice>laboral y por su sinceridad.
+<choice>C) Ejemplifica que el lenguaje es un símbolo que nos une y nos acerca a nuestra
+<choice>comunidad.
+<choice>D) Promueve la idea de que el lenguaje claro e individual nos hace miembros de
+<choice>una comunidad.
+<choice>E) Reafirma que el lenguaje se construye en el día a día del hablante y su entorno.
+<id_question>28.
+<prompt>¿En cuál de los siguientes enunciados se expresa adecuadamente la actitud del
+<prompt>emisor con respecto al lenguaje?
+<choice>A) Ecuanimidad, ya que es solamente uno de los aspectos que conforman la
+<choice>identidad.
+<choice>B) Valoración, debido a que destaca la función del lenguaje y del habla en la
+<choice>formación de la identidad.
+<choice>C) Reflexiva, puesto que considera que el lenguaje es creador de mundo y crea
+<choice>identidad.
+<choice>D) Objetividad, dado que reafirma las definiciones propuestas por Ferdinand de
+<choice>Saussure y Noam Chomsky.
+<choice>E) Admiración, porque cree que los hablantes son promotores y formadores del
+<choice>lenguaje.
+<id_question>29.
+<prompt>¿En cuál de los siguientes enunciados se presenta otro título adecuado para el
+<prompt>fragmento leído?
+<choice>A) «La identidad social de los hablantes»
+<choice>B) «Perspectivas científicas sobre el lenguaje»
+<choice>C) «Los conceptos científicos de lengua y habla»
+<choice>D) «La conformación de la identidad del sujeto»
+<choice>E) «El lenguaje como generador de identidad»
+<head_reading>LECTURA 5 (Preguntas 30 a 39)
+<reading>Infografía sobre la Ley de Antenas, divulgada por la Subsecretaría de Telecomunicaciones
+<reading>(SUBTEL) el 2012.
+<reading>SUBTEL Gobierno de Chile. (2012). Ley de Torres. SUBTEL: Portal Informativo Ciudadano.
+<reading>https://antenas.subtel.gob.cl/LeyDeTorres/inicio
+<id_question>30.
+<prompt>¿Cómo se relacionan las secciones “¿Qué debemos saber sobre la Ley de
+<prompt>Antenas?” y “¿Qué dice la Ley?”, considerando el contenido del texto?
+<prompt>La primera sección
+<choice>A) justifica la creación de una nueva Ley de Antenas, mientras que la segunda
+<choice>sección señala las exigencias que establece esta Ley.
+<choice>B) nombra los pilares de la Ley de Antenas, mientras que la segunda sección
+<choice>específica los lugares donde se prohíbe su instalación.
+<choice>C) describe el origen de la nueva Ley de Antenas, mientras que la segunda sección
+<choice>enumera distintos parámetros de calidad internacional.
+<choice>D) detalla el número de usuarios de telefonía celular, mientras que la segunda
+<choice>sección da cuenta de las multas para los infractores.
+<id_question>31.
+<prompt>Con relación al texto, ¿cuál es la función que cumple el siguiente segmento?
+<prompt>“En nuestro país existen más de 22 millones de celulares y su número seguirá
+<prompt>creciendo rápidamente”.
+<choice>A) Destacar una de las problemáticas en que se fundamenta la nueva Ley de
+<choice>Antenas.
+<choice>B) Cuantificar el aumento que ha experimentado el uso de teléfonos celulares en
+<choice>Chile.
+<choice>C) Demostrar la necesidad de la instalación de antenas para los usuarios de
+<choice>celulares.
+<choice>D) Criticar el crecimiento explosivo de las empresas de telefonía celular a nivel
+<choice>nacional.
+<id_question>32.
+<prompt>De acuerdo con la información contenida en el texto, ¿qué función cumple la
+<prompt>imagen de la copa?
+<choice>A) Ilustra la posición que alcanzará Chile debido al cumplimiento de la normativa
+<choice>de emisiones.
+<choice>B) Retrata el nivel en el que se encuentra Chile luego de la puesta en marcha de
+<choice>la nueva Ley de Antenas.
+<choice>C) Grafica la posición de Chile en la implementación de políticas destinadas a
+<choice>proteger la salud de las personas.
+<choice>D) Representa la forma en que Chile se posiciona como uno de los cinco países
+<choice>líderes en infraestructura de antenas.
+<id_question>33.
+<prompt>¿Cuál de los siguientes aspectos de la Ley de Antenas está enfocado en la
+<prompt>protección de la salud de las personas?
+<choice>A) Informar a la comunidad acerca de las zonas preferentes para la instalación
+<choice>de torres y antenas.
+<choice>B) Considerar la normativa internacional para ajustar los estándares de las
+<choice>emisiones de torres y antenas.
+<choice>C) Exigir a las empresas que informen a los ciudadanos cuando quieran instalar
+<choice>una torre o antena en su barrio.
+<choice>D) Promover el uso de la infraestructura existente para evitar que se construyan
+<choice>torres y antenas innecesariamente.
+<id_question>34.
+<prompt>Según el texto, ¿de qué manera se protege el paisaje en donde se instalaron o se
+<prompt>instalarán antenas?
+<choice>A) Utilizando infraestructura existente para evitar construir nuevas torres y
+<choice>antenas innecesarias.
+<choice>B) Consultando a los vecinos acerca de los lugares más adecuados para la
+<choice>instalación de torres y antenas.
+<choice>C) Considerando la normativa internacional para formular la Ley chilena que
+<choice>regula las emisiones de torres y antenas.
+<choice>D) Previniendo la instalación de torres y antenas en las cercanías de áreas
+<choice>especialmente sensibles para la población.
+<id_question>35.
+<prompt>De acuerdo con la Ley, ¿cuál de los siguientes casos NO es un derecho de un
+<prompt>vecino?
+<choice>A) Reclamar por una antena instalada en su barrio.
+<choice>B) Informarse sobre las antenas instaladas en su sector.
+<choice>C) Construir su casa en una zona preferente para antenas.
+<choice>D) Exigir sanciones por la instalación irregular de una antena.
+<id_question>36.
+<prompt>¿Cómo puede calificarse el rol de los ciudadanos en la Ley de Antenas?
+<choice>A) Resolutivo, pues son quienes rechazan o aceptan la instalación definitiva de
+<choice>torres y antenas.
+<choice>B) Participativo, pues pueden emitir observaciones a los proyectos de instalación
+<choice>de torres y antenas.
+<choice>C) Permisivo, pues se limitan a recibir información acerca de los proyectos de
+<choice>instalación de torres y antenas.
+<choice>D) Normativo, pues definen las multas y las obras compensatorias derivadas de
+<choice>la instalación de torres y antenas.
+<id_question>37.
+<prompt>¿Cómo puede calificarse la Ley de Antenas?
+<choice>A) Inflexible, pues considera la aplicación de sanciones y multas, frente al
+<choice>incumplimiento de la normativa de la instalación de torres y antenas.
+<choice>B) Participativa, pues contempla la opinión de los ciudadanos como el factor
+<choice>fundamental para aprobar la instalación de torres y antenas.
+<choice>C) Integral, pues involucra diversos factores para regular y minimizar el impacto de
+<choice>la instalación de torres y antenas.
+<choice>D) Restrictiva, pues plantea la prohibición de incorporar nuevas instalaciones en
+<choice>barrios que tienen torres y antenas.
+<id_question>38.
+<prompt>¿Sobre qué busca informar el texto leído?
+<choice>A) Sobre la instalación de antenas en lugares sensibles para las personas.
+<choice>B) Sobre los alcances de la nueva normativa de instalación de antenas.
+<choice>C) Sobre las etapas de implementación de la nueva Ley de Antenas.
+<choice>D) Sobre los beneficios de la Ley de Antenas para las empresas.
+<id_question>39.
+<prompt>De acuerdo con el texto, ¿qué atribución está fuera de la Ley de Antenas?
+<choice>A) Prohibir la instalación de antenas en áreas sensibles.
+<choice>B) Modificar el lugar de instalación de antenas antiguas.
+<choice>C) Controlar la cantidad de celulares asociados a una antena.
+<choice>D) Multar a empresas que incumplen los requisitos de infraestructura.
+<head_reading>LECTURA 6 (Preguntas 40 a 49)
+<reading>Fragmento de un artículo publicado en el sitio web Todo historietas: Todo sobre el
+<reading>cómic argentino e internacional. Sin fecha de publicación.
+<reading>Mafalda
+<reading>1. El 29 de septiembre de 1964 debutó oficialmente como tira “Mafalda”, en la
+<reading>revista “Primera Plana”; sin embargo, el personaje en sí había sido creado en
+<reading>1963. Según Joaquín Salvador Lavado (Quino), autor de “Mafalda”, y dueño de
+<reading>una genuina modestia, todo empezó por casualidad y sin que él se propusiera
+<reading>ninguna grandeza: «En realidad “Mafalda” iba a ser una historieta para
+<reading>promocionar una nueva línea de electrodomésticos llamada Mansfield. La
+<reading>agencia Agnes Publicidad le encargó el trabajo a Miguel Brascó, pero como él
+<reading>tenía otros compromisos, me lo pasó a mí. Esto fue en 1963. Pero la campaña
+<reading>nunca se hizo y las ocho tiras que dibujé quedaron guardadas en un cajón.
+<reading>Hasta que al año siguiente Julián Delgado, secretario de redacción de “Primera
+<reading>Plana”, me pidió una historieta. Entonces rescaté esas tiras y bueno, ahí
+<reading>empezó todo». Esta anécdota, que Quino contó muchas veces, tiene algunos
+<reading>detalles poco conocidos. Por ejemplo, el nombre del empleado de la agencia que
+<reading>le encargó la tira: el actor Norman Briski.
+<reading>2. Brascó, hoy día, recuerda: «En aquel momento ese nombre me quedó grabado,
+<reading>porque era una mezcla de mi apellido con el del dibujante Oski. Cuando me
+<reading>llamó, esta coincidencia me resultó graciosa y fui a la agencia a ver de qué se
+<reading>trataba. Querían una familia con padre, madre y dos hijos: un típico contexto
+<reading>para que aparecieran los productos. Lo que necesitaban no tenía nada que ver
+<reading>con lo que yo normalmente hacía, así que le derivé el trabajo a Quino, que en
+<reading>ese momento trabajaba conmigo». Brascó, justamente, era el director del
+<reading>suplemento de humor “Gregorio”, de la revista “Leoplán”, donde, cuando aún
+<reading>no estaba del todo definido el personaje, fueron publicadas tres tiras sueltas de
+<reading>la familia. Quino no sospechaba, cuando comenzó con el personaje, que las
+<reading>reflexiones puestas en boca de este personaje serían traducidas a 26 idiomas
+<reading>(desde el japonés, italiano y portugués, hasta el griego, francés y holandés).
+<reading>3. En el caso de Mafalda, la partera no dijo macho: el flamante personaje que con
+<reading>los años se transformaría en un estandarte de lucha por la igualdad social (en
+<reading>tiempos en que la liberación femenina aún estaba en pañales), llevaba sus
+<reading>polleras bien puestas. Quino, el creador de Mafalda, dice hoy día: «¿Por qué
+<reading>mujer? No lo sé. Al principio uno no se detiene a pensar en esas cosas». El
+<reading>dibujante tampoco se había puesto a pensar, tres décadas atrás, que las ideas
+<reading>de esta niña tan ingeniosa como irreverente, tan reflexiva como contestataria,
+<reading>iban a recorrer el mundo. Mucho menos que aunque la URSS haya
+<reading>desaparecido, lo mismo que Los Beatles y la guerra de Vietnam, el mensaje de
+<reading>Mafalda seguiría manteniendo la misma dosis de genialidad y, sobre todo, de
+<reading>actualidad. Y menos aún sospecharía lo que el escritor Julio Cortázar llegaría a
+<reading>decir de Mafalda.
+<reading>4. Luego de publicarse en la revista “Primera Plana”, pasó al diario “El Mundo” (de
+<reading>Buenos Aires) desde el día 15 de marzo de 1965. Cuando este diario cerró (el 22
+<reading>de diciembre de 1967), Mafalda y sus amigos debieron tomarse vacaciones
+<reading>durante un tiempo, con la mamá de Mafalda, Raquel, estando embarazada.
+<reading>Mientras tanto, fueron republicados en diversos diarios del interior del país.
+<reading>Durante unos seis meses no hubo tiras nuevas. Por ese entonces Quino
+<reading>realizaba una página de humor en el semanario “Siete Días Ilustrados” y la
+<reading>publicación decide reemplazarla incorporando a “Mafalda”, que aparece el 2 de
+<reading>junio de 1968.
+<reading>5. Mafalda retrató y opinó sobre eventos tales como la guerra de Vietnam, la
+<reading>carrera espacial, el movimiento tercermundista, el asesinato de Kennedy, los
+<reading>derechos humanos, el sexo, la represión, el psicoanálisis, el feminismo y la
+<reading>religión, entre otros muchos. Según opinan los expertos, con “Mafalda”, el
+<reading>género de la historieta pasó de lo social a lo psicológico. Con una exacta dosis
+<reading>de simpleza y profundidad, Mafalda se convirtió en el personaje de historieta
+<reading>que más significa hoy para los argentinos.
+<reading>6. Quino ha declarado en múltiples ocasiones que estaba sorprendido por la
+<reading>repercusión que han tenido sus dibujos en países tan diferentes a su país natal
+<reading>como Japón o Estados Unidos. Dijo, en declaraciones al diario “El Mundo” de
+<reading>España, que «Las tiras de “Mafalda” están sembradas de tópicos argentinos, y
+<reading>siempre me he preguntado cómo pueden entenderlas en otras culturas». Lo
+<reading>cierto es que con el paso del tiempo, esta historieta protagonizada por una niña
+<reading>rebelde y tierna, junto a su singular grupo de amigos, se ha convertido en
+<reading>objeto de culto, no solo en su país natal sino en muchos países alrededor del
+<reading>planeta.
+<reading>7. “Mafalda”, en cuarenta años de existencia, traspasó no solo fronteras sino
+<reading>también los estrechos márgenes de las tiras para convertirse en un personaje
+<reading>más de la realidad. Debido al gran éxito de este personaje se han hecho a lo
+<reading>largo de los años innumerables cantidades de artículos sobre ella, tales como
+<reading>muñecas, camisetas, accesorios, vasos, etc.
+<reading>8. Hace más de tres décadas, Quino dejó de dibujarla. El 25 de junio de 1973
+<reading>apareció Mafalda por última vez en una tira. Los cuadritos finales de la
+<reading>historieta fueron publicados en el semanario “Siete Días”.
+<reading>Giunta, N. (s.f.). Mafalda. Todo historietas: Todo sobre el cómic argentino e internacional.
+<reading>http://www.todohistorietas.com.ar/historiademafalda.htm
+<id_question>40.
+<prompt>¿Cuál es la importancia del actor Norman Briski para la tira cómica “Mafalda”?
+<choice>A) El actor es la persona que encomienda la creación de la tira cómica.
+<choice>B) Briski decide que Quino es el dibujante más apropiado para realizar el cómic.
+<choice>C) Briski crea el contexto propicio para la producción del cómic.
+<choice>D) El actor genera la idea que dará lugar a las temáticas tratadas por el cómic.
+<choice>E) Briski diseña la familia que promocionará la línea de electrodomésticos.
+<id_question>41.
+<prompt>¿Cuál de los siguientes enunciados expresa la idea principal del segundo párrafo?
+<choice>A) Mafalda fue creada con un propósito comercial, sin que se previera la
+<choice>popularidad que alcanzaría.
+<choice>B) Brascó recordaría siempre el nombre de Norman Briski.
+<choice>C) El creador de la tira cómica “Mafalda” iba a ser, originalmente, otro dibujante.
+<choice>D) Brascó asignó el dibujo de “Mafalda” a Quino, porque trabajaba con él y se
+<choice>ajustaba más al trabajo que él hacía.
+<choice>E) Quino dibujó una típica familia conformada por cuatro integrantes: padre, madre
+<choice>y dos hijos.
+<id_question>42.
+<prompt>Según lo señalado en el cuarto párrafo, ¿cuál de los siguientes enunciados es
+<prompt>VERDADERO?
+<choice>A) El cierre del diario “El Mundo” significó un retroceso para la popularidad de la
+<choice>tira cómica “Mafalda”.
+<choice>B) La tira cómica “Mafalda” apareció primero en la revista “Primera Plana”, luego
+<choice>en el diario “El Mundo” y, finalmente, en diversos diarios al interior del país.
+<choice>C) Para el año 1967, Guille, el hermano menor de Mafalda, ya había nacido.
+<choice>D) Después de un receso de publicación de nuevas tiras, “Mafalda” reaparece
+<choice>en el año 1968, en “Siete Días Ilustrados”.
+<choice>E) La tira cómica “Mafalda” estuvo seis meses sin aparecer en ningún medio de
+<choice>comunicación masiva.
+<id_question>43.
+<prompt>Según lo indicado en el quinto párrafo, el personaje de Mafalda es una niña
+<choice>A) que habla sobre la cotidianidad del mundo.
+<choice>B) profundamente crítica frente a temas políticos.
+<choice>C) que comenta variados temas de la contingencia de la época.
+<choice>D) creada para proponer temas novedosos para Latinoamérica.
+<choice>E) que expone un pensamiento liberal y una filosofía marcadamente social.
+<id_question>44.
+<prompt>De la lectura del quinto párrafo, se concluye que la tira cómica “Mafalda”
+<choice>A) incorporó simpleza y profundidad al cómic social.
+<choice>B) revolucionó las temáticas del cómic tradicional.
+<choice>C) participó de varios acontecimientos internacionales.
+<choice>D) restó seriedad a eventos de relevancia, como las guerras.
+<choice>E) ironizó respecto de la vida cotidiana de los argentinos.
+<id_question>45.
+<prompt>¿Qué relación se establece entre los tres primeros párrafos del texto leído y los
+<prompt>tres párrafos siguientes?
+<prompt>Los párrafos uno, dos y tres Los párrafos cuatro, cinco y seis
+<choice>A) describen las experiencias señalan la influencia que “Mafalda”
+<choice>personales de quienes ha tenido a nivel mundial.
+<choice>intervinieron en la creación de
+<choice>“Mafalda”.
+<choice>B) caracterizan el proceso creativo analizan la vigencia de la tira cómica
+<choice>que dio origen a “Mafalda”. “Mafalda” en diversos medios de
+<choice>comunicación.
+<choice>C) relatan el proceso de gestación de refieren las etapas de publicación de
+<choice>“Mafalda”. “Mafalda” y los alcances de la tira
+<choice>cómica.
+<choice>D) narran cómo Quino se transformó examinan cómo el personaje y la tira
+<choice>en el autor de “Mafalda”. cómica “Mafalda” han impactado en
+<choice>su autor.
+<choice>E) establecen la relación entre explican cómo Quino y “Mafalda” se
+<choice>“Mafalda” y la publicidad. apartan de los propósitos originales
+<choice>del cómic.
+<id_question>46.
+<prompt>De la lectura del sexto párrafo, es correcto inferir que las tiras de “Mafalda”
+<choice>A) mantienen su vigencia en el tiempo debido a la ternura y a la rebeldía que
+<choice>caracterizan al personaje.
+<choice>B) han modificado tópicos propios de países muy diferentes a Argentina, como
+<choice>Japón o Estados Unidos.
+<choice>C) abordan temáticas localistas desde una perspectiva ingenua pero rebelde, lo
+<choice>que asegura su éxito en otros países.
+<choice>D) poseen un componente universal que les permite despertar una fascinación en
+<choice>realidades y culturas diversas.
+<choice>E) expresan preocupaciones típicamente argentinas, que resultan atractivas para
+<choice>otras culturas.
+<id_question>47.
+<prompt>Con relación al éxito de la tira cómica “Mafalda”, se concluye que
+<choice>A) la influencia de la historieta instaló una nueva forma de hacer cómics.
+<choice>B) la popularidad del dibujante trascendió mundialmente gracias a la creatividad de
+<choice>su personaje.
+<choice>C) el desarrollo del cómic “Mafalda” se debe al discurso crítico empleado por el
+<choice>personaje.
+<choice>D) la historieta evolucionó más allá de la publicidad debido al actor Norman Briski.
+<choice>E) “Mafalda” trascendió las fronteras culturales e ideológicas latinoamericanas.
+<id_question>48.
+<prompt>Un título adecuado para el fragmento leído es
+<choice>A) «Quino: la historia de su fama».
+<choice>B) «Influencias de “Mafalda” en el cómic internacional».
+<choice>C) «Historia de la creación de “Mafalda”».
+<choice>D) «“Mafalda”: revolución del cómic argentino».
+<choice>E) «“Mafalda”: un ejemplo prototípico del cómic argentino».
+<id_question>49.
+<prompt>¿Qué actitud manifiesta el emisor en el tratamiento del discurso?
+<choice>A) Problematizadora
+<choice>B) Reflexiva
+<choice>C) Objetiva
+<choice>D) Crítica
+<choice>E) Valorativa
+<head_reading>LECTURA 7 (Preguntas 50 a 57)
+<reading>Fragmento de un artículo de divulgación científica publicado por el Centro de Innovación
+<reading>UC el 2017.
+<reading>Suzanne Simard develó los secretos sobre la comunicación entre los árboles
+<reading>en charla magistral
+<reading>Complejas sociedades interdependientes y estructuras familiares no son
+<reading>exclusivas a la especie humana. Así lo reveló Suzanne Simard, investigadora
+<reading>canadiense de ecología forestal de la Universidad de Columbia Británica, quien
+<reading>durante más de dos décadas ha abogado por cambiar cómo entendemos a los
+<reading>bosques. Y es que los árboles que los componen no son plantas estrictamente
+<reading>inertes, sino que conforman redes vinculadas estrechamente con la vida de la
+<reading>flora vecina. En el núcleo de este descubrimiento, con el que Simard revolucionó
+<reading>la comunidad científica en 1997 mediante la revista Nature, están las micorrizas,
+<reading>una relación simbiótica entre las extensas raíces de los árboles y hongos que
+<reading>conviven en los bosques.
+<reading>Mediante esta conexión, distintas especies intercambian nutrientes de manera
+<reading>dinámica: a los árboles, los hongos le entregan minerales y agua, mientras que los
+<reading>hongos obtienen vitaminas y carbono, nutrientes que no podrían sintetizar por su
+<reading>cuenta. Vale destacar que este intercambio bidireccional no se limita únicamente
+<reading>a una pareja de planta y hongo, sino que se extiende a múltiples conexiones con
+<reading>otros árboles. Es así como, a través de las redes micorrizas, los árboles son partes
+<reading>de un complejo tejido subterráneo que contribuye a la subsistencia del ecosistema
+<reading>forestal. En un bosque, un solo árbol puede estar conectado con centenares de
+<reading>otros para compartir nitrógeno, agua, carbono y fósforo.
+<reading>Por lo demás, como distintas especies tienen diferentes etapas de crecimiento,
+<reading>dicha relación simbiótica permite a árboles en etapas más infantiles acceder a
+<reading>nutrientes recaudados por una planta más desarrollada y con un follaje más
+<reading>maduro. Así, los árboles más antiguos son los que han tenido más tiempo para
+<reading>vincular sus raíces con el resto de la red, volviéndose nodos instrumentales para
+<reading>el crecimiento de plantas más jóvenes. Midiendo rastreadores de isótopos, los
+<reading>primeros experimentos de Simard demostraron que, por medio de las micorrizas,
+<reading>distintas especies (como abetos y abedules) envían carbono a sus vecinos cuando
+<reading>estos -dependiendo de la época- no tenían hojas. «Es una conversación entre
+<reading>individuos de un ecosistema», explicaría Simard en su ponencia.
+<reading>Otro descubrimiento hecho por el equipo de Simard es que, dada la alternativa de
+<reading>colaborar con diferentes especies, un árbol reconocerá y preferirá plantones
+<reading>germinados de su familia. «El sistema es redundante y, de esta forma, si se cortan
+<reading>algunas conexiones, la red continúa. Pero existen puntos fundamentales que
+<reading>implican un colapso mayor si son intervenidas», explicó. Además de distribuir el
+<reading>carbono excedente entre los plantones más jóvenes, los denominados «árboles
+<reading>madre» -los más viejos e interconectados de la red- incluso reducen el espacio
+<reading>acaparado por sus raíces, permitiendo que los más jóvenes también puedan
+<reading>desarrollarse bajo la tierra.
+<reading>Figura 1: Una red de árboles en un bosque de abetos de
+<reading>Canadá. Los nodos con más conexiones, graficados como
+<reading>círculos oscuros, son los árboles madre.
+<reading>Árboles madres también dan aviso de catástrofes para que el resto del ecosistema
+<reading>pueda adecuarse. Otros experimentos conducidos por la científica canadiense
+<reading>pusieron árboles bajo estrés cortando ramas e hiriendo sus raíces. El resultado,
+<reading>según Simard, es claro: cuando un árbol madre está en peligro o muere, no solo
+<reading>envía carbono a otros miembros de la red, sino que también señales químicas que
+<reading>informan sobre peligros externos. Similarmente, plantar árboles de manera
+<reading>masiva no garantiza la subsistencia del bosque, ya que individualmente -y sin
+<reading>tiempo para cultivar una red- están indefensos ante enfermedades o desastres
+<reading>naturales.
+<reading>De acuerdo a los experimentos de Simard, la probabilidad de supervivencia de
+<reading>plantones vinculados a una red es hasta cuatro veces mayor a la de un árbol
+<reading>independiente. «Este conocimiento siempre estuvo con los pueblos originarios. Lo
+<reading>ignoramos solo porque previamente no había sido publicado en una revista
+<reading>científica de prestigio. Y para resguardar la integridad del medioambiente y
+<reading>enfrentar el cambio climático, es necesario considerar todo el conocimiento
+<reading>disponible», concluyó.
+<reading>Suzanne Simard develó los secretos sobre la comunicación entre los árboles en charla magistral. Centro de
+<reading>Innovación UC. https://centrodeinnovacion.uc.cl/suzanne-simard-develo-los-secretos-la-comunicacion-los-arboles-charla-magistral/
+<id_question>50.
+<prompt>Según el primer párrafo, ¿cuál es el objetivo de las investigaciones de Suzanne
+<prompt>Simard?
+<choice>A) Demostrar la importancia de las micorrizas.
+<choice>B) Estudiar la relación entre árboles y hongos.
+<choice>C) Promover el cuidado de la ecología forestal.
+<choice>D) Ofrecer una nueva visión acerca de los bosques.
+<id_question>51.
+<prompt>¿Cuál es la función principal que cumplen las micorrizas?
+<choice>A) Intercambiar nutrientes entre distintas especies de un bosque.
+<choice>B) Enviar señales químicas que informan sobre peligros externos.
+<choice>C) Reducir el espacio acaparado por las raíces de los árboles madre.
+<choice>D) Reconocer plantones germinados de una misma familia de árboles.
+<id_question>52.
+<prompt>Según lo planteado en el fragmento leído, ¿qué tipo de relación se establece entre
+<prompt>árboles y hongos?
+<choice>A) De conveniencia porque uno saca provecho del otro.
+<choice>B) De dependencia porque uno necesita del otro para sobrevivir.
+<choice>C) De colaboración porque ambos se benefician de manera recíproca.
+<choice>D) De protección porque ambos se resguardan de amenazas externas.
+<id_question>53.
+<prompt>¿Qué se pudo demostrar mediante el rastreo de isótopos?
+<choice>A) Que los árboles son capaces de intercambiar nutrientes entre sí.
+<choice>B) Que los árboles prefieren vincularse con miembros de su misma especie.
+<choice>C) Que los árboles más viejos se encargan de nutrir a las nuevas generaciones.
+<choice>D) Que los árboles pueden mantener sus redes a pesar del corte de algunas
+<choice>conexiones.
+<id_question>54.
+<prompt>¿De qué manera la Figura 1 permite comprender los vínculos que forman los
+<prompt>árboles?
+<choice>A) Presenta el carácter bidireccional de las redes micorrizas de un bosque.
+<choice>B) Exhibe la forma en que se realiza el intercambio de nutrientes entre los
+<choice>árboles de una red.
+<choice>C) Expone el predominio de árboles madre por sobre los árboles más jóvenes de
+<choice>una red.
+<choice>D) Muestra las múltiples conexiones que se pueden establecer entre las especies
+<choice>de un bosque.
+<id_question>55.
+<prompt>Según lo mencionado en el fragmento leído, ¿con qué objetivo un árbol madre
+<prompt>envía señales químicas a otros árboles?
+<choice>A) Para configurar la red de micorrizas.
+<choice>B) Para comunicar sobre peligros externos.
+<choice>C) Para nutrir a plantas menos desarrolladas.
+<choice>D) Para reconocer a individuos de su misma especie.
+<id_question>56.
+<prompt>En el último párrafo, ¿a quién está dirigida la crítica que realiza Suzanne Simard?
+<choice>A) A la especie humana por su responsabilidad en la generación del cambio
+<choice>climático.
+<choice>B) A los pueblos originarios por evitar compartir sus conocimientos con otras
+<choice>comunidades.
+<choice>C) A los investigadores por publicar sus descubrimientos únicamente en revistas de
+<choice>prestigio.
+<choice>D) A la comunidad científica por desestimar el conocimiento generado por culturas
+<choice>ancestrales.
+<id_question>57.
+<prompt>¿De qué manera la Figura 1 contribuye a la comprensión del fragmento leído?
+<choice>A) Explica las complejas redes micorrizas de un bosque de abetos.
+<choice>B) Enfatiza la importancia de los «árboles madre» para el ecosistema.
+<choice>C) Demuestra la escasez de «árboles madre» en un bosque canadiense.
+<choice>D) Ejemplifica el inminente colapso de un bosque de abetos intervenido.
+<head_reading>LECTURA 8 (Preguntas 58 a 65)
+<reading>Fragmento de la novela Martín Rivas de Alberto Blest Gana. Publicada por primera vez
+<reading>en 1862.
+<reading>Martín Rivas
+<reading>1. En 1850 la pila de la plaza no estaba rodeada de un hermoso jardín como en
+<reading>el día, ni presentaba al transeúnte que se detenía a mirarla más asiento que
+<reading>su borde de losa, ocupado siempre en la noche por gente del pueblo. Entre
+<reading>estos se veían corrillos de oficiales de zapatería que ofrecían un par de botines
+<reading>o de botas a todo el que por allí pasaba a esas horas.
+<reading>2. Martín, llevado de la curiosidad de ver la pila, se dirigió de la esquina de la
+<reading>calle Monjitas, en donde se había detenido a contemplar la plaza, por el medio
+<reading>de ella. Al llegar a la pila, y cuando fijaba la vista en las dos figuras de mármol
+<reading>que la coronaban, un hombre se acercó a él, diciéndole:
+<reading>3. –Un par de botines de charol, patrón.
+<reading>4. Estas palabras despertaron en su memoria el recuerdo del lustroso calzado de
+<reading>Agustín y sus recientes ideas que le habían hecho salir de la casa. Pensó que
+<reading>con un par de botines de charol haría mejor figura en la elegante familia que
+<reading>lo admitía en su seno; era joven y no se arredró con esta consideración ante la
+<reading>escasez de su bolsillo. Detúvose mirando al hombre que le acababa de dirigir
+<reading>la palabra, y este, que ya se retiraba, volvió al instante hacia él.
+<reading>5. –A ver los botines –dijo Martín.
+<reading>6. –Aquí están, patroncito –contestó el hombre, mostrándole el calzado cuyos
+<reading>reflejos acabaron de acallar los escrúpulos del joven.
+<reading>7. –Vea –añadió el vendedor, tendiendo un pañuelo al borde de la pila –, siéntese
+<reading>aquí y se los prueba.
+<reading>8. Rivas se sentó lleno de confianza y se despojó de su tosco botín, tomando uno
+<reading>de los que el hombre le presentaba. Mas no fue pequeño su asombro cuando,
+<reading>al hacer esfuerzos para meter el pie, se vio rodeado de seis individuos, de los
+<reading>cuales cada uno le ofreció un par de calzado, hablándole todos al mismo
+<reading>tiempo. Martín, más confuso que el capitán de la ronda cuando se ve rodeado
+<reading>de los que encuentra en casa de don Bartolo, en “El Barbero de Sevilla”, oía
+<reading>las distintas voces y forcejeaba en vano para entrar el botín.
+<reading>9. –Vea, patrón, estos le están mejor –le decía uno.
+<reading>10. –Póngase estos, señor; vea qué trabajo; de lo fino no más –añadía otro,
+<reading>colocándole un par de botines bajo las narices.
+<reading>11. –Aquí tiene unos pa toa la vía –le murmuraba un tercero al oído.
+<reading>12. Y los demás hacían el elogio de su mercancía en parecidos términos,
+<reading>confundiendo al pobre mozo con tan extraña manera de vender.
+<reading>13. El primer par fue desechado por estrecho, el segundo por ancho, y por muy
+<reading>caro el tercero.
+<reading>14. Entretanto, el número de zapateros había aumentado considerablemente en
+<reading>derredor del joven, que, cansado de la porfiada insistencia de tanto vendedor
+<reading>reunido, se puso su viejo botín y se incorporó diciendo que compraría en otra
+<reading>ocasión. En el instante vio tornarse en áspero lenguaje la oficiosidad con que
+<reading>un minuto hacía le acosaban y oyó al primero de los vendedores decirle:
+<reading>15. –Si no tiene ganas de comprar, ¿pa qué está embromando?
+<reading>16. Y a otro añadir, como por vía de apéndice a lo de este:
+<reading>17. –Pal caso, que tal vez ni tiene plata.
+<reading>18. Y luego un tercero replicar:
+<reading>19. –¡Y como que tiene traza de futre pobre, hombre!
+<reading>Blest Gana, A. (2013). Martín Rivas. Zig-Zag.
+<id_question>58.
+<prompt>La función del primer párrafo es
+<choice>A) describir con detalle los elementos del espacio físico donde se va a desarrollar la
+<choice>narración.
+<choice>B) presentar el lugar y el tiempo de la narración, así como el ambiente que se vive
+<choice>antes de la llegada del protagonista.
+<choice>C) explicar las características sociales de la época para entender mejor los hechos
+<choice>posteriores.
+<choice>D) destacar a los personajes que más adelante participarán en el conflicto central
+<choice>del relato.
+<choice>E) informar cuáles son las fuerzas en conflicto al inicio de la narración, teniendo
+<choice>como eje la pila de la plaza.
+<id_question>59.
+<prompt>A partir del fragmento leído, se infiere que los personajes
+<choice>A) valoran a las personas de acuerdo a los modales con que actúan.
+<choice>B) se relacionan entre sí buscando la aceptación de los demás.
+<choice>C) desean mejorar su posición social a través del uso de accesorios.
+<choice>D) se valen de la apariencia para determinar el nivel social de las personas.
+<choice>E) actúan movidos por el interés y el deseo de lograr sus objetivos.
+<id_question>60.
+<prompt>Las ideas principales del primer y del segundo párrafo, respectivamente, son:
+<prompt>Primer párrafo: Segundo párrafo:
+<choice>A) El pueblo que visita la plaza. La entrada de Martín a la plaza.
+<choice>B) La insistencia de los vendedores de La curiosidad que caracteriza a
+<choice>zapatos. Martín.
+<choice>C) El centro de la ciudad en 1850. El personaje que llega a la ciudad.
+<choice>D) Los personajes de la pila de la El protagonista y los vendedores de
+<choice>plaza. zapatos.
+<choice>E) El ambiente en la pila de la plaza. La aparición del protagonista.
+<id_question>61.
+<prompt>“Estas palabras despertaron en su memoria el recuerdo del lustroso
+<prompt>calzado de Agustín y sus recientes ideas que le habían hecho salir de la
+<prompt>casa. Pensó que con un par de botines de charol haría mejor figura en la
+<prompt>elegante familia que lo admitía en su seno; era joven y no se arredró con
+<prompt>esta consideración ante la escasez de su bolsillo. Detúvose mirando al
+<prompt>hombre que le acababa de dirigir la palabra, y este, que ya se retiraba,
+<prompt>volvió al instante hacia él”.
+<prompt>Del párrafo anterior, se infiere que Martín
+<choice>A) mantiene una rivalidad con Agustín.
+<choice>B) se siente disminuido socialmente.
+<choice>C) valora las apariencias más que el ser.
+<choice>D) se deja atraer por las novedades.
+<choice>E) esconde la humildad de su origen.
+<id_question>62.
+<prompt>“–Aquí están, patroncito –contestó el hombre, mostrándole el calzado cuyos
+<prompt>reflejos acabaron de acallar los escrúpulos del joven”.
+<prompt>Considerando la totalidad del fragmento leído, el segmento subrayado se interpreta
+<prompt>adecuadamente como
+<choice>A) “la limpieza del cuero hizo que Martín odiara sus viejos botines”.
+<choice>B) “el reflejo de su propia imagen en el charol del zapato entusiasmó a Martín”.
+<choice>C) “el brillo del zapato hizo olvidar a Martín que contaba con poco dinero”.
+<choice>D) “el sol reflejado en el zapato lo hacía lucir más brillante de lo que era”.
+<choice>E) “los destellos del cuero vencieron la timidez de Martín y le habló al vendedor”.
+<id_question>63.
+<prompt>La idea central del párrafo octavo es
+<choice>A) la influencia de la moda en un joven que quiere impresionar a los demás.
+<choice>B) el contraste entre la sencillez del calzado de Martín y la elegancia de los que le
+<choice>ofrecen.
+<choice>C) el deseo del protagonista de comprar un zapato nuevo aunque no le calce.
+<choice>D) la insistencia de los vendedores a pesar del poco interés que demuestra Martín.
+<choice>E) la confusión del protagonista frente al asedio de los vendedores de zapatos.
+<id_question>64.
+<prompt>La amabilidad inicial de los oficiales de zapatería hacia Martín se transforma en
+<choice>A) desprecio cuando se dan cuenta de que finalmente no compra nada.
+<choice>B) rabia, pues terminan enojados entre sí por la calidad del zapato.
+<choice>C) desconfianza al momento de ver que es un falso comprador.
+<choice>D) rivalidad por tratar de ofrecer el mejor de sus productos.
+<choice>E) burla, porque piensan que es un hombre rústico, sin educación.
+<id_question>65.
+<prompt>Un título adecuado para el fragmento leído es
+<choice>A) «La ira de los zapateros contra Martín».
+<choice>B) «Las novedades de la plaza en 1850».
+<choice>C) «Una mala experiencia al comprar zapatos».
+<choice>D) «Los zapateros y su valiosa mercancía».
+<choice>E) «Unos viejos botines usados por Martín».
