@@ -20,5 +20,8 @@ pip install -r requirements.txt
 ## API Key
 Para que tu experimento funcione, debes asegurarte de crear una API Key en OpenAI siguiende los pasos que aparecen en este [link](https://platform.openai.com/docs/quickstart/add-your-api-key?ref=evoacademy.cl). La API Key que generes debes copiarla en el archivo *key.txt*. Sin este paso, el llamado a la API no funcionara.
 
+## Prompts para [chat.open](https://chat.openai.com/chat)
+Si deseas hacer la prueba directo en ChatGPT usando la interfaz creada por OpenAI, puedes explorar los prompts en la carpeta [prompts](https://github.com/jovasque156/chatgpt_paes/tree/main/ensayos). Hemos generado archivos planos con los prompts separados por los caracteres ----, que consideran el largo máximo de texto que puedes ingresar en el chat.
+
 ## Contacto
 Además de levantar issues o generar un pull requests, puedes usar este [formulario](https://www.evoacademy.cl/contacto/) para contactarnos ante cualquier inquietud.
