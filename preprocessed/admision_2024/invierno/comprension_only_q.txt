@@ -1,0 +1,1301 @@
+<head_reading>LECTURA 1 (Preguntas 1 a 9)
+<reading>Artículo publicado en el sitio del Consejo de Monumentos Nacionales de Chile,
+<reading>consultado el 2021.
+<reading>HUMBERSTONE Y SANTA LAURA
+<reading>Las oficinas salitreras Humberstone y Santa Laura se encuentran ubicadas en el
+<reading>desierto del norte grande de Chile, a 47 km del puerto de Iquique, región de
+<reading>Tarapacá. En este árido ambiente se procesó industrialmente el mayor
+<reading>yacimiento de salitre del mundo.
+<reading>Distantes entre sí por 1.5 km, estas oficinas comparten una historia similar ligada a la
+<reading>explotación del llamado “oro blanco”, desde el último cuarto del siglo XIX. Este tipo de
+<reading>explotación se basó en el desarrollo de unidades productivas dispersas en el territorio
+<reading>nortino, la técnica de explotación del salitre fue evolucionando hasta la consolidación
+<reading>del sistema llamado Shanks ‒ambas oficinas la utilizaron‒ lo que permitió mejorar el
+<reading>volumen de extracción de la mano de la inversión extranjera en nuestro país. Con ello
+<reading>se atrajo mayor cantidad de población trabajadora y a sus familias.
+<reading>Construidas en 1872, y con diversos cambios de propietarios, estas oficinas abrieron o
+<reading>paralizaron sus faenas de acuerdo al ritmo de los mercados internacionales,
+<reading>especialmente a partir de la crisis de 1914 y las que le sucedieron (1929). Su cierre
+<reading>definitivo ocurrió a fines de la década de 1950.
+<reading>El saqueo, las demoliciones y la falta de mantenimiento y conservación, antes de su
+<reading>inclusión en la Lista del Patrimonio Mundial, las han comprometido y es por ello que el
+<reading>bien está en la Lista en Peligro desde su inscripción en 2005. Esto permite que con
+<reading>cargo al Fondo de Patrimonio Mundial se le asigne inmediatamente asistencia de
+<reading>emergencia al bien amenazado, entre otras medidas.
+<reading>Hoy constituyen un conjunto integral y representativo del fenómeno del salitre y las
+<reading>formas de trabajo y vida que este generó. Humberstone conserva principalmente su
+<reading>campamento y Santa Laura su área industrial, permitiéndonos así conocer cabalmente
+<reading>la naturaleza de la explotación del nitrato (instalaciones, infraestructura energética,
+<reading>diseño urbano) y los distintos aspectos de la vida cotidiana asociada a la industria
+<reading>(edificaciones habitacionales, espacios públicos, edificios de uso comunitario, etc.). Por
+<reading>lo anterior, el sitio reconocido por la Convención se circunscribe “a la categoría del
+<reading>patrimonio industrial en particular, que en su esencia es tanto arqueológico como
+<reading>histórico”.
+<reading>Los Criterios de Valor Universal Excepcional por los cuales estas salitreras forman
+<reading>parte de los Sitios del Patrimonio Mundial de la UNESCO son múltiples. Uno de ellos
+<reading>se vincula con el modo en que el desarrollo de la industria salitrera refleja el
+<reading>conocimiento, habilidades, tecnología e inversión financiera de una comunidad diversa
+<reading>de inmigrantes, provenientes de Sudamérica y Europa, que hicieron de esta industria
+<reading>un complejo espacio de intercambio cultural (Criterio ii).
+<reading>Por otro lado, los yacimientos del salitre y sus asentamientos industriales necesarios
+<reading>para su conformación y funcionamiento, se desarrollaron hasta el punto de convertirse
+<reading>en una comunidad urbana extensiva y muy particular, con su propio lenguaje,
+<reading>organización, costumbres y expresiones creativas, además de desplegar su
+<reading>emprendimiento técnico. De este modo las dos salitreras son huellas de una cultura
+<reading>distintiva (Criterio iii).
+<reading>Asimismo, todas las salitreras en su conjunto son parte de una transformación
+<reading>industrial y económica muy importante, que Humberstone y Santa Laura representan.
+<reading>Estas se convirtieron ‒durante un periodo específico de la historia nacional‒ en los
+<reading>mayores productores de salitre natural del mundo, transformando la pampa e
+<reading>indirectamente las tierras agrícolas que se beneficiaron con el fertilizante que ellas
+<reading>producían (Criterio iv).
+<reading>CONSERVACIÓN Y MANEJO
+<reading>Datos del Patrimonio
+<reading>Nº 1178, inscrito en la Lista del Patrimonio Mundial y en la Lista en Peligro el 2005
+<reading>Monumentos Históricos, Decreto Supremo Nº 320, 1970
+<reading>Link Unesco: http://whc.unesco.org/en/list/1178/
+<reading>Consejo de Monumentos Nacionales de Chile. (s.f.). Humberstone y Santa Laura.
+<reading>https://www.monumentos.gob.cl/patrimonio-mundial/lista-actual/humberstone-santa-laura
+<id_question>1.
+<prompt>¿Cuál fue el factor decisivo en el cierre de las oficinas de Humberstone y Santa
+<prompt>Laura?
+<choice>A) La dispersión de las unidades productivas.
+<choice>B) El ritmo de los mercados internacionales.
+<choice>C) La falta de un propietario permanente.
+<choice>D) El inestable desarrollo de las faenas.
+<id_question>2.
+<prompt>¿En qué se diferencian las oficinas de Humberstone y Santa Laura?
+<choice>A) En el método de producción.
+<choice>B) En la clase de mantenimiento.
+<choice>C) En el tipo de espacio que se conserva.
+<choice>D) En la fecha en que fueron construidas.
+<id_question>3.
+<prompt>Según el texto, ¿qué originó el aumento de la población trabajadora en las
+<prompt>salitreras?
+<choice>A) La explotación del llamado “oro blanco”.
+<choice>B) La distancia que separaba a las oficinas.
+<choice>C) La mejora en los volúmenes de extracción.
+<choice>D) La llegada de las familias a los campamentos.
+<id_question>4.
+<prompt>Según la UNESCO, ¿por qué Humberstone y Santa Laura cumplen con el
+<prompt>Criterio iii?
+<choice>A) Porque simbolizan una importante transformación en el ámbito industrial.
+<choice>B) Porque reflejan el complejo espacio del intercambio cultural.
+<choice>C) Porque representan una serie de costumbres sociales.
+<choice>D) Porque son huella de una cultura distintiva.
+<id_question>5.
+<prompt>Según el texto, ¿por qué estas salitreras eran un espacio de intercambio
+<prompt>cultural?
+<choice>A) Por la zona geográfica en que se encontraban las salitreras.
+<choice>B) Por el origen diverso de quienes estaban vinculados a las salitreras.
+<choice>C) Por la tecnología empleada en las salitreras para extraer el mineral.
+<choice>D) Por el contacto con las tierras agrícolas que circundaban a las salitreras.
+<id_question>6.
+<prompt>¿Qué valoración prima en el Criterio iv de este Patrimonio Mundial?
+<choice>A) Su importancia histórica.
+<choice>B) Su importancia arqueológica.
+<choice>C) Su importancia industrial y económica.
+<choice>D) Su importancia cultural e intercultural.
+<id_question>7.
+<prompt>¿De qué se trata el texto leído?
+<choice>A) De las razones que llevaron a considerar a Humberstone y Santa Laura
+<choice>como Sitios de Patrimonio Mundial de la UNESCO.
+<choice>B) De la preocupación de la UNESCO por conservar Humberstone y Santa
+<choice>Laura debido a su riqueza histórica y arqueológica.
+<choice>C) De las diversas causas económicas y tecnológicas que produjeron el auge y
+<choice>caída de Humberstone y Santa Laura.
+<choice>D) De la particularidad cultural que tuvieron Humberstone y Santa Laura en
+<choice>cuanto a su complejidad y diversidad.
+<id_question>8.
+<prompt>A partir del texto, ¿qué representan hoy las oficinas de Humberstone y Santa
+<prompt>Laura?
+<choice>A) Un reflejo integral del fenómeno cultural que significó la industria salitrera.
+<choice>B) Un reconocimiento tardío al valor patrimonial que poseen las oficinas salitreras.
+<choice>C) Una mirada idealizada de la forma de vida que caracterizó a la minería de la
+<choice>época.
+<choice>D) Una denuncia implícita sobre el descuido en la mantención de lugares
+<choice>patrimoniales.
+<id_question>9.
+<prompt>¿Qué elemento presente en el texto refuerza la importancia de las salitreras
+<prompt>como Patrimonio Mundial de la Humanidad?
+<choice>A) La exposición inicial acerca de la historia y relevancia económica de las
+<choice>salitreras.
+<choice>B) La incorporación del apartado “CONSERVACIÓN Y MANEJO” con respecto
+<choice>al reconocimiento mencionado.
+<choice>C) La alusión a la normativa legal chilena en conjunción con la UNESCO:
+<choice>Monumentos Históricos, Decreto Supremo Nº 320, 1970.
+<choice>D) La explicación de los Criterios de Valor Universal Excepcional que se
+<choice>consideran para ser parte de los Sitios del Patrimonio Mundial.
+<head_reading>LECTURA 2 (Preguntas 10 a 17)
+<reading>Fragmento del artículo de Kristin Skoog, publicado el 2020.
+<reading>Las mujeres y la radio:
+<reading>en plena sintonía
+<reading>En un contexto sonoro en el que los hombres han predominado durante largo
+<reading>tiempo, las mujeres tardaron un poco en labrarse un nicho profesional. Pero en
+<reading>su función de oyentes asiduas desde los orígenes de la radiodifusión, las
+<reading>mujeres han contribuido a moldear la historia de este medio de comunicación.
+<reading>Kristin Skoog
+<reading>Desde el decenio de 1920, cuando comenzó a llegar a los hogares, la radio ofrece a las
+<reading>mujeres un espacio que les permite hacerse oír, tanto en sentido recto como figurado,
+<reading>en un contexto sonoro ampliamente dominado por los hombres. La radio ha acercado,
+<reading>ha creado vínculos y ha difuminado las fronteras entre la esfera pública y la privada, al
+<reading>dirigirse por igual a amas de casa, trabajadoras, consumidoras y ciudadanas. En
+<reading>muchos países, la irrupción de la radio en el ámbito doméstico coincidió también con la
+<reading>obtención del derecho de sufragio para las mujeres.
+<reading>Historias olvidadas
+<reading>En la actualidad se realizan cada vez más investigaciones históricas sobre el tema. Los
+<reading>estudios (que examinan la situación en Argentina, Australia, Alemania, Estados Unidos,
+<reading>Turquía o Suecia) han recuperado el papel de la mujer en la historia de la radiodifusión.
+<reading>Esos trabajos han permitido actualizar relatos sobre temas que habían sido marginados
+<reading>y a menudo silenciados. Asimismo, han señalado los principales cambios que se han
+<reading>producido en la programación destinada a las mujeres, en particular las redefiniciones
+<reading>sucesivas del controvertido concepto de “sujetos femeninos”, y han puesto de relieve
+<reading>los debates sobre las opiniones de las mujeres, tanto en la radio como fuera de ella.
+<reading>Esos estudios muestran de qué manera esa relación ha evolucionado a la par de los
+<reading>procesos de democratización y modernización.
+<reading>Fuente: Consejo Superior del
+<reading>Audiovisual 2019.
+<reading>Tanto en su función de oyentes como de profesionales de la radio, las mujeres han
+<reading>desempeñado un papel esencial en el desarrollo general del medio y en las prácticas
+<reading>de radiodifusión, sobre las que han influido de manera notable. Diversos formatos y
+<reading>tipos de programas que hoy se consideran evidentes, en particular las series
+<reading>dramáticas o “culebrones” y los debates, fueron concebidos inicialmente para una
+<reading>audiencia femenina. En Estados Unidos, durante el decenio de 1930, cuando
+<reading>predominaba la radio comercial, las oyentes desempeñaban una función importante en
+<reading>calidad de consumidoras, por lo que se convirtieron en destinatarias preferentes de
+<reading>anunciantes y patrocinadores.
+<reading>Incluso los programas diurnos llegaron a denominarse “femeninos” y los culebrones
+<reading>radiofónicos pronto se impusieron en las ondas. Según Michele Hilmes, profesora de
+<reading>estudios mediáticos y culturales y especialista de la radio en Estados Unidos, los
+<reading>culebrones se transformaron rápidamente en espacios destinados a la mujer. Hilmes
+<reading>asegura que, “al amparo de la luz”, esos programas comenzaron a abordar los
+<reading>problemas y las preocupaciones a los que se enfrentaban las mujeres estadounidenses
+<reading>en los decenios de 1930 y 1940.
+<reading>En el formato de revista radiofónica se puede constatar una evolución análoga. El
+<reading>programa británico Woman’s Hour1, que la BBC emitió en 1946, estaba dirigido
+<reading>principalmente a las amas de casa. Esta transmisión, que al principio hizo hincapié en
+<reading>la función y las responsabilidades domésticas de las mujeres, evolucionó rápidamente
+<reading>hacia el examen de sus derechos políticos y sociales. En poco tiempo, Woman’s Hour
+<reading>abordó, por ejemplo, temas delicados y tabúes como la menopausia o las relaciones
+<reading>sexuales en el matrimonio.
+<reading>“Desde el decenio de
+<reading>1920 la radio ofrece a
+<reading>las mujeres un espacio
+<reading>que les permite hacerse
+<reading>oír, tanto en sentido
+<reading>recto como figurado”
+<reading>Fuente: RTDNA/Hofstra
+<reading>University Newsroom
+<reading>Survey 2018.
+<reading>Reporteras y pioneras
+<reading>Las mujeres contribuyeron también a la creación de nuevos formatos, en particular los
+<reading>programas de temática social. Aquí cabe citar, por ejemplo, a Olive Shapley (1910-
+<reading>1999), que en 1934 se incorporó a la BBC, donde tuvo a su cargo la emisión Children’s
+<reading>Hour2. La depresión de la década de 1930 había sumido en la pobreza a numerosas
+<reading>regiones del Reino Unido, especialmente en la zona de Manchester. Shapley utilizó las
+<reading>camionetas de grabación móvil para recorrer la región y entrevistar a los vecinos en
+<reading>sus hogares, en la calle o en los centros de trabajo. Sus grabaciones eran
+<reading>vanguardistas, tanto desde el punto de vista técnico como del temático. Poco antes de
+<reading>la Segunda Guerra Mundial, la periodista produjo una emisión que llevó por título
+<reading>Miners’ Wives3 en la que se examinaba el estilo de vida de las mujeres en dos pueblos
+<reading>1 La Hora de la Mujer.
+<reading>2 La Hora de los Niños.
+<reading>3 Las Esposas de los Mineros.
+<reading>mineros, uno en el condado de Durham (Reino Unido) y otro cercano a Béthune
+<reading>(Francia). Durante la guerra, este programa fue traducido y difundido por el servicio
+<reading>francés de la BBC.
+<reading>También durante ese conflicto bélico hicieron su aparición las primeras mujeres
+<reading>corresponsales de guerra. La periodista estadounidense Betty Wason (1912-2001) viajó
+<reading>inicialmente a Europa por cuenta de Transradio Press Service, una agencia que
+<reading>proporcionaba informaciones a las emisoras de radio. A continuación, Wason fue
+<reading>contratada por la CBS, que le asignó una corresponsalía en el frente noruego y luego la
+<reading>envió a cubrir los combates en Grecia. Pero muy pronto le pidieron que buscara a un
+<reading>hombre que leyera sus reportajes ante el micrófono. En aquella época se consideraba
+<reading>que la voz femenina no era adecuada para ese tipo de información. Años después,
+<reading>Betty Wason comentaría: “Los jefes decían que las mujeres no transmitíamos autoridad
+<reading>suficiente o que no teníamos las competencias necesarias para abordar temas
+<reading>profundos”.
+<reading>Audrey Russell (1906-1989) fue otra pionera de la radio: primera corresponsal de
+<reading>guerra de la BBC, realizó reportajes y entrevistas entre 1941 y 1945. Russell se
+<reading>interesó primordialmente por las vivencias de la población civil durante el conflicto, en
+<reading>particular por el impacto de los obuses de artillería lanzados contra Douvres y
+<reading>Folkestone. Pero su condición de mujer le impidió informar sobre lo que ocurría en el
+<reading>frente de lucha, un terreno que entonces estaba reservado a sus colegas masculinos. A
+<reading>pesar de los obstáculos con que tropezaron, tanto Betty Wason como Audrey Russell
+<reading>pusieron en tela de juicio un espacio dominado por la voz de los hombres […].
+<reading>En este aspecto, RadiOrakel, creada en
+<reading>La radio y la UNESCO, historia de
+<reading>octubre de 1982 en Oslo (Noruega), se
+<reading>una afinidad duradera
+<reading>presenta a menudo como la primera
+<reading>estación de radio feminista del mundo.
+<reading>En la primera reunión de la
+<reading>Esta emisora se asignó la misión de
+<reading>Conferencia General de la
+<reading>instruir a las mujeres en ámbitos como el
+<reading>UNESCO, celebrada en 1946, ya
+<reading>periodismo radial y la ingeniería de
+<reading>se abordó el tema de la radio.
+<reading>sonido. Con esta perspectiva, RadiOrakel
+<reading>Julian Huxley, el que era entonces
+<reading>apoya activamente la realización de
+<reading>Director General de la
+<reading>entrevistas a mujeres y por mujeres. La
+<reading>Organización, la definió como “un
+<reading>música que la planta difunde debe estar
+<reading>instrumento capaz de traspasar las
+<reading>compuesta o interpretada por mujeres, en
+<reading>barreras nacionales, allí donde
+<reading>una proporción no inferior al 50 %.
+<reading>otros medios informativos estarían
+<reading>condenados al fracaso”, o sea, el
+<reading>Las estaciones de radio comunitarias
+<reading>vector ideal para promover la paz y
+<reading>ofrecen también un espacio importante
+<reading>la comprensión mutua entre los
+<reading>para la consecución de la autonomía
+<reading>pueblos.
+<reading>femenina. Estas emisoras, que con
+<reading>frecuencia se consideran el “tercer
+<reading>Liviana, portátil y capaz de
+<reading>modelo” de radio, porque constituyen una
+<reading>prescindir de la conexión con la red
+<reading>alternativa a la radio pública y la
+<reading>eléctrica, la radio desempeña
+<reading>comercial, suelen operar sin fines
+<reading>también una función clave en
+<reading>lucrativos, están gestionadas por
+<reading>periodos posteriores a conflictos
+<reading>voluntarios y sirven a las necesidades de
+<reading>armados o desastres naturales. La
+<reading>las comunidades locales, a menudo son
+<reading>UNESCO lleva más de 70 años
+<reading>vistas con desdén por los medios de
+<reading>promoviendo este medio
+<reading>comunicación tradicionales. Como ha
+<reading>informativo, cercano al público por
+<reading>señalado Caroline Mitchell, profesora
+<reading>antonomasia, que crea lazos entre
+<reading>adjunta de radio en la Facultad de arte e
+<reading>las personas, se dirige a la inmensa
+<reading>industrias creativas de la Universidad de
+<reading>mayoría de ellas, lleva su voz a las
+<reading>Sunderland (Reino Unido), la radio
+<reading>poblaciones más vulnerables y
+<reading>comunitaria ofrece a las mujeres “un
+<reading>cubre las regiones más apartadas
+<reading>espacio de representación, participación y
+<reading>del planeta, fomentando al mismo
+<reading>resistencia”.
+<reading>tiempo la libertad de expresión e
+<reading>información. […]
+<reading>Esta reinterpretación de las funciones que han desempeñado las mujeres como
+<reading>profesionales de la radio y como oyentes aporta una perspectiva novedosa a la historia
+<reading>de este medio de comunicación. Si se hace abstracción de las obvias diferencias
+<reading>existentes entre Radio Roshani de Afganistán, las series dramáticas emitidas en
+<reading>Estados Unidos en la década de 1930 y la emisora militante noruega RadiOrakel, la
+<reading>radiodifusión aparece como una tribuna que las mujeres, según modalidades que
+<reading>variaron a lo largo del tiempo, conquistaron en fecha muy temprana.
+<reading>Skoog, K. (2020). Las mujeres y la radio: en plena sintonía. Correo Unesco, (1), 20-22.
+<reading>https://unesdoc.unesco.org/ark:/48223/pf0000372618_spa
+<id_question>10.
+<prompt>A partir de la lectura, ¿cómo influyó la radio en la participación de la mujer en la
+<prompt>sociedad?
+<choice>A) Posibilitó la difusión del concepto de “sujetos femeninos”.
+<choice>B) Favoreció la visibilización de la mujer en el ámbito público.
+<choice>C) Redefinió los roles asumidos por las mujeres según su contexto.
+<choice>D) Facilitó la propaganda por la participación política de las mujeres.
+<id_question>11.
+<prompt>Según la estructura que presenta la lectura 2, ¿cuál es la función del siguiente
+<prompt>párrafo?
+<prompt>«Desde el decenio de 1920, cuando comenzó a llegar a los hogares, la radio
+<prompt>ofrece a las mujeres un espacio que les permite hacerse oír, tanto en sentido
+<prompt>recto como figurado, en un contexto sonoro ampliamente dominado por los
+<prompt>hombres. La radio ha acercado, ha creado vínculos y ha difuminado las
+<prompt>fronteras entre la esfera pública y la privada, al dirigirse por igual a amas de
+<prompt>casa, trabajadoras, consumidoras y ciudadanas. En muchos países, la irrupción
+<prompt>de la radio en el ámbito doméstico coincidió también con la obtención del
+<prompt>derecho a sufragio para las mujeres».
+<choice>A) Plantear la influencia de la radio en los hogares de sus auditoras.
+<choice>B) Entregar un contexto sobre la relación entre la radio y las mujeres.
+<choice>C) Presentar la oposición existente entre el mundo masculino y el femenino.
+<choice>D) Introducir el tema de la liberación femenina y su participación ciudadana.
+<id_question>12.
+<prompt>A partir de la relación entre las mujeres y la radio propuesta en la lectura, ¿qué se
+<prompt>concluye del siguiente fragmento?
+<prompt>«La radio ha acercado, ha creado vínculos y ha difuminado las fronteras entre la
+<prompt>esfera pública y privada, al dirigirse por igual a amas de casa, trabajadoras,
+<prompt>consumidoras y ciudadanas».
+<choice>A) Que la radio tiene como locutoras a mujeres que se desempeñan en diferentes
+<choice>rubros.
+<choice>B) Que la radio diferencia los ámbitos familiar y laboral según el contenido y
+<choice>horario de emisión.
+<choice>C) Que la radio promueve campañas de reivindicación de la labor femenina a
+<choice>través de sus programas.
+<choice>D) Que la radio abarca en su programación temas que pueden ser de interés para
+<choice>distintas mujeres.
+<id_question>13.
+<prompt>Según la lectura, ¿qué similitud comparten los programas “femeninos”
+<prompt>estadounidenses y el programa británico Woman´s Hour?
+<choice>A) Transforman los “culebrones” en programas orientados a conversaciones con
+<choice>figuras políticas y sociales.
+<choice>B) Describen los roles femeninos desde el ámbito personal hasta el ámbito público
+<choice>a través de su contenido.
+<choice>C) Muestran una evolución desde temas cotidianos hasta preocupaciones sociales
+<choice>que conciernen a las mujeres.
+<choice>D) Manifiestan una mirada selectiva al dirigirse a las amas de casa en primer lugar,
+<choice>y luego a un público femenino con trabajos remunerados.
+<id_question>14.
+<prompt>¿Qué se destaca en la lectura 2 sobre el trabajo de Olive Shapley?
+<choice>A) Su preocupación por las familias francesas.
+<choice>B) Su participación como corresponsal de guerra.
+<choice>C) Su enfoque social y comunitario en sus programas.
+<choice>D) Su tratamiento de tabúes y temas femeninos delicados.
+<id_question>15.
+<prompt>¿Qué situación evidenció la discriminación hacia Betty Wason en su trabajo?
+<choice>A) Que los editores le impidieran cubrir los combates durante la guerra.
+<choice>B) Que un hombre leyera ante la audiencia los reportajes que ella realizaba.
+<choice>C) Que la emisora la limitara a informar sobre las vivencias de la población civil.
+<choice>D) Que se le asignara cubrir países poco involucrados en la guerra, como Noruega
+<choice>o Grecia.
+<id_question>16.
+<prompt>¿Cuál de las siguientes opciones plantea el punto de vista de la autora de Las
+<prompt>mujeres y la radio: en plena sintonía?
+<choice>A) Las mujeres realizaron un relevante aporte al desarrollo radial.
+<choice>B) Las mujeres dominan actualmente el espacio de la radiodifusión.
+<choice>C) Las mujeres lograron hacerse escuchar con el surgimiento de la radio.
+<choice>D) Las mujeres son las principales destinatarias de los programas radiales.
+<id_question>17.
+<prompt>En relación con la información de la lectura, ¿cuál es el propósito de los
+<prompt>gráficos?
+<choice>A) Ilustrar la importancia social de los programas radiales femeninos.
+<choice>B) Evidenciar la discriminación de la mujer en la radio a través del tiempo.
+<choice>C) Ejemplificar el desarrollo profesional de las mujeres en el trabajo radial.
+<choice>D) Dar cuenta del grado de participación femenina en la radio en distintos países.
+<head_reading>LECTURA 3 (Preguntas 18 a 25)
+<reading>Capítulo del libro escrito por Adam Hart-Davis, publicado el 2018.
+<reading>Medicina y cirugía antiguas
+<reading>Los orígenes de la medicina se imbrican en los de la misma civilización. La medicina
+<reading>prehistórica, esto es, anterior a la palabra escrita, se caracterizó probablemente por una
+<reading>mezcla de primeros auxilios primitivos y la creencia en poderes sobrenaturales. Las pistas
+<reading>sobre las primeras prácticas médicas proceden de observaciones antropológicas de los
+<reading>pueblos indígenas actuales y sugieren que las sociedades prehistóricas usarían hierbas
+<reading>para tratar dolencias simples. Las prácticas curativas habrían sido desarrolladas por un
+<reading>chamán o hechicero tribal. Una vez que se controló el fuego, se pudo utilizar para
+<reading>esterilizar y cerrar heridas y las herramientas para el trabajo de la piedra y los metales, en
+<reading>operaciones rudimentarias.
+<reading>Los procedimientos médicos se transmitieron al principio de forma oral, pero la medicina
+<reading>organizada comenzó propiamente con la escritura. Los textos médicos más antiguos
+<reading>datan de 2000 a.C., en China y Egipto.
+<reading>Origen de la medicina y la cirugía
+<reading>La medicina empezó en China muy probablemente a mediados del tercer milenio a.C.,
+<reading>cuando el Emperador Amarillo (Huangdi) supuestamente escribió el Huangdi Neijing o
+<reading>Canon médico del Emperador Amarillo. Este documento ha sido la base de la medicina
+<reading>tradicional china, predominante en gran parte de Asia. Sus practicantes diagnosticaban y
+<reading>trataban la enfermedad atendiendo a la interacción de las personas con su entorno y
+<reading>recurrían a técnicas como la meditación y la acupuntura.
+<reading>En el Egipto del mismo milenio, 2600 a.C., Imhotep, un sabio arquitecto de pirámides, fue
+<reading>venerado como dios de la medicina y la sanación. El Papiro Edwin Smith, 1700 a.C., se
+<reading>cree basado en los textos de Imhotep. Es el documento quirúrgico más antiguo del mundo
+<reading>y llama la atención por la ausencia de pensamiento mágico en lo que se refiere al
+<reading>diagnóstico, el tratamiento y pronóstico de las enfermedades. Dos siglos después, 1500
+<reading>a.C., el texto babilonio Manual de diagnóstico médico de Esagil-kin-apli se refería quizá al
+<reading>primer médico al sugerir un personaje llamado Urlugaledin que había practicado la cirugía
+<reading>en 4000 a.C.
+<reading>Las raíces del sistema médico ayurvédico en el valle del Indo se remontan a una época
+<reading>aún anterior, quizá a 9000 a.C. El Ayurveda (que significa “vida de la ciencia”) constituye
+<reading>la base de la medicina tradicional india de hoy, que preconiza un estilo de vida saludable,
+<reading>basado en las hierbas, el masaje y el yoga. Sus textos, como el Sushrutasamhita, sobre
+<reading>cirugía, aparecieron más tarde, a partir de 500 a.C. Dicho texto se refiere a técnicas
+<reading>invasivas que incluyen la cirugía estética y las operaciones de cataratas, entre otras.
+<reading>En la antigua Grecia
+<reading>En 700 a.C., se abrió la primera escuela médica griega en Cnido. La antigua medicina
+<reading>griega, al igual que las de Egipto e India, hacía hincapié en el control de la dieta, el estilo
+<reading>de vida y la higiene. Trescientos años después, Hipócrates fundó su propia escuela
+<reading>médica en Cos. Describió muchas enfermedades, por primera vez introdujo términos
+<reading>médicos que siguen vigentes en la actualidad, como la calificación de “aguda” para una
+<reading>dolencia intensa y breve, y la de “crónica” para una de desarrollo lento y prolongado. La
+<reading>escuela hipocrática rechazó las causas sobrenaturales en favor de las causas físicas de la
+<reading>enfermedad, e insistió en los cuidados y el pronóstico, fomentando el minucioso estudio
+<reading>de casos, precedente de la medicina clínica.
+<reading>Hipócrates también defendió las ideas del humoralismo, según las cuales en el organismo
+<reading>había cuatro humores (o líquidos) básicos: la bilis negra, la flema, la bilis amarilla y la
+<reading>sangre. Los estados de ánimo y las enfermedades se atribuían a desequilibrios en la
+<reading>proporción de dichos humores. El médico Galeno (129-216 d.C.) reforzó dicha teoría con
+<reading>la creencia de que la sangre se fabricaba continuamente en el cuerpo y que podía
+<reading>estancarse. Esto sirvió de estímulo a la dudosa práctica de la sangría, consistente en
+<reading>extraer una cantidad determinada de sangre para corregir el desequilibrio de los humores.
+<reading>En 1543, el anatomista flamenco Andrés Vesalio desacreditó muchas de las teorías de
+<reading>Galeno.
+<reading>El juramento hipocrático
+<reading>Es una costumbre asentada en la tradición tomar a todos los médicos el juramento
+<reading>hipocrático, una serie de directrices y deberes integrados en el corpus hipocrático, los
+<reading>textos de la escuela hipocrática en la antigua Grecia. Se cree que fue el propio Hipócrates
+<reading>quien lo redactó, pero es probable que muchos otros hicieran aportaciones. En la versión
+<reading>original, el que jura contrae una deuda de gratitud con su maestro y promete llevar una
+<reading>vida “pura” y preservar la confidencialidad de quienes estén a su cuidado.
+<reading>La medicina científica
+<reading>En el siglo V d.C., al huir los sabios griegos de la persecución bizantina y asentarse en
+<reading>Persia, la academia de Gundishapur pasó a ser un centro importante de los estudios
+<reading>médicos y más tarde el primer hospital clínico. La edad de oro del Islam (700-1200 d.C.)
+<reading>vio surgir las primeras farmacias y hospitales públicos gratuitos en Bagdad. El Islam
+<reading>medieval produjo también tratados médicos de figuras como Avicena (Ibn Sina 980-1037
+<reading>d.C.) que fue un prolífico sabio persa que hizo importantes aportaciones en medicina,
+<reading>química, astronomía, geología, matemáticas y psicología. Su obra principal, Canon de
+<reading>medicina, se convirtió en un texto obligado en las universidades europeas. Fue pionero en
+<reading>muchos procedimientos médicos, como las pruebas clínicas en el uso experimental de
+<reading>fármacos.
+<reading>Hart-Davis, A. (2018). Medicina y cirugía antiguas. En A. Hart-Davis, Ciencia La guía visual definitiva (pp. 24-
+<reading>25). DK.
+<id_question>18.
+<prompt>En el primer párrafo, ¿con qué propósito se mencionan los estudios antropológicos
+<prompt>de los pueblos indígenas actuales?
+<choice>A) Para contrastar sus métodos curativos con respecto a los de la prehistoria.
+<choice>B) Para explicar en qué se basa la investigación de la práctica médica primitiva.
+<choice>C) Para analizar el origen de la interpretación sobrenatural de las enfermedades.
+<choice>D) Para destacar la importancia de los conocimientos médicos antes de la
+<choice>escritura.
+<id_question>19.
+<prompt>En la lectura 3, ¿por qué se utilizan las palabras “probablemente” y
+<prompt>“supuestamente” dentro del siguiente fragmento?
+<prompt>«La medicina empezó en China muy probablemente a mediados del tercer milenio
+<prompt>a.C., cuando el Emperador Amarillo (Huangdi) supuestamente escribió el Huangdi
+<prompt>Neijing o Canon médico del Emperador Amarillo. Este documento ha sido la base
+<prompt>de la medicina tradicional china, predominante en gran parte de Asia. Sus
+<prompt>practicantes diagnosticaban y trataban la enfermedad atendiendo a la interacción
+<prompt>de las personas con su entorno y recurrían a técnicas como la meditación y la
+<prompt>acupuntura».
+<choice>A) Porque relativizan la importancia del documento del Emperador Amarillo.
+<choice>B) Porque cuestionan la tradición médica de la sociedad china.
+<choice>C) Porque presumen sobre el origen de la medicina china.
+<choice>D) Porque validan los métodos del Canon médico.
+<id_question>20.
+<prompt>¿Cuál fue la importancia de la escritura en el desarrollo de la medicina antigua?
+<choice>A) Permitió organizar y sentar los fundamentos de los procedimientos médicos.
+<choice>B) Permitió crear y desarrollar una serie de técnicas quirúrgicas.
+<choice>C) Permitió difundir información sobre enfermedades en diferentes lugares.
+<choice>D) Permitió prescindir de las antiguas creencias en poderes sobrenaturales.
+<id_question>21.
+<prompt>En la lectura 3, ¿con qué finalidad el emisor menciona las dolencias “aguda” y
+<prompt>“crónica” en el segmento “En la antigua Grecia”?
+<choice>A) Para ejemplificar la vigencia de los términos médicos acuñados por Hipócrates.
+<choice>B) Para explicar el rechazo de la medicina hipocrática a las causas sobrenaturales.
+<choice>C) Para describir el tipo de pronóstico usado en la medicina clínica por Hipócrates.
+<choice>D) Para señalar las enfermedades descritas en los estudios de la escuela
+<choice>hipocrática.
+<id_question>22.
+<prompt>¿En qué se asemeja la visión de la medicina egipcia expuesta en el Papiro Edwin
+<prompt>Smith con la medicina hipocrática?
+<choice>A) En que promueven el control de la dieta, estilo de vida e higiene para evitar
+<choice>enfermedades.
+<choice>B) En que desestiman las causas sobrenaturales como explicación de las
+<choice>enfermedades.
+<choice>C) En que atribuían las enfermedades a los desequilibrios de los líquidos
+<choice>corporales.
+<choice>D) En que recurren a técnicas como la meditación para sanar enfermedades.
+<id_question>23.
+<prompt>¿En qué se basó la práctica de la sangría?
+<choice>A) En la distinción de enfermedades agudas y crónicas.
+<choice>B) En el estudio de casos de la medicina clínica.
+<choice>C) En las directrices del juramento hipocrático.
+<choice>D) En los principios del humoralismo.
+<id_question>24.
+<prompt>¿Qué función cumple el apartado “El juramento hipocrático”?
+<choice>A) Explicar los orígenes griegos de la graduación en medicina.
+<choice>B) Precisar la importancia de una iniciación médica de origen griego.
+<choice>C) Mostrar la vigencia de los valores de una antigua escuela médica griega.
+<choice>D) Juzgar los procedimientos que realizaban los griegos en sus rituales médicos.
+<id_question>25.
+<prompt>Según la lectura, ¿cuál es el documento quirúrgico más antiguo del mundo?
+<choice>A) El Sushrutasamhita.
+<choice>B) El Papiro Edwin Smith.
+<choice>C) El Canon médico del Emperador Amarillo.
+<choice>D) El Manual del diagnóstico médico de Esagil-kin-apli.
+<head_reading>LECTURA 4 (Preguntas 26 a 33)
+<reading>Texto publicado en la página web de Chile Artesanía, visitada en marzo del 2021.
+<reading>Chile Artesanía
+<reading>Chile Artesanía es una plataforma creada con el objeto de identificar y reconocer a
+<reading>quienes cultivan la artesanía en Chile, así como las diversas manifestaciones
+<reading>artesanales del país, con miras a preservar, valorar y fomentar su desarrollo.
+<reading>Busca reconocer y valorar la artesanía nacional y a quienes la desarrollan,
+<reading>garantizando su autenticidad, características de su identidad, atributos de la creación y
+<reading>la promoción de su calidad, reconociendo y visibilizando toda la cadena de valor
+<reading>asociada al sector, promoviendo así, la circulación de obras y la asociatividad del
+<reading>sector.
+<reading>Sus objetivos específicos son:
+<reading> Reconocer a los/as artesanos/as, la
+<reading>producción de artesanía y su origen.
+<reading> Relevar la identidad y calidad de la
+<reading>producción de artesanía.
+<reading> Potenciar la comercialización,
+<reading>producción y gestión de la actividad
+<reading>artesanal.
+<reading> Fortalecer la organización del sector
+<reading>artesanal.
+<reading>¿Quiénes pueden postular?
+<reading>Artesanas y artesanos dedicados a oficios como la textilería, alfarería y cerámica,
+<reading>orfebrería y metales, cestería y trabajos en madera, piedra, cuero, cuerno, conchas,
+<reading>huesos, vidrio o papel, así como instrumentos musicales, entre otros.
+<reading>En el caso de las organizaciones, podrán participar corporaciones, fundaciones u otras
+<reading>agrupaciones sin fines de lucro, con más de tres años de trayectoria, legalmente
+<reading>constituidas y cuyos fines contemplen la promoción, formación, salvaguardia o
+<reading>desarrollo de la artesanía nacional.
+<reading>¿Cómo se evalúa?
+<reading>Las postulaciones serán evaluadas por un Comité Regional integrado por
+<reading>representantes de organizaciones aprobadas en el registro, artesanos con Sello de
+<reading>Excelencia, Maestros Artesanos y evaluadores Fondart4 para la artesanía, según
+<reading>corresponda en cada uno de los territorios del país.
+<reading>¿Por qué es importante formar parte de Chile Artesanía?
+<reading>Chile Artesanía es el único instrumento público que puede acreditar la condición de
+<reading>artesano/a creador/a.
+<reading>Asimismo, la plataforma permite establecer una red de información sobre el desarrollo
+<reading>de la disciplina, así como conocer a los creadores y su ubicación geográfica, las
+<reading>disciplinas en las que se desempeñan y la diversidad de materialidades existente en
+<reading>Chile, insumos fundamentales para respaldar el trabajo enfocado en mejorar las
+<reading>políticas del sector.
+<reading>Los/as artesanos/as y las organizaciones que sean inscritas en el sistema de registro
+<reading>de Chile Artesanía podrán obtener:
+<reading> Certificado de artesano/a inscrito/a en el Registro de Artesanos/as.
+<reading> Certificado de organización de artesanos/as inscrita en el Registro de Organizaciones,
+<reading>lo que habilita a la respectiva organización de artesanos/as para el desarrollo de
+<reading>programas vinculados a la artesanía.
+<reading> Participar de una plataforma que facilita el intercambio de información y asociatividad
+<reading>del sector.
+<reading> Acceso a información relacionada con fuentes de financiamiento, ferias de artesanía y
+<reading>concursos a nivel nacional e internacional.
+<reading>Definiciones conceptuales
+<reading>Artesano/a:
+<reading>Creador/a o cultor/a que lleva a cabo la transformación de la materia prima en una
+<reading>pieza, obra u objeto artesanal con características utilitarias, simbólicas, rituales o
+<reading>estéticas, de manera individual o colectiva, con permanencia en el tiempo.
+<reading>4 Fondo Nacional de Desarrollo Cultural y las Artes.
+<reading>Artesanía:
+<reading>La elaboración de piezas u objetos realizados individual o colectivamente donde
+<reading>pueden utilizarse herramientas y/o instrumentos predominando la ejecución manual. En
+<reading>este dominio de la técnica y la transformación de las materias primas, confluyen la
+<reading>habilidad, el sentido de pertenencia y la creatividad en la elaboración de productos
+<reading>pertenecientes a una determinada cultura. Tales aptitudes se expanden mediante
+<reading>diversas maneras de combinar la memoria, la reflexión y el conocimiento experto que
+<reading>sustentan el proceso creativo y la materialización de la obra.
+<reading>Artesanía tradicional:
+<reading>Es toda aquella práctica asociada al dominio de un oficio, transmitida de generación en
+<reading>generación en un pueblo o comunidad ligada a su territorio y paisaje cultural. Su
+<reading>principal característica es el hecho de formar parte de la memoria y el patrimonio que
+<reading>constituyen la cultura material de un colectivo que emerge y se desarrolla en un
+<reading>contexto histórico particular. La artesanía tradicional manifiesta una continuidad de
+<reading>determinados patrones estéticos y simbólicos ‒definidos por formas, colores y
+<reading>técnicas‒ cuyas estructuras originales pueden ser mantenidas a través del tiempo así
+<reading>como también reelaboradas, aunque siempre conservando aquellos elementos
+<reading>distintivos que le otorgan identidad y sentido de pertenencia a la cultura e historia a las
+<reading>cuales pertenece.
+<reading>La artesanía tradicional constituye la referencia cultural de base para el desarrollo de la
+<reading>artesanía contemporánea o de innovación, y tiene como principal motivo de sustento y
+<reading>promoción la memoria cultural de una comunidad arraigada en su territorio y paisaje
+<reading>cultural.
+<reading>Artesanía indígena:
+<reading>Es toda aquella práctica asociada
+<reading>directamente con las manifestaciones
+<reading>culturales de los pueblos originarios, y
+<reading>entendida como vehículo del patrimonio
+<reading>inmaterial. Es el testimonio de las
+<reading>creencias y sabidurías de diversos
+<reading>grupos étnicos, que se manifiesta en
+<reading>artefactos con fines utilitarios y/o rituales,
+<reading>que incluso puede ser proyectada con
+<reading>otros fines. Es una actividad ancestral
+<reading>transmitida a través de las generaciones
+<reading>en una comunidad particular. Los objetos artesanales, formas y producción deben
+<reading>respetar, resguardar y tener coherencia con la iconografía y medios simbólicos de los
+<reading>pueblos originarios a quienes representan. La permanencia en el tiempo de estas
+<reading>manifestaciones y sus múltiples reelaboraciones está asociada a formas particulares de
+<reading>transmisión intergeneracional de esos conocimientos y al modo en que estas expresan
+<reading>valores fundamentales para dichas comunidades. Por lo tanto, estas producciones
+<reading>forman parte de un capital cultural y un patrimonio colectivo que tiene una significación
+<reading>cultural e identitaria.
+<reading>Artesanía contemporánea:
+<reading>Corresponde a las producciones y expresiones actuales que incorporan propuestas
+<reading>creativas y reflexivas, a través de la transformación o reinterpretación en el uso y
+<reading>aplicación de materiales, técnicas, formas y conceptos emanados de la artesanía
+<reading>tradicional en objetos artesanales que no requieren de una referencia identitaria
+<reading>específica (aunque podrían tenerla).
+<reading>Materias primas:
+<reading>En los oficios artesanales el foco principal estará puesto no solo en la definición de la
+<reading>técnica y proceso creativo, sino que se deberá tener especial precisión en la
+<reading>disponibilidad, provisión y manejo de las materias primas, como insumo inicial del
+<reading>proceso de transformación artesanal. Las materias primas para la confección de las
+<reading>piezas artesanales (objetos o artefactos), se establecen de acuerdo con las
+<reading>características y relación con el entorno geográfico y cultural en el cual se
+<reading>desenvuelven en su cotidiano los artesanos (espacios determinados de uso privado,
+<reading>individual, público, colectivo o mixto). Otras veces, las materias primas se establecen
+<reading>considerando acciones de adquisición, recolección o intercambio con otros artesanos
+<reading>recolectores, o relaciones de venta con proveedores locales […].
+<reading>Manualidades:
+<reading>Se consideran manualidades los trabajos realizados principalmente por la unión de
+<reading>elementos procesados o industriales, donde el uso de materiales no implica
+<reading>necesariamente una transformación. Las técnicas son básicas, de rápida adopción y
+<reading>utilizan prototipos de referencias. Sus funciones pueden ser educativas, terapéuticas,
+<reading>de uso cotidiano e incluso conteniendo un componente económico relevante. No serán
+<reading>consideradas en esta convocatoria porque, en general, no se contemplan dentro de los
+<reading>oficios artesanales con identidad cultural. Las manualidades, aunque son también
+<reading>trabajos efectuados con las manos con o sin ayuda de herramientas, tienen un objetivo
+<reading>diferente.
+<reading>Sistema de Registro Nacional de artesanías. (s.f.). Chile Artesanía.
+<reading>https://chileartesania.cultura.gob.cl/quienes-somos
+<id_question>26.
+<prompt>¿A qué lectores está dirigida la información de la lectura 4?
+<choice>A) A personas que quieren comprar artesanías y manualidades hechas en Chile.
+<choice>B) A personas que hacen manualidades y que quieren convertirse en
+<choice>artesanos/as.
+<choice>C) A profesoras/es y estudiantes que quieren conocer las características de la
+<choice>artesanía.
+<choice>D) A artesanos/as y organizaciones que quieren inscribirse en una red de fomento
+<choice>artesanal.
+<id_question>27.
+<prompt>¿Qué tipo de organizaciones pueden inscribirse en Chile Artesanía?
+<choice>A) Organizaciones cuyo propósito sea promover el arte en general.
+<choice>B) Organizaciones cuya constitución carezca de un carácter formal.
+<choice>C) Organizaciones artesanales que hayan sido creadas recientemente.
+<choice>D) Organizaciones sin la finalidad de obtener un beneficio económico.
+<id_question>28.
+<prompt>¿Cuál de las siguientes opciones sintetiza la información de la sección “¿Por
+<prompt>qué es importante formar parte de Chile Artesanía?”?
+<choice>A) Los/as artesanos/as pueden desarrollar proyectos y obras a través del uso de la
+<choice>plataforma.
+<choice>B) Los/as artesanos/as pueden acceder a nuevos servicios una vez admitidos en
+<choice>la plataforma.
+<choice>C) Los/as artesanos/as pueden optar a ayudas económicas si son certificados en
+<choice>la plataforma.
+<choice>D) Los/as artesanos/as pueden obtener información y certificación al ingresar a la
+<choice>plataforma.
+<id_question>29.
+<prompt>¿Qué certifica Chile Artesanía?
+<choice>A) Los programas de desarrollo vinculados a la artesanía nacional.
+<choice>B) El registro de artesanos/as y organizaciones vinculadas a la artesanía.
+<choice>C) Las iniciativas de emprendimiento de los artesanos/as y organizaciones.
+<choice>D) El acceso a fuentes de financiamiento para artesanos/as y organizaciones.
+<id_question>30.
+<prompt>Según la lectura, ¿qué requisito debe cumplir una obra para que sea
+<prompt>considerada artesanía?
+<choice>A) Que sea efectuada con las manos.
+<choice>B) Que sea el trabajo de un pueblo originario.
+<choice>C) Que sea la transformación de una materia prima.
+<choice>D) Que sea transmitida de generación en generación.
+<id_question>31.
+<prompt>En relación con la postulación a Chile Artesanía, ¿qué información útil presenta
+<prompt>la sección “Definiciones conceptuales”?
+<choice>A) Las características de los elementos y participantes seleccionables para el
+<choice>registro.
+<choice>B) La jerarquización de los tipos de oficios para la selección de artesanos/as
+<choice>registrados/as.
+<choice>C) El tipo de acreditación al que puede postular cada artesano/a registrado/a en
+<choice>Chile Artesanía.
+<choice>D) El conjunto de beneficios a los que acceden los artesanos/as y
+<choice>organizaciones seleccionados/as.
+<id_question>32.
+<prompt>¿Con qué finalidad se incluye la definición de “Manualidades”?
+<choice>A) Para evitar la postulación de personas con intenciones comerciales.
+<choice>B) Para destacar la funcionalidad de esta categoría de productos.
+<choice>C) Para mostrar la importancia de la selección de los materiales.
+<choice>D) Para precisar la diferencia entre los distintos tipos de oficio.
+<id_question>33.
+<prompt>¿Qué tienen en común la artesanía tradicional y la artesanía indígena?
+<choice>A) Ambas utilizan las mismas técnicas en su elaboración.
+<choice>B) Ambas representan la memoria de un grupo humano.
+<choice>C) Ambas buscan redefinir el uso de los materiales nobles.
+<choice>D) Ambas tienen un sentido religioso para sus comunidades.
+<head_reading>LECTURA 5 (Preguntas 34 a 40)
+<reading>Fragmento del libro de Mark Rosenzweig y Arnold Leiman, publicado en 1994.
+<reading>1 Psicología
+<reading>fisiológica
+<reading>¿QUÉ ES LA PSICOLOGÍA FISIOLÓGICA?
+<reading>Una leyenda de la India (retomada por Thomas Mann en su libro Las cabezas
+<reading>cambiadas) ilustra el modo en que la cabeza y el cuerpo contribuyen a la identidad y a
+<reading>la personalidad. En esta historia, la bella Sita se casa con un comerciante joven,
+<reading>delgado e inteligente. Ella se sentía atraída también por su mejor amigo, un herrero
+<reading>fuerte y musculoso. Un día los dos jóvenes se cortaron la cabeza mutuamente en un
+<reading>templo de la divinidad Kali. Sita entró al templo buscándolos, y los encontró yaciendo
+<reading>en charcos de sangre frente a la estatua de la diosa Kali. Horrorizada, Sita rogó a Kali
+<reading>que retornase a los hombres a la vida. Kali concedió el deseo e instruyó a Sita para
+<reading>que colocase las cabezas cuidadosamente sobre los cuerpos. Sita acometió la tarea
+<reading>con energía febril y pronto advirtió que los hombres volvían a la vida. ¡Solamente
+<reading>entonces se dio cuenta de que había puesto las cabezas en los cuerpos equivocados!
+<reading>Ahora los tres jóvenes se enfrentaban a un problema de difícil solución: ¿Quién era el
+<reading>esposo de Sita? ¿El de la cabeza del mercader y el cuerpo del herrero o el de la
+<reading>cabeza del herrero y el cuerpo del mercader? La leyenda explora las complejidades de
+<reading>este rompecabezas, considerando además cómo cada cabeza afecta al cuerpo que
+<reading>ahora controla y también cómo el cuerpo ejerce influencias recíprocas sobre la cabeza.
+<reading>Afortunadamente nosotros no necesitamos resolver el dilema de Sita. Sabemos que la
+<reading>identidad individual, la personalidad y los talentos son principalmente funciones del
+<reading>cerebro; sin embargo, también reconocemos las influencias que ejercen sobre el
+<reading>sistema nervioso otros sistemas corporales, como las glándulas endocrinas.
+<reading>Este libro explora las formas en que los estados y procesos corporales producen y
+<reading>controlan la conducta, así como el modo en que la conducta influye sobre los sistemas
+<reading>corporales. Este tema posee gran alcance y amplitud, tiende un puente entre muchas
+<reading>disciplinas científicas. Así, nos basaremos en investigaciones de psicólogos,
+<reading>anatomistas, químicos, endocrinólogos, ingenieros, genetistas, neurólogos, fisiólogos y
+<reading>zoólogos. Para intentar obtener una visión panorámica del rápido desarrollo del campo
+<reading>de la psicología fisiológica, intentaremos ir más allá de los límites de cualquier
+<reading>especialidad aislada.
+<reading>La frecuente aparición en la prensa de temas de la psicología fisiológica refleja un
+<reading>creciente interés popular por este campo. Los artículos ilustran el rápido avance de la
+<reading>investigación e indican la relevancia de los estudios del cerebro en la solución de los
+<reading>problemas humanos. Los periódicos y las revistas proclaman nuevos descubrimientos
+<reading>que mejoran nuestro conocimiento de por qué hacemos lo que hacemos y por qué
+<reading>somos lo que somos. La investigación en psicología fisiológica y en campos
+<reading>relacionados está iluminando muchos aspectos de la conducta normal, incluyendo el
+<reading>sexo, el aprendizaje y la memoria, el lenguaje y la comunicación, los papeles
+<reading>conductuales del sueño y los ritmos diarios y la sensibilidad y la selectividad de
+<reading>nuestros procesos perceptivos.
+<reading>Cuestiones básicas sobre las capacidades del sistema nervioso humano
+<reading>El acelerado paso al que avanzan la psicología fisiológica, la neurociencia y los
+<reading>campos relacionados, ha proporcionado respuestas a algunas cuestiones
+<reading>fundamentales y ofrece perspectivas de nuevas y productivas aproximaciones (por
+<reading>ejemplo, Hillyard, 1982; Gerstein, Luce, Smelser & Sperlich, 1988). Las mediciones
+<reading>sofisticadas de la conducta unidas a las nuevas técnicas para estimular y registrar los
+<reading>procesos corporales están incrementando enormemente el poder y el alcance de la
+<reading>investigación. He aquí algunas de las más interesantes áreas de investigación actual:
+<reading>1. ¿Cómo se desarrolla, mantiene y repara a sí mismo el sistema nervioso a lo
+<reading>largo del ciclo vital, y cómo se relacionan estas capacidades con la conducta?
+<reading>Pocos meses después de la concepción y mucho antes del nacimiento, el humano en
+<reading>desarrollo está equipado con un sistema nervioso que contiene miles de millones de
+<reading>células nerviosas organizadas en un orden preciso con interconexiones específicas. El
+<reading>plan para el desarrollo del sistema nervioso humano se parece en muchos aspectos al
+<reading>de los otros mamíferos, e incluso al de todos los vertebrados, pero posee importantes
+<reading>adaptaciones específicas de especie. Cada especie debe estar preparada para
+<reading>manifestar muchas conductas en el momento del nacimiento y para adquirir otras muy
+<reading>pronto, al poco tiempo de haber nacido. El anteproyecto del desarrollo no solo
+<reading>especifica la disposición de la mayor parte de las células nerviosas mucho antes del
+<reading>nacimiento, sino que también las mantiene, y depende de las influencias ambientales
+<reading>para ayudar a configurar el desarrollo neural después del nacimiento.
+<reading>2. ¿Cómo adquiere, procesa y emplea el sistema nervioso la información sobre el
+<reading>ambiente?
+<reading>Los investigadores han aprendido mucho acerca de la forma en que el mundo que nos
+<reading>rodea está representado en circuitos y actividades del sistema nervioso. Los estímulos
+<reading>sensoriales –desde simples contactos hasta sonidos complejos y despliegues
+<reading>elaborados de forma y color– son procesados por muchas regiones encefálicas
+<reading>especializadas. Este procesamiento sensorial-perceptual ayuda a activar y controlar
+<reading>las respuestas corporales coordinadas, desde los movimientos oculares finos hasta el
+<reading>grácil salto de un bailarín.
+<reading>3. ¿Cómo controla y regula el sistema nervioso las conductas motivadas tales
+<reading>como la reproducción, la comida y el balance de energía, el sueño y la vigilia y
+<reading>las emociones?
+<reading>La organización de numerosas regiones del sistema nervioso se ve influenciada por
+<reading>sustancias neuroquímicas, entre las que se incluyen las hormonas, y muchos circuitos
+<reading>neuronales son activados o inhibidos por mensajes químicos. Por ejemplo, los
+<reading>investigadores están estudiando actualmente similitudes y diferencias entre los sexos
+<reading>en aspectos de la estructura química cerebral como claves para comprender tanto sus
+<reading>semejanzas como sus diferencias conductuales.
+<reading>4. ¿Cómo adquiere y almacena la información el sistema nervioso y más tarde la
+<reading>hace accesible para su uso?
+<reading>El aprendizaje y la memoria están entre las capacidades más extraordinarias de los
+<reading>seres vivos. La investigación más avanzada en esta área está explorando cómo realiza
+<reading>el sistema nervioso estas proezas.
+<reading>Cada una de las cuestiones precedentes se volverá a tomar en partes posteriores de
+<reading>este libro. Algunos de los ejemplos que consideraremos pueden parecer casi más
+<reading>fantásticos que la leyenda de las cabezas cambiadas. En efecto, ciertos logros de la
+<reading>investigación de las relaciones entre sistema nervioso y conducta podían haberse
+<reading>considerado como milagros solo una generación atrás. Estos descubrimientos han
+<reading>llevado a la curación de la psicosis, la eliminación del dolor, la restauración parcial de
+<reading>la vista y la estimulación del crecimiento del cerebro mejorando de este modo la
+<reading>capacidad de aprendizaje. Estos y otros avances que hoy en día nos son familiares
+<reading>habrían parecido increíbles unas cuantas décadas atrás. Como dijo el escritor de
+<reading>ciencia ficción Arthur C. Clarke, “La ciencia de una generación era la magia de la
+<reading>precedente”.
+<reading>Rosenzweig, M., & Leiman, A. (1994). Psicología fisiológica. Mc Graw Hill.
+<id_question>34.
+<prompt>En la leyenda de Sita, ¿a qué se debe que pusiera las cabezas de los hombres
+<prompt>cambiadas?
+<choice>A) A su confusión, debido a las similitudes entre el mercader y el herrero.
+<choice>B) A su atracción por la inteligencia y la fuerza de ambos hombres.
+<choice>C) A su tristeza, debido al trágico desenlace de sus amados.
+<choice>D) A su impulsividad por seguir las instrucciones de Kali.
+<id_question>35.
+<prompt>¿Qué función cumple el primer párrafo de la lectura 5?
+<choice>A) Muestra que hay creencias erradas sobre la psicología fisiológica.
+<choice>B) Introduce el tema de la psicología fisiológica con un relato literario.
+<choice>C) Ejemplifica los principios de la psicología fisiológica con un caso conocido.
+<choice>D) Aporta antecedentes sobre el origen del concepto psicología fisiológica.
+<id_question>36.
+<prompt>¿Con qué apartado de la sección “Cuestiones básicas sobre las capacidades
+<prompt>del sistema nervioso humano” se relaciona el avance técnico descrito en el
+<prompt>siguiente fragmento?
+<prompt>«Finalmente, otro ejemplo de avance técnico lo proporcionan las técnicas
+<prompt>optogenéticas. Estas combinan la genética, las propiedades de la fibra óptica y
+<prompt>la utilización de la luz para inhibir o activar grupos de neuronas. Boyden y
+<prompt>colaboradores publicaron en 2005 los resultados de sus investigaciones dando
+<prompt>a conocer los fundamentos de esta técnica, basada en añadir al ADN de
+<prompt>grupos concretos de neuronas genes procedentes de algas verdes unicelulares
+<prompt>que van a expresar en la membrana neuronal canales iónicos cuya
+<prompt>conductancia depende de que se iluminen con luz de una determinada longitud
+<prompt>de onda. Esa preparación permite controlar de forma muy precisa la actividad
+<prompt>del grupo de neuronas en cuyas membranas se encuentren los canales iónicos
+<prompt>sensibles, que son estimulados o inhibidos mediante la luz guiada por cables
+<prompt>de fibra óptica».
+<prompt>Psikipedia. (22 de agosto de 2019). Técnicas de investigación en Psicología Fisiológica.
+<prompt>https://psikipedia.com/libro/fisiologica/4197-tecnicas-de-investigacion-en-psicologia-fisiologica
+<choice>A) “¿Cómo controla y regula el sistema nervioso las conductas motivadas
+<choice>tales como la reproducción, la comida y el balance de energía, el sueño y
+<choice>la vigilia y las emociones?”
+<choice>B) “¿Cómo adquiere, procesa y emplea el sistema nervioso la información
+<choice>sobre el ambiente?”
+<choice>C) “¿Cómo adquiere y almacena la información el sistema nervioso y más
+<choice>tarde la hace accesible para su uso?”
+<choice>D) “¿Cómo se desarrolla, mantiene y repara a sí mismo el sistema nervioso a
+<choice>lo largo del ciclo vital, y cómo se relacionan estas capacidades con la
+<choice>conducta?”
+<id_question>37.
+<prompt>Según la lectura, ¿qué es el salto de un bailarín?
+<choice>A) Una respuesta corporal coordinada.
+<choice>B) Una actividad del sistema nervioso.
+<choice>C) Un proceso de la región encefálica.
+<choice>D) Un control de estímulo sensorial.
+<id_question>38.
+<prompt>En la lectura 5, ¿cómo reaccionan los emisores ante los avances de la psicología
+<prompt>fisiológica expresados en el último párrafo?
+<choice>A) Con orgullo, pues recalcan que su generación ha logrado más avances que
+<choice>ninguna otra.
+<choice>B) Con incredulidad, pues comparan los avances que mencionan con milagros y
+<choice>relatos fantásticos.
+<choice>C) Con asombro, pues enfatizan la magnitud que han tenido los avances de las
+<choice>últimas décadas.
+<choice>D) Con optimismo, pues aseguran que los avances actuales permitirán alcanzar un
+<choice>futuro extraordinario.
+<id_question>39.
+<prompt>En el último párrafo, ¿con qué finalidad los emisores citan al escritor Arthur C.
+<prompt>Clarke?
+<choice>A) Para ejemplificar la manera en que la ciencia aporta al conocimiento del
+<choice>comportamiento humano.
+<choice>B) Para demostrar la importancia que tiene la ciencia ficción en el estudio de la
+<choice>psicología fisiológica.
+<choice>C) Para reforzar la idea de que los avances científicos de hoy fueron considerados
+<choice>imposibles en el pasado.
+<choice>D) Para respaldar la crítica que hacen los emisores al rápido desarrollo que ha
+<choice>tenido la psicología fisiológica.
+<id_question>40.
+<prompt>¿Por qué se puede calificar como pertinente la propuesta de comenzar el libro con
+<prompt>una leyenda?
+<choice>A) Porque introduce la definición de psicología fisiológica a través de un ejemplo.
+<choice>B) Porque facilita abordar la psicología fisiológica desde la mirada de distintas
+<choice>disciplinas.
+<choice>C) Porque permite representar las dificultades que enfrenta el estudio de la
+<choice>psicología fisiológica.
+<choice>D) Porque ayuda a entender la psicología fisiológica mostrando la relación entre el
+<choice>cuerpo y la mente.
+<head_reading>LECTURA 6 (Preguntas 41 a 48)
+<reading>Cuento escrito por Jules Renard, publicado en 1893.
+<reading>El barco a vapor
+<reading>Retirados al pueblo, los Bornet son vecinos de los Navot y entre las dos parejas existe
+<reading>muy buena relación. Les gusta por igual la tranquilidad, el aire puro, la sombra y el
+<reading>agua. Simpatizan tanto que se imitan.
+<reading>Por la mañana las señoras van juntas al mercado.
+<reading>―Me dan ganas de preparar un pato, ―dice la señora Navot.
+<reading>―¡Ah! A mí también, ―dice la señora Bornet.
+<reading>Los señores se consultan cuando proyectan embellecer uno su jardín ventajosamente
+<reading>orientado, y el otro su casa situada sobre una loma y nunca húmeda. Se llevan bien.
+<reading>Mejor es así. ¡Con tal de que dure!
+<reading>Pero es al atardecer, cuando se pasean por el Marne, cuando los Navot y los Bornet
+<reading>desean estar siempre de acuerdo. Los dos barcos, de la misma forma y de color verde,
+<reading>se deslizan uno al lado del otro. El señor Navot y el señor Bornet reman acariciando el
+<reading>agua como si lo hicieran con sus manos prolongadas. A veces se excitan hasta que
+<reading>aparece una primera gota de sudor, pero sin envidia, tan fraternales que no pueden
+<reading>vencerse uno al otro y reman al unísono.
+<reading>Una de las señoras sorbe discretamente y dice:
+<reading>―¡Qué delicia!
+<reading>―Sí, ―responde la otra― es delicioso.
+<reading>Pero, una tarde, cuando los Bornet van a reunirse con los Navot para su habitual
+<reading>paseo, la señora Bornet mira un punto determinado del Marne y dice:
+<reading>―¡Caray!
+<reading>El señor Bornet, que está cerrando la puerta con llave, se da la vuelta:
+<reading>―¿Qué ocurre?
+<reading>―¡Caramba! ―prosigue la señora Bornet― nuestros amigos no se privan de nada.
+<reading>Tienen un barco a vapor.
+<reading>―¡Demonios! ―dice el señor Bornet.
+<reading>Es cierto. En la orilla, en el estrecho espacio reservado a los Navot, se divisa un
+<reading>pequeño barco a vapor, con su tubo negro que brilla al sol, y las nubes de humo que de
+<reading>él escapan. Ya instalados, el señor y la señora Navot esperan y agitan un pañuelo.
+<reading>―¡Muy gracioso! ―dice el señor Bornet molesto.
+<reading>―Quieren deslumbrarnos, ―dice la señora Bornet con despecho.
+<reading>―No sabía que actuaran con tantos tapujos ―dice el señor Bornet―. Por lo que a mí
+<reading>respecta, yo no habría comprado jamás un barco a vapor sin que ellos lo supieran.
+<reading>¡Fíese usted de los amigos! ¡En fin! Yo había observado estos últimos tiempos que
+<reading>estaban algo raros. ¡Caramba, era esto!
+<reading>―¿Y si no fuéramos?
+<reading>―Sería excesivo. Pero dado que ellos carecen de delicadeza, no les demos el gusto de
+<reading>sorprendernos. Permanezcamos indiferentes.
+<reading>―Es muy pequeño su barco a vapor ―dice la señora Bornet―. Es apenas un poco
+<reading>más grande que el otro. ¿Qué te parece?
+<reading>―¡Oh! de lejos un barco a vapor causa más impresión. Además, ahora hacen
+<reading>verdaderas joyas.
+<reading>Mientras tanto los Navot continúan haciendo gestos. Sin duda gritan:
+<reading>―¡Dense prisa!
+<reading>Los Bornet descienden hacia el Marne y se guardan mucho de apresurarse.
+<reading>―Está bien, vamos allá ―dice el señor Bornet―. ¡Qué desagradable, Dios mío!
+<reading>―Nosotros también podríamos tener un barco a vapor si nos apretáramos un poco
+<reading>―dice la señora Bornet.
+<reading>Avanzan a pasos lentos, hacen como que bajan la cabeza, que la giran o que observan
+<reading>el cielo. Es verdad, su intención no es enemistarse con los Navot. Incluso están
+<reading>decididos a admirar adecuadamente, según es costumbre en sociedad, pero acaban de
+<reading>oír romperse, con un ruido seco, el primero de los finos hilos que unen los corazones, y
+<reading>la señora Bornet concluye:
+<reading>―Solo soy una mujer, pero no soy mujer para nada: no olvidaré en mi vida lo que han
+<reading>hecho. ¿Y tú?
+<reading>Sin responder, el señor Bornet la toma de la mano.
+<reading>―¡Alto ahí, amiga mía! ¡Estamos locos!
+<reading>La señora Bornet se detiene, lo mira, mira hacia los Navot y dice:
+<reading>―Mi pobre amigo, ¡qué espejismo!
+<reading>Se frotan los ojos, apartan las hilachas de bruma y se creen cegados. Luego se echan
+<reading>a reír, silenciosamente, hombro con hombro, buenos de nuevo, satisfechos, felices de
+<reading>vivir en este mundo en el que todo tiene una explicación.
+<reading>Sentado entre el señor y la señora Navot, en su barco habitual, un extraño fuma, tal
+<reading>vez algún amigo de París, que, grave bajo su chistera5 negra que brilla al sol, expulsa
+<reading>naturalmente el humo por la boca.
+<reading>Renard, J. (2015). El barco a vapor. En Obras-Colección de Jules Renard. Iberia Literatura.
+<id_question>41.
+<prompt>¿Cuál de las siguientes opciones presenta un título alternativo que represente la
+<prompt>idea central de la lectura 6?
+<choice>A) Una compra inesperada
+<choice>B) Una amistad traicionada
+<choice>C) Un error de percepción
+<choice>D) Un extraño visitante
+<id_question>42.
+<prompt>Según el narrador, ¿en qué situación los Bornet y los Navot desean estar
+<prompt>siempre de acuerdo?
+<choice>A) Cuando navegan en sus barcos.
+<choice>B) Cuando mejoran sus casas.
+<choice>C) Cuando arreglan sus jardines.
+<choice>D) Cuando compran en el mercado.
+<choice>5 Sombrero de ala estrecha y copa alta, casi cilíndrica y plana por encima, generalmente forrado de
+<choice>felpa de seda negra.
+<id_question>43.
+<prompt>En el texto, ¿qué función cumple el siguiente diálogo sostenido entre las dos
+<prompt>señoras?
+<prompt>«Retirados al pueblo, los Bornet son vecinos de los Navot y entre las dos
+<prompt>parejas existe muy buena relación. Les gusta por igual la tranquilidad, el aire
+<prompt>puro, la sombra y el agua. Simpatizan tanto que se imitan.
+<prompt>Por la mañana las señoras van juntas al mercado.
+<prompt>―Me dan ganas de preparar un pato, ―dice la señora Navot.
+<prompt>―¡Ah! A mí también, ―dice la señora Bornet».
+<choice>A) Nombrar los lugares que visitaban frecuentemente las personas del pueblo.
+<choice>B) Cuestionar lo planteado por el narrador sobre la simpatía entre los vecinos.
+<choice>C) Entregar una evidencia sobre el hecho de que los vecinos se imitaban.
+<choice>D) Explicar las aficiones comunes entre los vecinos del pueblo.
+<id_question>44.
+<prompt>Considerando la historia en su totalidad, ¿qué función tiene la descripción inicial
+<prompt>del primer párrafo?
+<choice>A) Permite comprender la perspectiva del narrador.
+<choice>B) Permite comprender la motivación de los personajes.
+<choice>C) Permite comprender el periodo en que transcurre la narración.
+<choice>D) Permite comprender el escenario en que se desarrollan las acciones.
+<id_question>45.
+<prompt>¿Con qué finalidad se menciona al extraño sentado entre los señores Navot?
+<choice>A) Para aclarar la confusión de los Bornet frente a la procedencia del humo.
+<choice>B) Para exponer la alegría de los Bornet debido a la llegada de nuevas amistades.
+<choice>C) Para explicar la sorpresa de los Bornet ante el origen parisino del barco a vapor.
+<choice>D) Para confirmar el motivo de enojo de los Bornet al ser reemplazados por un
+<choice>nuevo amigo.
+<id_question>46.
+<prompt>¿Por qué están molestos los Bornet con sus vecinos?
+<choice>A) Porque los Bornet piensan que debiesen haber sido informados por sus amigos
+<choice>antes de la compra del barco.
+<choice>B) Porque los Bornet consideran que el barco a vapor de los Navot es ostentoso.
+<choice>C) Porque los Bornet están imposibilitados de comprarse un barco a vapor.
+<choice>D) Porque los Bornet creen que sus vecinos deberían haber comprado un barco
+<choice>mejor.
+<id_question>47.
+<prompt>¿Qué representa el barco de vapor en el relato?
+<choice>A) La oportunidad para fortalecer la amistad entre las parejas.
+<choice>B) El elemento que desestabiliza la relación entre los vecinos.
+<choice>C) La ostentación de quienes poseen más poder económico.
+<choice>D) El ascenso social de quienes compiten con sus vecinos.
+<id_question>48.
+<prompt>¿Qué vicio de la sociedad se refleja en la descripción de los personajes y sus
+<prompt>acciones?
+<choice>A) La arrogancia, representada por el hecho de que los Bornet son incapaces de
+<choice>reconocer su error al ver el barco.
+<choice>B) La codicia, encarnada en la Sra. Bornet cuando sostiene que ellos también son
+<choice>capaces de adquirir nuevos bienes.
+<choice>C) La desconfianza, evidenciada en el Sr. Bornet cuando afirma que él había
+<choice>observado que sus vecinos estaban algo raros.
+<choice>D) La hipocresía, reflejada en los Bornet cuando ocultan lo que realmente
+<choice>pensaban de sus amigos por la compra del barco.
+<head_reading>LECTURA 7 (Preguntas 49 a 56)
+<reading>Fragmento del ensayo escrito por Andrew J. Smart, publicado el 2013.
+<reading>El arte y la ciencia de no hacer nada: el piloto automático del cerebro
+<reading>Introducción
+<reading>“Con frecuencia me pregunto si esos días en que nos vemos obligados a
+<reading>permanecer ociosos no son, justamente, los días en los que nos involucramos en la
+<reading>actividad más profunda; si nuestras acciones, aun a pesar de suceder en algún
+<reading>momento posterior, no son sino los últimos reflejos de un vasto movimiento que se
+<reading>produce en nuestro interior en los días de ocio. Como sea, es fundamental
+<reading>entregarse al ocio con confianza, con devoción, incluso, tal vez, con alegría. Los
+<reading>días en que ni siquiera nuestras manos se mueven son tan increíblemente
+<reading>silenciosos que apenas es posible levantarlas sin que oigamos un ruido atronador”.
+<reading>Rainer Maria Rilke
+<reading>Este libro trata sobre el ocio. El ocio es una de las actividades más importantes de la vida;
+<reading>me he decidido a compartir mis ideas sobre el tema, con la esperanza de convencer a
+<reading>otras personas, a pesar de que en el mundo entero el horario laboral está en crecimiento y
+<reading>de que todos los libros sobre administración del tiempo que se ofrecen en el mercado
+<reading>aseguran que se puede, y se debe, “hacer más”. El mensaje de este libro es,
+<reading>precisamente, el opuesto. Sobre la base de los datos disponibles, las neurociencias
+<reading>argumentan que el cerebro necesita descansar. Si bien como resultado de la evolución, el
+<reading>cerebro humano se encuentra exquisitamente preparado para la actividad intensa, para
+<reading>poder funcionar con normalidad también necesita estar ocioso, y buena parte del tiempo,
+<reading>según parece.
+<reading>Siempre actuamos con un propósito, con un objetivo determinado: deberíamos permitirnos
+<reading>actuar más a menudo con piloto automático. En la aviación, el piloto automático es un
+<reading>sistema para controlar una aeronave sin la intervención del piloto; se ideó porque pilotar
+<reading>un avión en forma manual requiere de la atención absoluta y constante de la persona que
+<reading>lo conduce. Cuando los aviones empezaron a volar a mayor altura, mayor velocidad y
+<reading>durante periodos más extendidos, el vuelo manual se volvió causa de graves (y
+<reading>peligrosos) niveles de fatiga en los pilotos. La invención del piloto automático hizo posible
+<reading>que los pilotos pudieran dejar de controlar físicamente la aeronave y ahorrar, de ese
+<reading>modo, su energía mental para las etapas más arriesgadas del vuelo, como el despegue y
+<reading>el aterrizaje. En la actualidad, los pilotos automáticos utilizan programas de software para
+<reading>llevar las aeronaves.
+<reading>El aspecto negativo del piloto automático es que, en ocasiones, los pilotos no saben con
+<reading>claridad si son ellos o el piloto automático quienes comandan la nave, un fenómeno
+<reading>denominado “mode confusion” o “en modo confusión” que ha dado como resultado
+<reading>accidentes fatales.
+<reading>El cerebro también cuenta con piloto automático. Cuando se entra en estado de reposo y
+<reading>se abandona el “control manual” sobre la propia vida, el piloto automático del cerebro se
+<reading>activa. El piloto automático sabe dónde queremos ir en realidad y qué deseamos hacer.
+<reading>Pero el único modo de averiguar qué sabe el piloto automático es dejar de gobernar la
+<reading>aeronave y permitir que sea el piloto automático el que guíe el camino. Así como los
+<reading>pilotos alcanzan niveles peligrosos de fatiga cuando vuelan en modo manual, todos
+<reading>nosotros necesitamos tomarnos un descanso y dejar que sea el piloto automático el que
+<reading>guíe nuestra aeronave durante un tiempo mayor: el truco consiste en evitar el “modo
+<reading>confusión” tomándonos las cosas con tranquilidad, abandonando nuestra agenda y no
+<reading>haciendo nada. Diversas investigaciones psicológicas mostraron que los seres humanos,
+<reading>en especial los estadounidenses, tienden a sentir terror ante el ocio. No obstante, las
+<reading>mismas investigaciones también indican que si las personas no tienen una justificación
+<reading>para estar ocupadas, preferirían estar ociosas. Nuestro contradictorio temor al ocio junto
+<reading>con nuestra preferencia por la pereza puede ser un vestigio de nuestra historia evolutiva.
+<reading>Durante la mayor parte de nuestra evolución, conservar la energía constituyó la prioridad
+<reading>número uno, por la mera razón de que obtener alimento suficiente constituía un desafío
+<reading>físico monumental. En la actualidad, sobrevivir no requiere de mucho (o ningún) esfuerzo
+<reading>físico, por lo que hemos inventado ocupaciones superficiales de todo tipo.
+<reading>Dado el motivo menos importante o, incluso, una razón especiosa para hacer algo, las
+<reading>personas se abocan a la tarea. Quienes disponen de demasiado tiempo libre tienden a
+<reading>deprimirse o aburrirse. No obstante, el ocio puede constituir el único camino verdadero al
+<reading>autoconocimiento, como veremos en el presente volumen. Lo que se le presenta a la
+<reading>conciencia mientras se está ocioso puede muchas veces provenir de las profundidades del
+<reading>yo inconsciente, y esa información puede no ser siempre agradable. Sin embargo, es
+<reading>probable que el cerebro tenga buenas razones para llamar nuestra atención sobre esos
+<reading>datos. Gracias al ocio, grandes ideas enterradas en el inconsciente tienen ocasión de
+<reading>abrirse paso a la conciencia.
+<reading>Nuestra “fobia al ocio” de larga data nos ha conducido casi inexorablemente a nuestra
+<reading>actual cuasi obsesión con estar ocupados. En una profética nota editorial publicada en
+<reading>2006 en la revista Medical Hypotheses, Bruce Charlton postuló que la sociedad moderna
+<reading>se encuentra dominada por empleos cuya característica fundamental reside en el ajetreo.
+<reading>El ajetreo remite al multitasking o multitarea: desempeñar numerosas labores
+<reading>secuenciales y cambiar con frecuencia de una a otra según un plan impuesto
+<reading>externamente. En la mayoría de las carreras profesionales, la única vía hacia el progreso
+<reading>radica en el dominio aparente del ajetreo. Es conocida la historia de Francis Crick, uno de
+<reading>los descubridores del ADN y ganador del Premio Nobel, quien se negó a ascender
+<reading>recorriendo la jerarquía administrativa del mundo académico porque detestaba el ajetreo
+<reading>que tal ascenso le hubiera impuesto.
+<reading>La definición de ocio que exploro en este libro es lo opuesto del exceso de actividad:
+<reading>hacer, quizás, una o dos cosas por día según un programa impuesto internamente. El
+<reading>ajetreo crónico es perjudicial para el cerebro y a largo plazo, puede entrañar
+<reading>consecuencias de gravedad para la salud. A corto plazo, el ajetreo destruye la creatividad,
+<reading>el autoconocimiento, el bienestar emocional, la capacidad social y puede dañar la salud
+<reading>cardiovascular.
+<reading>Desde la perspectiva de las neurociencias, estudiar el ocio en el laboratorio es sencillo. Y
+<reading>en rigor, la increíble actividad cerebral que se produce solo durante el ocio se descubrió
+<reading>por accidente, cuando ciertos sujetos sometidos a estudios de escaneo cerebral se
+<reading>encontraban tumbados en las máquinas soñando despiertos. Amplío la definición de
+<reading>laboratorio del término “ocio” con la inclusión de cualquier momento del día en que un
+<reading>individuo no se encuentra sujeto a un horario impuesto externamente y tiene ocasión de
+<reading>no hacer nada o bien cuenta con la libertad de dejar vagar el pensamiento hacia donde
+<reading>sea que lo lleven las ideas que se presenten en la conciencia en ausencia de
+<reading>ocupaciones. Las verdaderas percepciones, sean artísticas o científicas, emocionales o
+<reading>sociales, solo pueden producirse en esos raros momentos de ocio.
+<reading>Smart, A. (2013). El arte y la ciencia de no hacer nada: el piloto automático del cerebro. Clave intelectual.
+<id_question>49.
+<prompt>¿Con qué aspecto sobre el concepto de ocio se relaciona el siguiente fragmento
+<prompt>de la lectura 7?
+<prompt>«Con frecuencia me pregunto si esos días en que nos vemos obligados a
+<prompt>permanecer ociosos no son, justamente, los días en los que nos involucramos
+<prompt>en la actividad más profunda; si nuestras acciones, aun a pesar de suceder en
+<prompt>algún momento posterior, no son sino los últimos reflejos de un vasto
+<prompt>movimiento que se produce en nuestro interior en los días de ocio».
+<choice>A) Con el autoconocimiento que propicia el ocio.
+<choice>B) Con el piloto automático que posee el cerebro.
+<choice>C) Con el terror que se experimenta frente al ocio.
+<choice>D) Con el daño que provoca el ajetreo en el cerebro.
+<id_question>50.
+<prompt>¿Cuál es la idea principal del siguiente párrafo de la lectura 7?
+<prompt>«Este libro trata sobre el ocio. El ocio es una de las actividades más
+<prompt>importantes de la vida; me he decidido a compartir mis ideas sobre el tema,
+<prompt>con la esperanza de convencer a otras personas, a pesar de que en el mundo
+<prompt>entero el horario laboral está en crecimiento y de que todos los libros sobre
+<prompt>administración del tiempo que se ofrecen en el mercado aseguran que se
+<prompt>puede, y se debe, “hacer más”. El mensaje de este libro es, precisamente, el
+<prompt>opuesto. Sobre la base de los datos disponibles, las neurociencias argumentan
+<prompt>que el cerebro necesita descansar. Si bien como resultado de la evolución, el
+<prompt>cerebro humano se encuentra exquisitamente preparado para la actividad
+<prompt>intensa, para poder funcionar con normalidad también necesita estar ocioso, y
+<prompt>buena parte del tiempo, según parece».
+<choice>A) La literatura sobre gestión del tiempo promueve acortar los tiempos de ocio.
+<choice>B) El funcionamiento adecuado del cerebro necesita de momentos de ocio.
+<choice>C) La evidencia neurocientífica disponible respalda la necesidad de ocio.
+<choice>D) El horario laboral actual restringe las horas dedicadas al ocio.
+<id_question>51.
+<prompt>¿Qué actitud evidencia el emisor frente a las exigencias de “hacer más”?
+<choice>A) Relativista, pues les asigna un valor variable.
+<choice>B) Sesgada, pues distorsiona sus argumentos.
+<choice>C) Crítica, pues polemiza sus fundamentos.
+<choice>D) Analítica, pues examina sus ventajas y desventajas.
+<id_question>52.
+<prompt>Según la lectura 7, ¿qué nos permite hacer el “piloto automático” cuando nuestro
+<prompt>cerebro está en reposo?
+<choice>A) Evadir nuestro inconsciente.
+<choice>B) Planificar labores secuenciales.
+<choice>C) Idear todo tipo de tareas superficiales.
+<choice>D) Abandonar el control de nuestras acciones.
+<id_question>53.
+<prompt>¿Con qué finalidad el emisor usa el término “fobia” para referirse al ocio?
+<choice>A) Para criticar el miedo de las personas ante las multitareas.
+<choice>B) Para fundamentar el temor de las personas al inconsciente.
+<choice>C) Para explicar la urgencia de las personas por mantenerse activas.
+<choice>D) Para llamar la atención de las personas sobre los riesgos del ajetreo.
+<id_question>54.
+<prompt>De acuerdo con lo leído, ¿qué es el multitasking o multitarea?
+<choice>A) Ejecutar distintas acciones simultáneas que pueden derivar en un aparente
+<choice>ajetreo laboral.
+<choice>B) Generar diversas opciones sobre lo que queremos hacer en realidad, activando
+<choice>el piloto automático.
+<choice>C) Cumplir tareas de diferente naturaleza supervisadas por otros para ascender en
+<choice>la jerarquía administrativa.
+<choice>D) Realizar varias labores secuenciales cambiándolas con frecuencia, según un
+<choice>plan impuesto externamente.
+<id_question>55.
+<prompt>¿Cuál es la definición de ocio que el emisor explorará en su libro?
+<choice>A) Hacer algunas actividades al día según un programa personal.
+<choice>B) Inventar ocupaciones superficiales diversas para evitar el esfuerzo físico.
+<choice>C) Actividad cerebral producida por un sujeto que está soñando despierto.
+<choice>D) Estado depresivo experimentado por disponer de demasiado tiempo libre.
+<id_question>56.
+<prompt>Con respecto al ocio, ¿cuál de las siguientes alternativas sintetiza el contenido
+<prompt>de la lectura 7?
+<choice>A) El ocio favorece la actividad del cerebro.
+<choice>B) El ocio permite liberarse del horario impuesto.
+<choice>C) El ocio ha sido revalorado por las neurociencias.
+<choice>D) El ocio ha causado temor en el mundo moderno.
+<head_reading>LECTURA 8 (Preguntas 57 a 65)
+<reading>Artículo escrito por María del Carmen Horno, publicado en el sitio web Letras libres el
+<id_question>2021.
+<prompt>CULTURA
+<prompt>Tus mensajes dicen mucho de ti
+<prompt>Las características lingüísticas de nuestros mensajes pueden ser tan eficaces
+<prompt>para demostrar nuestra autoría que se han comparado a las huellas digitales o
+<prompt>las pruebas de ADN.
+<prompt>Por María del Carmen Horno 04 mayo 2021
+<prompt>La propiedad más atractiva del lenguaje tal vez sea que nos permite expresar nuestros
+<prompt>pensamientos y emociones. Ejercer la capacidad de hablar o de escribir no deja de ser, en
+<prompt>ese sentido, una eficiente herramienta contra la soledad. Me conoces, lector, porque
+<prompt>escribo. Leer los mensajes de alguien, sean estos breves como un tuit o extensos como
+<prompt>un libro, implica dibujar una personalidad, conocer el modo en el que entiende el mundo,
+<prompt>los deseos que le mueven, los miedos que alberga su cerebro. Y de este modo los
+<prompt>hablantes ya no estamos solos en el mundo. Existimos, más allá de nosotros mismos, en
+<prompt>la mente de los otros.
+<prompt>A nadie le es ajeno esto. Por eso las personas más tímidas, aquellas que tienen más
+<prompt>pudor de manifestarse ante los demás, tienden a hablar menos y no son muy amigas de
+<prompt>escribir en las redes sociales. Cada enunciado, cada mensaje es un retazo de nosotros
+<prompt>mismos. Un regalo que ofreces y que te deja desnudo frente al auditorio. No obstante,
+<prompt>hasta hace relativamente poco tiempo creíamos que de alguna manera podíamos
+<prompt>controlar lo que contábamos a los demás. La escritura nos dejaba al descubierto, es cierto,
+<prompt>pero pensábamos que podíamos elegir lo que decíamos y lo que no. Nuestra procedencia
+<prompt>geográfica, nuestra adscripción social, nuestro género o nuestra edad, por ejemplo, eran
+<prompt>datos sobre nuestra biografía que podíamos exponer u ocultar a placer. Siempre, en última
+<prompt>instancia, podíamos dejar nuestros escritos sin firmar. Y entonces todo estaba oculto.
+<prompt>Eso creíamos, pero resulta que no es cierto. Nuestros mensajes revelan mucho de
+<prompt>nosotros y lo hacen más allá del contenido de nuestras palabras y, por tanto (y esto es lo
+<prompt>impactante), más allá de nuestro propio control. Con independencia de lo que estemos
+<prompt>diciendo, las elecciones lingüísticas que hacemos (muchas de ellas automatizadas) están
+<prompt>dibujando un perfil muy específico. Los especialistas pueden saber multitud de detalles
+<prompt>sobre nuestra biografía a través de las palabras que elegimos, la forma en que ordenamos
+<prompt>las oraciones, las decisiones ortográficas que tomamos o, en su versión oral, el modo en
+<id_question>57.
+<prompt>¿Qué idea desmiente la emisora en la lectura 8?
+<choice>A) Que la lingüística forense ayuda a identificar la intención de mensajes
+<choice>amenazantes.
+<choice>B) Que las personas tímidas se expresan con menor frecuencia en las redes
+<choice>sociales.
+<choice>C) Que las personas tienen control de la información que expresan al comunicarse.
+<choice>D) Que el lenguaje permite la expresión de los pensamientos y las emociones.
+<id_question>58.
+<prompt>¿Qué busca destacar la emisora cuando hace referencia a las personas tímidas?
+<choice>A) Que los miedos contenidos en el cerebro condicionan la personalidad de los
+<choice>sujetos.
+<choice>B) Que el desarrollo de las características lingüísticas nos permite la interacción
+<choice>con otros.
+<choice>C) Que el uso de la función expresiva caracteriza tanto el lenguaje hablado como
+<choice>el escrito.
+<choice>D) Que la información que entregamos al comunicarnos revela aspectos de
+<choice>nuestra personalidad.
+<id_question>59.
+<prompt>Según la lectura 8, ¿por qué el lenguaje se convierte en un objeto de estudio para
+<prompt>las ciencias forenses?
+<choice>A) Porque el análisis del lenguaje permite conocer la identidad del emisor de un
+<choice>determinado mensaje.
+<choice>B) Porque la comprensión del lenguaje revela las consecuencias que puede
+<choice>generar el contenido de un mensaje.
+<choice>C) Porque la caracterización del lenguaje define el perfil psicológico del posible
+<choice>destinatario de un mensaje.
+<choice>D) Porque la interpretación del lenguaje deja en evidencia la multiplicidad de
+<choice>propósitos que puede tener un mensaje.
+<id_question>60.
+<prompt>Según la lectura 8, frente a un delito, ¿quién podría plantearse las preguntas que
+<prompt>aparecen en el penúltimo párrafo?
+<choice>A) El emisor del mensaje.
+<choice>B) El sospechoso.
+<choice>C) Un abogado.
+<choice>D) Un jurista.
+<id_question>61.
+<prompt>De acuerdo con el contenido de la lectura 8, ¿qué se entiende por “características
+<prompt>lingüísticas”?
+<choice>A) Aspectos del lenguaje que se encuentran predeterminados genéticamente.
+<choice>B) Particularidades del lenguaje que permiten identificar a quien escribe un texto.
+<choice>C) Rasgos del lenguaje que implican la expresión de la emocionalidad de las
+<choice>personas.
+<choice>D) Cualidades del lenguaje que condicionan la forma en que se comunican las
+<choice>personas.
+<id_question>62.
+<prompt>De acuerdo con el tratamiento del tema, ¿qué actitud adopta la emisora frente a la
+<prompt>función de la lingüística forense?
+<choice>A) Complaciente, porque destaca los distintos métodos y recursos utilizados por la
+<choice>lingüística forense.
+<choice>B) Admirativa, porque resalta los logros y alcances de la lingüística forense en el
+<choice>área de la investigación.
+<choice>C) Prudente, porque demuestra cautela y moderación al abordar los estudios
+<choice>realizados por la lingüística forense.
+<choice>D) Reflexiva, porque proyecta los efectos jurídicos y policiales que posee la
+<choice>lingüística forense acerca del uso del lenguaje.
+<id_question>63.
+<prompt>¿Con qué propósito la emisora del texto menciona la ciencia de los “Big Data”?
+<choice>A) Para cuestionar la información privada que entregan las personas por medio de
+<choice>los mensajes que emiten.
+<choice>B) Para advertir a la población sobre la relación entre el análisis forense y la
+<choice>información que se comparte por las redes.
+<choice>C) Para enfatizar la exposición indiscriminada de las características
+<choice>sociolingüísticas de los sujetos a través de las redes.
+<choice>D) Para exponer a la comunidad una inquietud por el fácil acceso a información
+<choice>confidencial de las personas a través de sus mensajes.
+<id_question>64.
+<prompt>En relación con el contenido de la lectura 8, ¿cuál es el propósito del último
+<prompt>párrafo?
+<choice>A) Plantear el surgimiento de una problemática relacionada con el acceso a
+<choice>información que implica la ciencia de los “Big Data”.
+<choice>B) Exponer una síntesis de los principales impactos generados por el nacimiento
+<choice>de la ciencia de los “Big Data”.
+<choice>C) Informar de una nueva arista de la lingüística forense a partir del surgimiento de
+<choice>la ciencia de los “Big Data”.
+<choice>D) Reflexionar en torno a los avances que ha alcanzado la sociedad gracias a la
+<choice>ciencia de los “Big Data”.
+<id_question>65.
+<prompt>En la lectura 8, ¿a quién se apela directamente en el último párrafo?
+<choice>A) A personas que trabajan en áreas ligadas a la Psicología.
+<choice>B) A personas que tienen conocimientos especializados de Lingüística.
+<choice>C) A personas que utilizan las redes sociales como medio de comunicación.
+<choice>D) A personas que quieren mejorar sus habilidades comunicativas en internet.

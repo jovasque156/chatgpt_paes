@@ -6,12 +6,12 @@ import ipdb
 if __name__ == '__main__':
     '''
     Example of use:
-    python prepare_pdf.py --in_path ensayos/regular_2023/2023-22-03-31-modelo-historia.pdf --out_path preprocessed/regular_2023/historia.txt --label --verbose
+    python prepare_pdf.py --in_path ensayos/admision_2023/regular/2023-22-03-31-modelo-historia.pdf --out_path preprocessed/admision_2023/regular/historia.txt --label --verbose
     
     '''
     parser = argparse.ArgumentParser()
-    parser.add_argument('--in_path', type=str, default='ensayos/regular_2023/2023-22-11-30-paes-oficial-historia-p2023.pdf', help='Path to the PDF file with the PAES test')
-    parser.add_argument('--out_path', type=str, default='preprocessed/regular_2023/historia.txt', help='Path to save the processed file')
+    parser.add_argument('--in_path', type=str, default='ensayos/admision_2023/regular/2023-22-11-30-paes-oficial-historia-p2023.pdf', help='Path to the PDF file with the PAES test')
+    parser.add_argument('--out_path', type=str, default='preprocessed/admision_2023/regular/historia.txt', help='Path to save the processed file')
     parser.add_argument('--start_questions', type=int, default=3, help='Page number where questions start')
     parser.add_argument('--end_questions', type=int, default=47, help='Page number where questions end')
     parser.add_argument('--label', action='store_true', help='Set to labeling the pdf')
